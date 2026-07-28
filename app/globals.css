@@ -1,0 +1,595 @@
+* { box-sizing: border-box; }
+
+body {
+  margin: 0;
+  background: #0b0b0f;
+  color: #fff;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+}
+
+.topbar {
+  display: flex;
+  align-items: center;
+  gap: 1.5rem;
+  padding: 1rem 2rem;
+  position: sticky;
+  top: 0;
+  background: linear-gradient(to bottom, #0b0b0f 70%, transparent);
+  z-index: 10;
+}
+
+.topbar h1 { font-size: 1.1rem; margin: 0; white-space: nowrap; }
+
+.search {
+  flex: 1;
+  max-width: 400px;
+  padding: 0.5rem 0.75rem;
+  border-radius: 4px;
+  border: none;
+  background: #1f1f26;
+  color: #fff;
+}
+
+.auth { margin-left: auto; display: flex; align-items: center; gap: 0.5rem; }
+
+.admin-link {
+  background: #fff;
+  color: purple;
+  border: none;
+  padding: 0.4rem 0.9rem;
+  font-size: 0.9rem;
+  border-radius: 4px;
+  cursor: pointer;
+  font-weight: bold;
+  text-decoration: none;
+  box-sizing: border-box;
+}
+
+.auth button {
+  background: #e50914;
+  color: #fff;
+  border: none;
+  padding: 0.4rem 0.9rem;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+/* Homepage view switcher (Playlists / By Artist / By Genre) */
+.view-tabs {
+  display: flex;
+  gap: 0.5rem;
+  padding: 0.25rem 2rem 0;
+  flex-wrap: wrap;
+}
+.view-tabs button {
+  background: #1f1f26;
+  color: #ccc;
+  border: 1px solid #2a2a33;
+  padding: 0.4rem 1rem;
+  border-radius: 999px;
+  cursor: pointer;
+  font-size: 0.9rem;
+}
+.view-tabs button.active {
+  background: #e50914;
+  color: #fff;
+  border-color: #e50914;
+}
+
+/* Filter + sort controls (shared by homepage and admin) */
+.filters {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  padding: 0.5rem 2rem 0;
+  align-items: center;
+}
+.filters select {
+  padding: 0.4rem 0.6rem;
+  border-radius: 4px;
+  border: 1px solid #2a2a33;
+  background: #1f1f26;
+  color: #fff;
+  font-size: 0.85rem;
+  max-width: 220px;
+}
+.filters-reset {
+  background: #2a2a33;
+  color: #fff;
+  border: none;
+  padding: 0.4rem 0.8rem;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 0.85rem;
+}
+.filters-empty { color: #888; padding: 0 2rem; }
+
+/* Flat results grid shown when filters/sort/search are active */
+.song-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+  gap: 0.75rem;
+}
+
+.row { margin: 1.5rem 0; padding-left: 2rem; }
+.row-header {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  margin-bottom: 0.5rem;
+  padding-right: 2rem;
+}
+.row-title { font-size: 1.1rem; margin: 0; }
+.row-add-all {
+  background: #e50914;
+  color: #fff;
+  border: none;
+  padding: 0.35rem 0.8rem;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 0.8rem;
+  white-space: nowrap;
+}
+.row-add-all:hover { background: #b0060f; }
+
+.row-scroll {
+  display: flex;
+  gap: 0.75rem;
+  overflow-x: auto;
+  padding-bottom: 0.5rem;
+  scroll-snap-type: x proximity;
+
+  /* Firefox Support */
+  scrollbar-color: #ff0000 transparent; /* Red thumb, transparent track */
+  scrollbar-width: thin;
+}
+
+/* Chrome, Safari, and Edge Support */
+.row-scroll::-webkit-scrollbar {
+  height: 8px; /* Keeps the bar thin and modern */
+}
+
+.row-scroll::-webkit-scrollbar-track {
+  background: transparent; /* No ugly gray background box */
+}
+
+.row-scroll::-webkit-scrollbar-thumb {
+  background-color: #ff0000; /* Your requested red color */
+  border-radius: 10px; /* Rounds the edges for a premium look */
+}
+
+/* Optional: Slight fade on hover for interactivity */
+.row-scroll::-webkit-scrollbar-thumb:hover {
+  background-color: #cc0000; 
+}
+
+.card {
+  flex: 0 0 260px;
+  scroll-snap-align: start;
+  background: #16161c;
+  border-radius: 6px;
+  overflow: hidden;
+  transition: transform 0.15s ease;
+}
+
+.card:hover { transform: scale(1.05); z-index: 5; position: relative; }
+
+.card-media { 
+  position: relative; 
+  width: 100%; 
+  aspect-ratio: 16/9; 
+  background: #000; 
+}
+
+.card-media img, .card-media iframe {
+  width: 100%; 
+  height: 100%; 
+  object-fit: cover; 
+  border: none;
+}
+
+.card-info { padding: 0.5rem 0.6rem; }
+.card-title { margin: 0; font-size: 0.9rem; font-weight: 600; }
+.card-artist { margin: 0.1rem 0 0.4rem; font-size: 0.8rem; color: #aaa; }
+.card-game-version { margin: 0.1rem 0 0.4rem; font-size: 0.8rem; color: #aaa; }
+.card-add {
+  font-size: 0.75rem;
+  background: #2a2a33;
+  color: #fff;
+  border: none;
+  padding: 0.3rem 0.5rem;
+  border-radius: 4px;
+  cursor: pointer;
+  width: 100%;
+}
+.card-add:hover { background: #e50914; }
+
+.tray {
+  position: sticky;
+  bottom: 0;
+  background: #14141a;
+  border-top: 1px solid #2a2a33;
+  padding: 0.75rem 2rem;
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  flex-wrap: wrap;
+}
+
+.tray-list { display: flex; gap: 0.4rem; flex-wrap: wrap; max-width: 50%; }
+.tray-item {
+  background: #2a2a33;
+  padding: 0.2rem 0.5rem;
+  border-radius: 4px;
+  font-size: 0.8rem;
+  display: flex;
+  align-items: center;
+  gap: 0.3rem;
+}
+.tray-item button { background: none; border: none; color: #aaa; cursor: pointer; }
+
+.tray input {
+  padding: 0.4rem;
+  border-radius: 4px;
+  border: none;
+  background: #1f1f26;
+  color: #fff;
+}
+
+.tray button:not(.tray-item button) {
+  background: #e50914;
+  color: #fff;
+  border: none;
+  padding: 0.4rem 0.9rem;
+  border-radius: 4px;
+  cursor: pointer;
+}
+.tray button:disabled { background: #555; cursor: not-allowed; }
+
+.tray a { color: #4ea1ff; }
+.tray .error { color: #ff6b6b; font-size: 0.85rem; }
+
+.tray button.tray-clear { background: #2a2a33; }
+.tray button.tray-clear:hover:not(:disabled) { background: #3a3a44; }
+
+/* ---------- Admin panel ---------- */
+.admin-gate {
+  max-width: 480px;
+  margin: 4rem auto;
+  padding: 2rem;
+  text-align: center;
+}
+.admin-gate button {
+  background: #e50914;
+  color: #fff;
+  border: none;
+  padding: 0.5rem 1rem;
+  border-radius: 4px;
+  cursor: pointer;
+}
+.admin-gate code {
+  background: #1f1f26;
+  padding: 0.1rem 0.35rem;
+  border-radius: 3px;
+}
+
+.admin { padding: 1rem 1.5rem; }
+.admin-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  gap: 1rem;
+  flex-wrap: wrap;
+  border-bottom: 1px solid #2a2a33;
+  padding-bottom: 0.75rem;
+}
+.admin-header h1 { margin: 0; font-size: 1.3rem; }
+.admin-hint { color: #888; font-size: 0.8rem; margin: 0.25rem 0; }
+.admin-hint a { color: #4ea1ff; }
+
+.admin-actions {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  flex-wrap: wrap;
+}
+.admin-actions button,
+.admin-linkbtn {
+  background: #e50914;
+  color: #fff;
+  border: none;
+  padding: 0.45rem 0.9rem;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 0.85rem;
+  text-decoration: none;
+  display: inline-block;
+}
+.admin-actions button:disabled { background: #555; cursor: not-allowed; }
+.admin-secondary, .admin-linkbtn { background: #2a2a33 !important; }
+.admin-dirty { color: #ffb84d; font-size: 0.85rem; }
+.admin-ok { color: #4ade80; font-size: 0.85rem; }
+.admin-error { color: #ff6b6b; font-size: 0.85rem; }
+
+.admin-body {
+  display: flex;
+  gap: 1.5rem;
+  margin-top: 1rem;
+  align-items: flex-start;
+}
+
+.admin-list {
+  flex: 0 0 320px;
+  max-width: 320px;
+}
+.admin-list-controls { display: flex; gap: 0.5rem; }
+.admin-search {
+  flex: 1;
+  padding: 0.5rem 0.65rem;
+  border-radius: 4px;
+  border: none;
+  background: #1f1f26;
+  color: #fff;
+}
+.admin-list-controls button {
+  background: #2a2a33;
+  color: #fff;
+  border: none;
+  border-radius: 4px;
+  padding: 0 0.75rem;
+  cursor: pointer;
+  white-space: nowrap;
+}
+.admin-list ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  max-height: 70vh;
+  overflow-y: auto;
+  border: 1px solid #2a2a33;
+  border-radius: 6px;
+}
+.admin-list li {
+  padding: 0.5rem 0.7rem;
+  cursor: pointer;
+  border-bottom: 1px solid #1a1a20;
+  display: flex;
+  flex-direction: column;
+}
+.admin-list li:hover { background: #1a1a20; }
+.admin-list li.active { background: #2a2a33; }
+.admin-list-title { font-size: 0.9rem; }
+.admin-list-artist { font-size: 0.75rem; color: #888; }
+
+/* Compact the shared filter bar when it sits in the admin sidebar */
+.admin-list .filters { padding: 0.5rem 0 0; }
+.admin-list .filters select { flex: 1 1 45%; max-width: none; }
+
+.admin-editor {
+  flex: 1;
+  max-width: 640px;
+  background: #14141a;
+  border: 1px solid #2a2a33;
+  border-radius: 6px;
+  padding: 1.25rem;
+}
+.admin-editor-head {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 1rem;
+}
+.admin-editor-head h2 { margin: 0; font-size: 1.1rem; }
+.admin-editor-head-actions { display: flex; gap: 0.5rem; }
+.admin-editor-head-actions .admin-secondary {
+  border: none;
+  border-radius: 4px;
+  padding: 0.4rem 0.8rem;
+  cursor: pointer;
+  color: #fff;
+  font-size: 0.85rem;
+}
+
+.admin-field { display: flex; flex-direction: column; margin-bottom: 0.75rem; }
+.admin-field span { font-size: 0.75rem; color: #aaa; margin-bottom: 0.25rem; }
+.admin-field input {
+  padding: 0.45rem 0.6rem;
+  border-radius: 4px;
+  border: 1px solid #2a2a33;
+  background: #1f1f26;
+  color: #fff;
+}
+.admin-field-row { display: flex; gap: 1rem; }
+.admin-field-row .admin-field { flex: 1; }
+
+.admin-danger, .admin-editor .admin-danger {
+  background: #3a1a1a;
+  color: #ff6b6b;
+  border: 1px solid #5a2a2a;
+  padding: 0.4rem 0.8rem;
+  border-radius: 4px;
+  cursor: pointer;
+}
+.admin-preview-img {
+  margin-top: 0.75rem;
+  max-width: 240px;
+  border-radius: 4px;
+}
+.admin-warn {
+  margin: 0.75rem 0 0;
+  padding: 0.6rem 0.9rem;
+  background: #3a2a10;
+  border: 1px solid #6a4a1a;
+  border-radius: 4px;
+  color: #ffcc66;
+  font-size: 0.85rem;
+}
+.admin-field-warn { color: #ffb84d; font-size: 0.72rem; margin-top: 0.25rem; }
+
+/* Admin tab switcher (Songs / Playlists) */
+.admin-tabs {
+  display: flex;
+  gap: 0.5rem;
+  margin: 0.75rem 0;
+  border-bottom: 1px solid #2a2a33;
+}
+.admin-tabs button {
+  background: none;
+  color: #aaa;
+  border: none;
+  border-bottom: 2px solid transparent;
+  padding: 0.5rem 1rem;
+  cursor: pointer;
+  font-size: 0.95rem;
+}
+.admin-tabs button.active { color: #fff; border-bottom-color: #e50914; }
+
+.collections-actions {
+  justify-content: flex-end;
+  margin-bottom: 0.5rem;
+  min-height: 2rem;
+}
+
+.admin-subhead { font-size: 0.85rem; color: #ccc; margin: 1rem 0 0.4rem; font-weight: 600; }
+
+/* Playlist list rows carry their own reorder controls */
+.admin-list li.playlist-row {
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  gap: 0.5rem;
+}
+.playlist-item-main {
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+  min-width: 0;
+  cursor: pointer;
+}
+.playlist-item-actions { display: flex; gap: 0.25rem; flex: 0 0 auto; }
+.playlist-item-actions button {
+  background: #2a2a33;
+  color: #fff;
+  border: none;
+  border-radius: 4px;
+  padding: 0.2rem 0.45rem;
+  cursor: pointer;
+  font-size: 0.8rem;
+}
+.playlist-item-actions button:disabled { opacity: 0.4; cursor: not-allowed; }
+
+/* Ordered song list inside a playlist */
+.collection-songs { list-style: none; margin: 0; padding: 0; }
+.collection-songs li {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 0.5rem;
+  padding: 0.4rem 0.5rem;
+  border: 1px solid #2a2a33;
+  border-radius: 4px;
+  margin-bottom: 0.35rem;
+}
+.collection-song-info { flex: 1; font-size: 0.9rem; }
+.collection-song-actions { display: flex; gap: 0.3rem; }
+.collection-song-actions button {
+  background: #2a2a33;
+  color: #fff;
+  border: none;
+  border-radius: 4px;
+  padding: 0.25rem 0.5rem;
+  cursor: pointer;
+  font-size: 0.8rem;
+}
+.collection-song-actions button:disabled { opacity: 0.4; cursor: not-allowed; }
+.collection-song-actions .admin-danger { background: #3a1a1a; }
+
+/* Add-a-song search results */
+.collection-search-results {
+  list-style: none;
+  margin: 0.25rem 0 0;
+  padding: 0;
+  border: 1px solid #2a2a33;
+  border-radius: 6px;
+  max-height: 40vh;
+  overflow-y: auto;
+}
+.collection-search-results li {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  padding: 0.45rem 0.6rem;
+  cursor: pointer;
+  border-bottom: 1px solid #1a1a20;
+}
+.collection-search-results li:hover { background: #1a1a20; }
+.collection-search-results .admin-list-title { flex: 0 0 auto; }
+.collection-search-results .admin-list-artist { flex: 1; }
+.collection-add { color: #4ade80; font-size: 0.8rem; }
+
+
+/* Center and line up footer items */
+.footer-inline-content {
+  display: flex;
+  align-items: left;
+  justify-content: left; /* Centers the whole row on the screen */
+  gap: 12px;               /* Adds equal spacing between text, dot, and button */
+  flex-wrap: wrap;         /* Safely wraps on small mobile screens */
+}
+
+/* Clear margins that blocks might inherit naturally */
+.footer-text {
+  margin: 0;
+}
+
+/* Subtle separator style */
+.footer-separator {
+  color: #ccc;
+  user-select: none;
+}
+
+/* Make button look seamlessly like text links next to it */
+.footer-modal-trigger {
+  background: none;
+  border: none;
+  color: inherit;
+  text-decoration: underline;
+  cursor: pointer;
+  padding: 0;
+  font-family: inherit;
+  font-size: inherit;
+}
+
+/* Reused Modal Styling */
+.info-modal {
+  border: none;
+  border-radius: 8px;
+  padding: 24px;
+  max-width: 400px;
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.2);
+  background: black;
+}
+.info-modal::backdrop {
+  background: rgba(0, 0, 0, 0.6);
+  backdrop-filter: blur(2px);
+}
+.modal-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 12px;
+  color:white;
+}
+
+.modal-body {
+  color:white;
+}
+
+.close-btn {
+  background: none;
+  border: none;
+  font-size: 24px;
+  cursor: pointer;
+  color: white;
+}
+

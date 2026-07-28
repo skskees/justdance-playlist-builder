@@ -1,0 +1,21 @@
+Genres & Styles
+Eras: 70s, 80s, 90s, 2010s, 2020s
+Music Genres: Pop, Rock, Disco, Bollywood, Hip Hop, Afrobeats, Dancehall, Arabic
+Dance Styles: Contemporary, Line Dance, Bollywood, Breakdance
+
+Dancer & Difficulty Settings
+Dancer Count: Solo, Duo, Trio, Quartet
+Skill Level: Arm-friendly, Calm, Intense, Sweat
+
+Vibes, Themes & Moods
+Moods: Angry, Cute, Dark, Magical, Motivational
+Visual Themes: Colorful, Animals, Cartoons, Classical
+
+My tags:
+Music Genres: Afrobeat, Calypso, Christmas, Classical, Country, Dancehall, Disco, Doo-wop, 
+    EDM, Electro, Eurobeat, Flamenco, Funk, Gospel, Hi-NRG, Jazz, Merengue, New Wave, Novelty,
+    Psychedelic, Reggae, Salsa, Samba, Ska, Surf, Swing, Trap, Hip Hop, House, Instrumental,
+    Reggaeton
+
+TODO: Pop, R&B, Rap Elements, Rock
+//https://justdance.fandom.com/wiki/Category:Song_Genres

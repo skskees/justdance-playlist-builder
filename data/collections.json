@@ -1,0 +1,35 @@
+[
+  {
+    "id": "dojo-favorites",
+    "name": "Dojo Favorites",
+    "songIds": [
+      "jd1978-Rasputin",
+      "jd2008-PoPiPo",
+      "jd2003-DragosteaDinTei",
+      "jd1953-IkoIko",
+      "jd2015-BangBangBang",
+      "jd2003-Sway(QuiénSerá)",
+      "jd1970-IntheSummertime"
+    ]
+  },
+  {
+    "id": "most-popular-all-time",
+    "name": "Most Popular of All Time",
+    "songIds": [
+      "jd1978-Rasputin"
+    ]
+  },
+  {
+    "id": "panda-fever",
+    "name": "Panda Fever!!",
+    "songIds": [
+      "jd2012-C’mon",
+      "jd2013-Timber",
+      "jd1976-DaddyCool",
+      "jd2019-ConCalma",
+      "jd1977-Mr.BlueSky",
+      "jd2009-IGottaFeeling",
+      "jd2020-PacaDance"
+    ]
+  }
+]
