@@ -1,9 +1,0 @@
-{
-  "permissions": {
-    "allow": [
-      "PowerShell($songs = Get-Content \"c:\\\\Users\\\\Skyler Skees\\\\Downloads\\\\justdance-playlist-builder\\\\data\\\\songs.json\" -Raw | ConvertFrom-Json; \"Count: $\\($songs.Count\\)\"; $keys = @{}; foreach \\($s in $songs\\) { foreach \\($p in $s.PSObject.Properties.Name\\) { $keys[$p] = $true } }; \"All keys seen:\"; $keys.Keys | Sort-Object)",
-      "PowerShell(npm run build 2>&1)",
-      "PowerShell($p = \"c:\\\\Users\\\\Skyler Skees\\\\Downloads\\\\justdance-playlist-builder\\\\.next\"; if \\(Test-Path $p\\) { try { Remove-Item -Recurse -Force $p -ErrorAction Stop; \"Deleted .next\" } catch { \"Could not delete \\(is the dev server still running? Stop it and rerun\\): $\\($_.Exception.Message\\)\" } } else { \".next already gone\" })"
-    ]
-  }
-}
