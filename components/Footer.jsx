@@ -59,7 +59,7 @@ return (
         </button>
     </div>
     <div className="modal-body">
-        <p>Hi! I'm Skyler, the developer of the Just Dance Playlist Builder.</p>
+        <p>Hi! I'm <a href="https://github.com/skskees" target="_blank" rel="noopener noreferrer" style={{textDecoration: 'none', color: '#e0b5b5'}}>Skyler</a>, the developer of the Just Dance Playlist Builder.</p>
         <p>This is a passion project built to replace the hole in my heart that Ubisoft left when they discontinued Just Dance Unlimited in July 2024.</p>
         <p>Just Dance+ just isn't the same, and they don't include all of the songs to experience at once!</p>
         <p style={{textDecoration: 'underline'}}>Planned Features</p>
