@@ -3,7 +3,7 @@ import Providers from "../components/Providers";
 import Footer from "../components/Footer";
 
 export const metadata = {
-  title: "Just Dance Playlist Builder",
+  title: "The Dance Playlist Builder",
   description: "Build a YouTube playlist from the Just Dance catalog",
   icons:{
     icon: [

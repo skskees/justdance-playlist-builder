@@ -39,7 +39,7 @@ export async function POST(request) {
       requestBody: {
         snippet: {
           title,
-          description: description || "Built with Just Dance Playlist Builder",
+          description: description || "Built with The Dance Playlist Builder",
         },
         status: { privacyStatus: "unlisted" },
       },

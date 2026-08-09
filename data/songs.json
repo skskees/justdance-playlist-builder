@@ -1,5 +1,480 @@
 [
   {
+    "id": "2013-SpookyScarySkeletons",
+    "game": "Fanmade",
+    "title": "Spooky Scary Skeletons",
+    "titleWikiUrl": "",
+    "artist": "The Living Tombstone",
+    "year": "2013",
+    "mode": "Solo",
+    "difficulty": "Easy",
+    "effort": "Chill",
+    "iconUrl": "",
+    "genres": [
+      "Pop"
+    ],
+    "youtubeId": "OcNRfAyqKLw",
+    "thumbnail": "https://i.ytimg.com/vi/OcNRfAyqKLw/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45
+  },
+  {
+    "id": "1974-Waterloo",
+    "game": "ABBA: You Can Dance",
+    "title": "Waterloo",
+    "titleWikiUrl": "https://justdance.fandom.com/wiki/Waterloo",
+    "artist": "ABBA",
+    "year": "1974",
+    "mode": "Quartet",
+    "difficulty": "Easy",
+    "effort": "Chill",
+    "iconUrl": "https://static.wikia.nocookie.net/justdance/images/5/52/Waterloo_abba_cover_generic.png/revision/latest/scale-to-width-down/150?cb=20180104014659",
+    "genres": [
+      "Pop"
+    ],
+    "youtubeId": "F-yvJe-gz-s",
+    "thumbnail": "https://i.ytimg.com/vi/F-yvJe-gz-s/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45
+  },
+  {
+    "id": "1976-WhenIKissedTheTeacher",
+    "game": "ABBA: You Can Dance",
+    "title": "When I Kissed The Teacher",
+    "titleWikiUrl": "https://justdance.fandom.com/wiki/When_I_Kissed_The_Teacher",
+    "artist": "ABBA",
+    "year": "1976",
+    "mode": "Solo",
+    "difficulty": "Medium",
+    "effort": "Chill",
+    "iconUrl": "https://static.wikia.nocookie.net/justdance/images/1/10/Kissedtheteacher_abba_cover_generic.png/revision/latest/scale-to-width-down/150?cb=20180104014706",
+    "genres": [
+      "Pop"
+    ],
+    "youtubeId": "OS7jMKsLpaM",
+    "thumbnail": "https://i.ytimg.com/vi/OS7jMKsLpaM/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45
+  },
+  {
+    "id": "1979-Voulez-Vous",
+    "game": "ABBA: You Can Dance",
+    "title": "Voulez-Vous",
+    "titleWikiUrl": "https://justdance.fandom.com/wiki/Voulez-Vous",
+    "artist": "ABBA",
+    "year": "1979",
+    "mode": "Solo",
+    "difficulty": "Medium",
+    "effort": "Chill",
+    "iconUrl": "https://static.wikia.nocookie.net/justdance/images/a/ad/Voulezvous_abba_cover_generic.png/revision/latest/scale-to-width-down/150?cb=20180104014654",
+    "genres": [
+      "Pop"
+    ],
+    "youtubeId": "d0wWX46P5fw",
+    "thumbnail": "https://i.ytimg.com/vi/d0wWX46P5fw/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45
+  },
+  {
+    "id": "1980-TheWinnerTakesItAll",
+    "game": "ABBA: You Can Dance",
+    "title": "The Winner Takes It All",
+    "titleWikiUrl": "https://justdance.fandom.com/wiki/The_Winner_Takes_It_All",
+    "artist": "ABBA",
+    "year": "1980",
+    "mode": "Solo",
+    "difficulty": "Hard",
+    "effort": "Chill",
+    "iconUrl": "https://static.wikia.nocookie.net/justdance/images/c/cb/Thewinner_abba_cover_generic.png/revision/latest/scale-to-width-down/150?cb=20180104014711",
+    "genres": [
+      "Pop"
+    ],
+    "youtubeId": "Ofi7yXfIWcs",
+    "thumbnail": "https://i.ytimg.com/vi/Ofi7yXfIWcs/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45
+  },
+  {
+    "id": "1977-TakeaChanceonMe",
+    "game": "ABBA: You Can Dance",
+    "title": "Take a Chance on Me",
+    "titleWikiUrl": "https://justdance.fandom.com/wiki/Take_a_Chance_on_Me",
+    "artist": "ABBA",
+    "year": "1977",
+    "mode": "Solo",
+    "difficulty": "Medium",
+    "effort": "Moderate",
+    "iconUrl": "https://static.wikia.nocookie.net/justdance/images/9/92/Takeachance_abba_cover_generic.png/revision/latest/scale-to-width-down/150?cb=20180104014648",
+    "genres": [
+      "Pop"
+    ],
+    "youtubeId": "xxsi-0s1M6Y",
+    "thumbnail": "https://i.ytimg.com/vi/xxsi-0s1M6Y/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45
+  },
+  {
+    "id": "1980-SuperTrouper",
+    "game": "ABBA: You Can Dance",
+    "title": "Super Trouper",
+    "titleWikiUrl": "https://justdance.fandom.com/wiki/Super_Trouper",
+    "artist": "ABBA",
+    "year": "1980",
+    "mode": "Solo",
+    "difficulty": "Easy",
+    "effort": "Chill",
+    "iconUrl": "https://static.wikia.nocookie.net/justdance/images/f/fb/Supertrouper_abba_cover_generic.png/revision/latest/scale-to-width-down/150?cb=20180104014623",
+    "genres": [
+      "Pop"
+    ],
+    "youtubeId": "whAyqyicuQM",
+    "thumbnail": "https://i.ytimg.com/vi/whAyqyicuQM/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45
+  },
+  {
+    "id": "1978-SummerNightCity",
+    "game": "ABBA: You Can Dance",
+    "title": "Summer Night City",
+    "titleWikiUrl": "https://justdance.fandom.com/wiki/Summer_Night_City",
+    "artist": "ABBA",
+    "year": "1978",
+    "mode": "Solo",
+    "difficulty": "Easy",
+    "effort": "Chill",
+    "iconUrl": "https://static.wikia.nocookie.net/justdance/images/1/13/Summernight_abba_cover_generic.png/revision/latest/scale-to-width-down/150?cb=20180104014617",
+    "genres": [
+      "Pop"
+    ],
+    "youtubeId": "E9JMjviNfxw",
+    "thumbnail": "https://i.ytimg.com/vi/E9JMjviNfxw/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45
+  },
+  {
+    "id": "1975-SOS",
+    "game": "ABBA: You Can Dance",
+    "title": "SOS",
+    "titleWikiUrl": "https://justdance.fandom.com/wiki/SOS_(ABBA_song)",
+    "artist": "ABBA",
+    "year": "1975",
+    "mode": "Duet",
+    "difficulty": "Medium",
+    "effort": "Chill",
+    "iconUrl": "https://static.wikia.nocookie.net/justdance/images/3/33/Sos_abba_cover_generic.png/revision/latest/scale-to-width-down/150?cb=20180104014608",
+    "genres": [
+      "Pop"
+    ],
+    "youtubeId": "o6q4yyieN84",
+    "thumbnail": "https://i.ytimg.com/vi/o6q4yyieN84/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45
+  },
+  {
+    "id": "1972-PeopleNeedLove",
+    "game": "ABBA: You Can Dance",
+    "title": "People Need Love",
+    "titleWikiUrl": "https://justdance.fandom.com/wiki/People_Need_Love",
+    "artist": "ABBA",
+    "year": "1972",
+    "mode": "Quartet",
+    "difficulty": "Medium",
+    "effort": "Chill",
+    "iconUrl": "https://static.wikia.nocookie.net/justdance/images/f/f8/Peopleneed_abba_cover_generic.png/revision/latest/scale-to-width-down/150?cb=20180104014557",
+    "genres": [
+      "Pop"
+    ],
+    "youtubeId": "_T3y7EFQGDg",
+    "thumbnail": "https://i.ytimg.com/vi/_T3y7EFQGDg/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45
+  },
+  {
+    "id": "1976-MoneyMoneyMoney",
+    "game": "ABBA: You Can Dance",
+    "title": "Money, Money, Money",
+    "titleWikiUrl": "https://justdance.fandom.com/wiki/Money,_Money,_Money",
+    "artist": "ABBA",
+    "year": "1976",
+    "mode": "Solo",
+    "difficulty": "Medium",
+    "effort": "Chill",
+    "iconUrl": "https://static.wikia.nocookie.net/justdance/images/5/56/Money_abba_cover_generic.png/revision/latest/scale-to-width-down/150?cb=20180104014545",
+    "genres": [
+      "Pop"
+    ],
+    "youtubeId": "Q423W66etO8",
+    "thumbnail": "https://i.ytimg.com/vi/Q423W66etO8/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45
+  },
+  {
+    "id": "1975-MammaMia",
+    "game": "ABBA: You Can Dance",
+    "title": "Mamma Mia",
+    "titleWikiUrl": "https://justdance.fandom.com/wiki/Mamma_Mia_(ABBA:_You_Can_Dance)",
+    "artist": "ABBA",
+    "year": "1975",
+    "mode": "Quartet",
+    "difficulty": "Easy",
+    "effort": "Chill",
+    "iconUrl": "https://static.wikia.nocookie.net/justdance/images/e/e5/Mammamia_abba_cover_generic.png/revision/latest/scale-to-width-down/150?cb=20180104014528",
+    "genres": [
+      "Pop"
+    ],
+    "youtubeId": "yx290VdK65s",
+    "thumbnail": "https://i.ytimg.com/vi/yx290VdK65s/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45
+  },
+  {
+    "id": "1980-LayAllYourLoveOnMe",
+    "game": "ABBA: You Can Dance",
+    "title": "Lay All Your Love On Me",
+    "titleWikiUrl": "https://justdance.fandom.com/wiki/Lay_All_Your_Love_On_Me",
+    "artist": "ABBA",
+    "year": "1980",
+    "mode": "Solo",
+    "difficulty": "Easy",
+    "effort": "Chill",
+    "iconUrl": "https://static.wikia.nocookie.net/justdance/images/2/27/Layallyourloveonme_abba_cover_generic.png/revision/latest/scale-to-width-down/150?cb=20180104014523",
+    "genres": [
+      "Pop"
+    ],
+    "youtubeId": "bgV4HDGWUKo",
+    "thumbnail": "https://i.ytimg.com/vi/bgV4HDGWUKo/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45
+  },
+  {
+    "id": "1976-KnowingMeKnowingYou",
+    "game": "ABBA: You Can Dance",
+    "title": "Knowing Me, Knowing You",
+    "titleWikiUrl": "https://justdance.fandom.com/wiki/Knowing_Me,_Knowing_You",
+    "artist": "ABBA",
+    "year": "1976",
+    "mode": "Quartet",
+    "difficulty": "Easy",
+    "effort": "Chill",
+    "iconUrl": "https://static.wikia.nocookie.net/justdance/images/4/42/Knowingme_abba_cover_generic.png/revision/latest/scale-to-width-down/150?cb=20180104014518",
+    "genres": [
+      "Pop"
+    ],
+    "youtubeId": "mn4cQK3CMfU",
+    "thumbnail": "https://i.ytimg.com/vi/mn4cQK3CMfU/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45
+  },
+  {
+    "id": "1979-IfItWasn'tfortheNights",
+    "game": "ABBA: You Can Dance",
+    "title": "If It Wasn't for the Nights",
+    "titleWikiUrl": "https://justdance.fandom.com/wiki/If_It_Wasn%E2%80%99t_for_the_Nights",
+    "artist": "ABBA",
+    "year": "1979",
+    "mode": "Solo",
+    "difficulty": "Easy",
+    "effort": "Chill",
+    "iconUrl": "https://static.wikia.nocookie.net/justdance/images/d/d2/Ifitwasnt4thenights_abba_cover_generic.png/revision/latest/scale-to-width-down/150?cb=20180104014551",
+    "genres": [
+      "Pop"
+    ],
+    "youtubeId": "33M8cBQp8Wo",
+    "thumbnail": "https://i.ytimg.com/vi/33M8cBQp8Wo/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45
+  },
+  {
+    "id": "1977-I'maMarionette",
+    "game": "ABBA: You Can Dance",
+    "title": "I'm a Marionette",
+    "titleWikiUrl": "https://justdance.fandom.com/wiki/I%E2%80%99m_a_Marionette",
+    "artist": "ABBA",
+    "year": "1977",
+    "mode": "Duet",
+    "difficulty": "Easy",
+    "effort": "Chill",
+    "iconUrl": "https://static.wikia.nocookie.net/justdance/images/6/6f/Marionnette_abba_cover_generic.png/revision/latest/scale-to-width-down/150?cb=20180104014539",
+    "genres": [
+      "Pop"
+    ],
+    "youtubeId": "jyeEkfCGrtY",
+    "thumbnail": "https://i.ytimg.com/vi/jyeEkfCGrtY/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45
+  },
+  {
+    "id": "1975-IDoIDoIDoIDoIDo",
+    "game": "ABBA: You Can Dance",
+    "title": "I Do, I Do, I Do, I Do, I Do",
+    "titleWikiUrl": "https://justdance.fandom.com/wiki/I_Do,_I_Do,_I_Do,_I_Do,_I_Do",
+    "artist": "ABBA",
+    "year": "1975",
+    "mode": "Duet",
+    "difficulty": "Easy",
+    "effort": "Chill",
+    "iconUrl": "https://static.wikia.nocookie.net/justdance/images/9/99/Idoidoido_abba_cover_generic.png/revision/latest/scale-to-width-down/150?cb=20180104014513",
+    "genres": [
+      "Pop"
+    ],
+    "youtubeId": "sH7oboQ0OEQ",
+    "thumbnail": "https://i.ytimg.com/vi/sH7oboQ0OEQ/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45
+  },
+  {
+    "id": "1974-HoneyHoney",
+    "game": "ABBA: You Can Dance",
+    "title": "Honey, Honey",
+    "titleWikiUrl": "https://justdance.fandom.com/wiki/Honey,_Honey",
+    "artist": "ABBA",
+    "year": "1974",
+    "mode": "Quartet",
+    "difficulty": "Easy",
+    "effort": "Chill",
+    "iconUrl": "https://static.wikia.nocookie.net/justdance/images/b/bb/Honey_abba_cover_generic.png/revision/latest/scale-to-width-down/150?cb=20180104014507",
+    "genres": [
+      "Pop"
+    ],
+    "youtubeId": "pCI7wnLqN_A",
+    "thumbnail": "https://i.ytimg.com/vi/pCI7wnLqN_A/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45
+  },
+  {
+    "id": "1977-HoleInYourSoul",
+    "game": "ABBA: You Can Dance",
+    "title": "Hole In Your Soul",
+    "titleWikiUrl": "https://justdance.fandom.com/wiki/Hole_In_Your_Soul",
+    "artist": "ABBA",
+    "year": "1977",
+    "mode": "Quartet",
+    "difficulty": "Easy",
+    "effort": "Chill",
+    "iconUrl": "https://static.wikia.nocookie.net/justdance/images/c/c7/Holeinyoursoul_abba_cover_generic.png/revision/latest/scale-to-width-down/150?cb=20180104014503",
+    "genres": [
+      "Pop"
+    ],
+    "youtubeId": "e7bzMjXUN3o",
+    "thumbnail": "https://i.ytimg.com/vi/e7bzMjXUN3o/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45
+  },
+  {
+    "id": "1981-HeadOverHeels",
+    "game": "ABBA: You Can Dance",
+    "title": "Head Over Heels",
+    "titleWikiUrl": "https://justdance.fandom.com/wiki/Head_Over_Heels",
+    "artist": "ABBA",
+    "year": "1981",
+    "mode": "Solo",
+    "difficulty": "Easy",
+    "effort": "Chill",
+    "iconUrl": "https://static.wikia.nocookie.net/justdance/images/8/81/Headoverheels_karaoke_cover_generic.png/revision/latest/scale-to-width-down/150?cb=20200408034015",
+    "genres": [
+      "Pop"
+    ],
+    "youtubeId": "MQrTQyXL5UU",
+    "thumbnail": "https://i.ytimg.com/vi/MQrTQyXL5UU/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45
+  },
+  {
+    "id": "1975-Fernando",
+    "game": "ABBA: You Can Dance",
+    "title": "Fernando",
+    "titleWikiUrl": "https://justdance.fandom.com/wiki/Fernando",
+    "artist": "ABBA",
+    "year": "1975",
+    "mode": "Duet",
+    "difficulty": "Easy",
+    "effort": "Chill",
+    "iconUrl": "https://static.wikia.nocookie.net/justdance/images/f/f7/Fernando_abba_cover_generic.png/revision/latest/scale-to-width-down/150?cb=20180104014442",
+    "genres": [
+      "Pop"
+    ],
+    "youtubeId": "qdtdbnpRk2s",
+    "thumbnail": "https://i.ytimg.com/vi/qdtdbnpRk2s/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45
+  },
+  {
+    "id": "1979-DoesYourMotherKnow",
+    "game": "ABBA: You Can Dance",
+    "title": "Does Your Mother Know",
+    "titleWikiUrl": "https://justdance.fandom.com/wiki/Does_Your_Mother_Know",
+    "artist": "ABBA",
+    "year": "1979",
+    "mode": "Duet",
+    "difficulty": "Easy",
+    "effort": "Chill",
+    "iconUrl": "https://static.wikia.nocookie.net/justdance/images/c/cb/Motherknow_abba_cover_generic.png/revision/latest/scale-to-width-down/150?cb=20180104014438",
+    "genres": [
+      "Pop"
+    ],
+    "youtubeId": "zFoEBx9X92I",
+    "thumbnail": "https://i.ytimg.com/vi/zFoEBx9X92I/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45
+  },
+  {
+    "id": "1975-Bang-A-Boomerang",
+    "game": "ABBA: You Can Dance",
+    "title": "Bang-A-Boomerang",
+    "titleWikiUrl": "https://justdance.fandom.com/wiki/Bang-A-Boomerang",
+    "artist": "ABBA",
+    "year": "1975",
+    "mode": "Duet",
+    "difficulty": "Easy",
+    "effort": "Chill",
+    "iconUrl": "https://static.wikia.nocookie.net/justdance/images/d/dd/Bang_abba_cover_generic.png/revision/latest/scale-to-width-down/150?cb=20180104014226",
+    "genres": [
+      "Pop"
+    ],
+    "youtubeId": "fGaNgOCO7sc",
+    "thumbnail": "https://i.ytimg.com/vi/fGaNgOCO7sc/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45
+  },
+  {
+    "id": "1979-AsGoodasNew",
+    "game": "ABBA: You Can Dance",
+    "title": "As Good as New",
+    "titleWikiUrl": "https://justdance.fandom.com/wiki/As_Good_as_New",
+    "artist": "ABBA",
+    "year": "1979",
+    "mode": "Solo",
+    "difficulty": "Easy",
+    "effort": "Chill",
+    "iconUrl": "https://static.wikia.nocookie.net/justdance/images/f/f1/Asgoodasnew_abba_cover_generic.png/revision/latest/scale-to-width-down/150?cb=20180104014452",
+    "genres": [
+      "Pop"
+    ],
+    "youtubeId": "n3EqxRF6H2I",
+    "thumbnail": "https://i.ytimg.com/vi/n3EqxRF6H2I/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45
+  },
+  {
+    "id": "1979-Angeleyes",
+    "game": "ABBA: You Can Dance",
+    "title": "Angeleyes",
+    "titleWikiUrl": "https://justdance.fandom.com/wiki/Angeleyes",
+    "artist": "ABBA",
+    "year": "1979",
+    "mode": "Solo",
+    "difficulty": "Easy",
+    "effort": "Chill",
+    "iconUrl": "https://static.wikia.nocookie.net/justdance/images/f/f2/Angeleyes_abba_cover_generic.png/revision/latest/scale-to-width-down/150?cb=20180104014220",
+    "genres": [
+      "Pop"
+    ],
+    "youtubeId": "N-sKZ3Mxapg",
+    "thumbnail": "https://i.ytimg.com/vi/N-sKZ3Mxapg/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45
+  },
+  {
     "id": "jd1962-MashedPotatoTime",
     "game": "Just Dance",
     "title": "Mashed Potato Time",
@@ -257,7 +732,11 @@
     "iconUrl": "https://static.wikia.nocookie.net/justdance/images/1/19/StepByStep_jdnow_cover_generic.jpg/revision/latest/scale-to-width-down/180?cb=20141004185118",
     "genres": [
       "Unknown"
-    ]
+    ],
+    "youtubeId": "i3zx_d2wcs4",
+    "thumbnail": "https://i.ytimg.com/vi/i3zx_d2wcs4/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45
   },
   {
     "id": "jd1990-UCan’tTouchThis",
@@ -272,7 +751,11 @@
     "iconUrl": "https://static.wikia.nocookie.net/justdance/images/f/f4/CantTouchThis_jdnow_cover_generic.jpg/revision/latest/scale-to-width-down/180?cb=20150320092743",
     "genres": [
       "Unknown"
-    ]
+    ],
+    "youtubeId": "1r8p1rEn2HA",
+    "thumbnail": "https://i.ytimg.com/vi/1r8p1rEn2HA/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45
   },
   {
     "id": "jd1993-ILiketoMoveIt",
@@ -387,7 +870,11 @@
     "iconUrl": "https://static.wikia.nocookie.net/justdance/images/2/21/Wannabe_cover_online.png/revision/latest/scale-to-width-down/180?cb=20190130102817",
     "genres": [
       "Unknown"
-    ]
+    ],
+    "youtubeId": "zzbEszeDB7c",
+    "thumbnail": "https://i.ytimg.com/vi/zzbEszeDB7c/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45
   },
   {
     "id": "jd2000-WhoLettheDogsOut?",
@@ -404,7 +891,11 @@
       "Calypso",
       "Eurobeat",
       "Reggae"
-    ]
+    ],
+    "youtubeId": "gtHlEMtk-6o",
+    "thumbnail": "https://i.ytimg.com/vi/gtHlEMtk-6o/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45
   },
   {
     "id": "jd2001-Can’tGetYouOutofMyHead",
@@ -482,7 +973,11 @@
       "Electro",
       "Funk",
       "Instrumental"
-    ]
+    ],
+    "youtubeId": "5FDKb3jNv74",
+    "thumbnail": "https://i.ytimg.com/vi/5FDKb3jNv74/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45
   },
   {
     "id": "jd2005-Dare",
@@ -507,9 +1002,9 @@
     "previewEnd": 45
   },
   {
-    "id": "jd2005-CrispyDuck",
+    "id": "jd2005-WarmUp",
     "game": "Just Dance",
-    "title": "Crispy Duck",
+    "title": "Warm Up",
     "titleWikiUrl": "https://justdance.fandom.com/wiki/Warm_Up",
     "artist": "John Brooks",
     "year": "2005",
@@ -519,7 +1014,11 @@
     "iconUrl": "https://static.wikia.nocookie.net/justdance/images/6/64/Gandb_jdnow_cover_generic.jpg/revision/latest/scale-to-width-down/180?cb=20151206173052",
     "genres": [
       "Unknown"
-    ]
+    ],
+    "youtubeId": "P3EWShx65eI",
+    "thumbnail": "https://i.ytimg.com/vi/P3EWShx65eI/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45
   },
   {
     "id": "jd2007-Acceptableinthe80s",
@@ -613,7 +1112,11 @@
     "iconUrl": "https://static.wikia.nocookie.net/justdance/images/d/d8/Womanizer_jdu_cover_generic.png/revision/latest/scale-to-width-down/180?cb=20220420195313",
     "genres": [
       "Unknown"
-    ]
+    ],
+    "youtubeId": "GMg9uOeMLsg",
+    "thumbnail": "https://i.ytimg.com/vi/GMg9uOeMLsg/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45
   },
   {
     "id": "jd1918-DownByTheRiverside",
@@ -668,9 +1171,10 @@
       "Calypso"
     ],
     "youtubeID": "dQw4w9WgXcQ",
-    "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/mqdefault.jpg",
-    "previewStart": 0,
-    "previewEnd": 10
+    "thumbnail": "https://i.ytimg.com/vi/H0h6WYjBppU/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45,
+    "youtubeId": "H0h6WYjBppU"
   },
   {
     "id": "jd1962-MonsterMash",
@@ -708,7 +1212,11 @@
       "Samba",
       "Swing",
       "Instrumental"
-    ]
+    ],
+    "youtubeId": "tY4W-oVcsLg",
+    "thumbnail": "https://i.ytimg.com/vi/tY4W-oVcsLg/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45
   },
   {
     "id": "jd1964-VivaLasVegas",
@@ -723,7 +1231,11 @@
     "iconUrl": "https://static.wikia.nocookie.net/justdance/images/9/9b/Vivalasvegas_cover_generic.png/revision/latest/scale-to-width-down/180?cb=20240603175926",
     "genres": [
       "Unknown"
-    ]
+    ],
+    "youtubeId": "cuBi_VzEmc4",
+    "thumbnail": "https://i.ytimg.com/vi/cuBi_VzEmc4/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45
   },
   {
     "id": "jd1965-IGotYou(IFeelGood)",
@@ -738,7 +1250,11 @@
     "iconUrl": "https://static.wikia.nocookie.net/justdance/images/5/5f/Igotyou_jdu_cover_generic.png/revision/latest/scale-to-width-down/180?cb=20240603173846",
     "genres": [
       "Funk"
-    ]
+    ],
+    "youtubeId": "xNsob0bTusU",
+    "thumbnail": "https://i.ytimg.com/vi/xNsob0bTusU/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45
   },
   {
     "id": "jd1965-It’sNotUnusual",
@@ -772,7 +1288,11 @@
     "iconUrl": "https://static.wikia.nocookie.net/justdance/images/c/c7/Canthurrylove_jdnow_cover_generic.jpg/revision/latest/scale-to-width-down/180?cb=20141127202823",
     "genres": [
       "Unknown"
-    ]
+    ],
+    "youtubeId": "FUqZnXlo2DA",
+    "thumbnail": "https://i.ytimg.com/vi/FUqZnXlo2DA/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45
   },
   {
     "id": "jd1968-BornToBeWild",
@@ -806,7 +1326,11 @@
     "iconUrl": "https://static.wikia.nocookie.net/justdance/images/f/f0/Sympathydevil_jdu_cover_generic.png/revision/latest/scale-to-width-down/180?cb=20220420194702",
     "genres": [
       "Unknown"
-    ]
+    ],
+    "youtubeId": "L_hJoo9cdg4",
+    "thumbnail": "https://i.ytimg.com/vi/L_hJoo9cdg4/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45
   },
   {
     "id": "jd1969-IWantYouBack",
@@ -1018,7 +1542,11 @@
     "iconUrl": "https://static.wikia.nocookie.net/justdance/images/c/cb/Shouldistay_jdu_cover_generic.png/revision/latest/scale-to-width-down/180?cb=20220420194153",
     "genres": [
       "Unknown"
-    ]
+    ],
+    "youtubeId": "9G3h3KXwR4o",
+    "thumbnail": "https://i.ytimg.com/vi/9G3h3KXwR4o/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45
   },
   {
     "id": "jd1983-Holiday",
@@ -1052,7 +1580,11 @@
     "iconUrl": "https://static.wikia.nocookie.net/justdance/images/e/e5/Maniac_jdu_cover_generic.png/revision/latest/scale-to-width-down/180?cb=20240603174926",
     "genres": [
       "Unknown"
-    ]
+    ],
+    "youtubeId": "SYTDYL7wp3E",
+    "thumbnail": "https://i.ytimg.com/vi/SYTDYL7wp3E/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45
   },
   {
     "id": "jd1984-WakeMeUpBeforeYouGo-Go",
@@ -1067,7 +1599,11 @@
     "iconUrl": "https://static.wikia.nocookie.net/justdance/images/f/f5/WakeMeUp_jdu_cover_generic.png/revision/latest/scale-to-width-down/180?cb=20200624231859",
     "genres": [
       "Unknown"
-    ]
+    ],
+    "youtubeId": "uMHYAGviKk0",
+    "thumbnail": "https://i.ytimg.com/vi/uMHYAGviKk0/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45
   },
   {
     "id": "jd1986-WalkLikeanEgyptian",
@@ -1083,7 +1619,11 @@
     "genres": [
       "New Wave",
       "Novelty"
-    ]
+    ],
+    "youtubeId": "MD4Za1KYjpw",
+    "thumbnail": "https://i.ytimg.com/vi/MD4Za1KYjpw/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45
   },
   {
     "id": "jd1987-PumpUptheVolume",
@@ -1120,7 +1660,11 @@
       "Eurobeat",
       "Hip Hop",
       "House"
-    ]
+    ],
+    "youtubeId": "ODtEnIggoi8",
+    "thumbnail": "https://i.ytimg.com/vi/ODtEnIggoi8/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45
   },
   {
     "id": "jd1990-TheShoopShoopSong(It’sinHisKiss)",
@@ -1135,7 +1679,11 @@
     "iconUrl": "https://static.wikia.nocookie.net/justdance/images/3/3b/Shoopshoop_jdu_cover_generic.png/revision/latest/scale-to-width-down/180?cb=20240603175128",
     "genres": [
       "Unknown"
-    ]
+    ],
+    "youtubeId": "-deyZTEnE-U",
+    "thumbnail": "https://i.ytimg.com/vi/-deyZTEnE-U/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45
   },
   {
     "id": "jd1992-Jump",
@@ -1172,9 +1720,10 @@
       "Disco"
     ],
     "youtubeID": "dQw4w9WgXcQ",
-    "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/mqdefault.jpg",
-    "previewStart": 0,
-    "previewEnd": 10
+    "thumbnail": "https://i.ytimg.com/vi/OaaepGscDJY/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45,
+    "youtubeId": "OaaepGscDJY"
   },
   {
     "id": "jd1994-HereComestheHotstepper",
@@ -1267,7 +1816,11 @@
     "iconUrl": "https://static.wikia.nocookie.net/justdance/images/f/f6/Song2_jdu_cover_generic.png/revision/latest/scale-to-width-down/180?cb=20240603174942",
     "genres": [
       "Unknown"
-    ]
+    ],
+    "youtubeId": "u6ocmuJ9qmM",
+    "thumbnail": "https://i.ytimg.com/vi/u6ocmuJ9qmM/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45
   },
   {
     "id": "jd1997-SpiceUpYourLife",
@@ -1282,7 +1835,11 @@
     "iconUrl": "https://static.wikia.nocookie.net/justdance/images/e/e4/Spiceup_jdu_cover_generic.png/revision/latest/scale-to-width-down/180?cb=20230304032819",
     "genres": [
       "Unknown"
-    ]
+    ],
+    "youtubeId": "In2hrlV9BC4",
+    "thumbnail": "https://i.ytimg.com/vi/In2hrlV9BC4/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45
   },
   {
     "id": "jd1998-BodyMovin’(FatboySlimRemix)",
@@ -1356,7 +1913,11 @@
     "iconUrl": "https://static.wikia.nocookie.net/justdance/images/9/90/Moveyourfeet_jdnow_cover_generic.jpg/revision/latest/scale-to-width-down/180?cb=20150313131120",
     "genres": [
       "Unknown"
-    ]
+    ],
+    "youtubeId": "cRDuuvec-q8",
+    "thumbnail": "https://i.ytimg.com/vi/cRDuuvec-q8/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45
   },
   {
     "id": "jd2002-MugsyBaloney",
@@ -1392,7 +1953,11 @@
     "genres": [
       "EDM",
       "House"
-    ]
+    ],
+    "youtubeId": "irs3-iaUz6Y",
+    "thumbnail": "https://i.ytimg.com/vi/irs3-iaUz6Y/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45
   },
   {
     "id": "jd2003-CrazyinLove",
@@ -1447,7 +2012,11 @@
     "iconUrl": "https://static.wikia.nocookie.net/justdance/images/7/75/Sway_jdnow_cover_generic.jpg/revision/latest/scale-to-width-down/180?cb=20151114131752",
     "genres": [
       "Jazz"
-    ]
+    ],
+    "youtubeId": "EKlHQuQqpQc",
+    "thumbnail": "https://i.ytimg.com/vi/EKlHQuQqpQc/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45
   },
   {
     "id": "jd2004-ChickenPayback",
@@ -1500,7 +2069,11 @@
     "iconUrl": "https://static.wikia.nocookie.net/justdance/images/b/bb/TakeMeOut_jdu_cover_generic.png/revision/latest/scale-to-width-down/180?cb=20200625183128",
     "genres": [
       "Unknown"
-    ]
+    ],
+    "youtubeId": "xAFPAMatXM8",
+    "thumbnail": "https://i.ytimg.com/vi/xAFPAMatXM8/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45
   },
   {
     "id": "jd2005-PondeReplay",
@@ -1515,7 +2088,11 @@
     "iconUrl": "https://static.wikia.nocookie.net/justdance/images/0/08/Pon_jdnow_cover_generic.jpg/revision/latest/scale-to-width-down/180?cb=20150424153638",
     "genres": [
       "Dancehall"
-    ]
+    ],
+    "youtubeId": "R08rbQJx6p8",
+    "thumbnail": "https://i.ytimg.com/vi/R08rbQJx6p8/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45
   },
   {
     "id": "jd2006-FutebolCrazy",
@@ -1645,7 +2222,11 @@
     "iconUrl": "https://static.wikia.nocookie.net/justdance/images/b/bc/Whyowhy_jdnow_cover_generic.jpg/revision/latest/scale-to-width-down/180?cb=20190106204430",
     "genres": [
       "Unknown"
-    ]
+    ],
+    "youtubeId": "qtdr5H0AFBc",
+    "thumbnail": "https://i.ytimg.com/vi/qtdr5H0AFBc/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45
   },
   {
     "id": "jd2008-A-Punk",
@@ -1740,9 +2321,10 @@
       "Electro"
     ],
     "youtubeID": "dQw4w9WgXcQ",
-    "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/mqdefault.jpg",
-    "previewStart": 0,
-    "previewEnd": 10
+    "thumbnail": "https://i.ytimg.com/vi/r7tYZXTL9Zw/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45,
+    "youtubeId": "r7tYZXTL9Zw"
   },
   {
     "id": "jd2008-That’sNotMyName",
@@ -1757,7 +2339,11 @@
     "iconUrl": "https://static.wikia.nocookie.net/justdance/images/9/94/ThatsNotMyName_JDU_Cover_Generic.jpg/revision/latest/scale-to-width-down/180?cb=20180719133018",
     "genres": [
       "Electro"
-    ]
+    ],
+    "youtubeId": "Mv-h_xcutZw",
+    "thumbnail": "https://i.ytimg.com/vi/Mv-h_xcutZw/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45
   },
   {
     "id": "jd2008-WhenIGrowUp",
@@ -1772,7 +2358,11 @@
     "iconUrl": "https://static.wikia.nocookie.net/justdance/images/7/73/WhenIGrowUp_cover_generic.png/revision/latest/scale-to-width-down/180?cb=20211020190126",
     "genres": [
       "Unknown"
-    ]
+    ],
+    "youtubeId": "35cDrqGh85I",
+    "thumbnail": "https://i.ytimg.com/vi/35cDrqGh85I/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45
   },
   {
     "id": "jd2009-BabyGirl",
@@ -1867,7 +2457,11 @@
     "iconUrl": "https://static.wikia.nocookie.net/justdance/images/6/63/Tiktok_jdu_cover_generic.png/revision/latest/scale-to-width-down/180?cb=20200707123242",
     "genres": [
       "Electro"
-    ]
+    ],
+    "youtubeId": "7tyGB3iQO1Q",
+    "thumbnail": "https://i.ytimg.com/vi/7tyGB3iQO1Q/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45
   },
   {
     "id": "jd2010-CrazyChristmas",
@@ -2004,9 +2598,10 @@
       "Gospel"
     ],
     "youtubeID": "dQw4w9WgXcQ",
-    "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/mqdefault.jpg",
-    "previewStart": 0,
-    "previewEnd": 10
+    "thumbnail": "https://i.ytimg.com/vi/mTyBEHQh3x4/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45,
+    "youtubeId": "mTyBEHQh3x4"
   },
   {
     "id": "jd1977-IFeelLove",
@@ -2120,7 +2715,11 @@
     "iconUrl": "https://static.wikia.nocookie.net/justdance/images/6/6f/Videokilled_cover_generic.png/revision/latest/scale-to-width-down/180?cb=20240603181558",
     "genres": [
       "New Wave"
-    ]
+    ],
+    "youtubeId": "rvhaFpX_-Kc",
+    "thumbnail": "https://i.ytimg.com/vi/rvhaFpX_-Kc/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45
   },
   {
     "id": "jd1981-Apache(JumpOnIt)",
@@ -2195,7 +2794,11 @@
     "iconUrl": "https://static.wikia.nocookie.net/justdance/images/3/3a/Takeonme_jdnow_cover_generic.jpg/revision/latest/scale-to-width-down/180?cb=20150219224343",
     "genres": [
       "New Wave"
-    ]
+    ],
+    "youtubeId": "1eWo96ngaAM",
+    "thumbnail": "https://i.ytimg.com/vi/1eWo96ngaAM/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45
   },
   {
     "id": "jd1986-Venus",
@@ -2210,7 +2813,11 @@
     "iconUrl": "https://static.wikia.nocookie.net/justdance/images/0/09/Venusb_cover_generic.png/revision/latest/scale-to-width-down/180?cb=20230724165638",
     "genres": [
       "Hi-NRG"
-    ]
+    ],
+    "youtubeId": "dQbizmH6zzE",
+    "thumbnail": "https://i.ytimg.com/vi/dQbizmH6zzE/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45
   },
   {
     "id": "jd1990-GonnaMakeYouSweat(EverybodyDanceNow)",
@@ -2291,9 +2898,10 @@
       "Unknown"
     ],
     "youtubeID": "dQw4w9WgXcQ",
-    "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/mqdefault.jpg",
-    "previewStart": 0,
-    "previewEnd": 10
+    "thumbnail": "https://i.ytimg.com/vi/Kwud_gVDxI0/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45,
+    "youtubeId": "Kwud_gVDxI0"
   },
   {
     "id": "jd1994-KurioKoUddahLeJana",
@@ -2372,9 +2980,10 @@
       "Instrumental"
     ],
     "youtubeID": "dQw4w9WgXcQ",
-    "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/mqdefault.jpg",
-    "previewStart": 0,
-    "previewEnd": 10
+    "thumbnail": "https://i.ytimg.com/vi/Zr8CVlknq-o/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45,
+    "youtubeId": "Zr8CVlknq-o"
   },
   {
     "id": "jd1998-BabyOneMoreTime",
@@ -2451,7 +3060,11 @@
       "Disco",
       "Funk",
       "Jazz"
-    ]
+    ],
+    "youtubeId": "Tgz3s-Die20",
+    "thumbnail": "https://i.ytimg.com/vi/Tgz3s-Die20/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45
   },
   {
     "id": "jd2001-Mamasita",
@@ -2487,9 +3100,10 @@
       "Unknown"
     ],
     "youtubeID": "dQw4w9WgXcQ",
-    "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/mqdefault.jpg",
-    "previewStart": 0,
-    "previewEnd": 10
+    "thumbnail": "https://i.ytimg.com/vi/XIzLg0RR5Bo/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45,
+    "youtubeId": "XIzLg0RR5Bo"
   },
   {
     "id": "jd2002-DunN’Dusted",
@@ -2525,7 +3139,11 @@
     "iconUrl": "https://static.wikia.nocookie.net/justdance/images/d/da/Touchmewantme_cover_generic.png/revision/latest/scale-to-width-down/180?cb=20150318123714",
     "genres": [
       "Instrumental"
-    ]
+    ],
+    "youtubeId": "w7JLjrrrxYA",
+    "thumbnail": "https://i.ytimg.com/vi/w7JLjrrrxYA/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45
   },
   {
     "id": "jd2003-Jump(ForMyLove)",
@@ -2564,9 +3182,10 @@
       "New Wave"
     ],
     "youtubeID": "dQw4w9WgXcQ",
-    "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/mqdefault.jpg",
-    "previewStart": 0,
-    "previewEnd": 10
+    "thumbnail": "https://i.ytimg.com/vi/dpbBVxM3Gi4/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45,
+    "youtubeId": "dpbBVxM3Gi4"
   },
   {
     "id": "jd2005-PumpIt",
@@ -2726,7 +3345,11 @@
     "genres": [
       "Jazz",
       "Instrumental"
-    ]
+    ],
+    "youtubeId": "OPXmNEy9q6Y",
+    "thumbnail": "https://i.ytimg.com/vi/OPXmNEy9q6Y/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45
   },
   {
     "id": "jd2009-BeatMatchUntilI’mBlue",
@@ -2762,7 +3385,11 @@
     "iconUrl": "https://static.wikia.nocookie.net/justdance/images/c/c4/Gotmedancing_jdu_cover_generic.png/revision/latest/scale-to-width-down/180?cb=20250815035437",
     "genres": [
       "Electro"
-    ]
+    ],
+    "youtubeId": "rKYznu0xj-c",
+    "thumbnail": "https://i.ytimg.com/vi/rKYznu0xj-c/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45
   },
   {
     "id": "jd2009-TwistandShakeIt",
@@ -2777,7 +3404,11 @@
     "iconUrl": "https://static.wikia.nocookie.net/justdance/images/1/15/Twistshakeit_jdu_cover_generic.png/revision/latest/scale-to-width-down/180?cb=20200624204246",
     "genres": [
       "Unknown"
-    ]
+    ],
+    "youtubeId": "pDv-1erjaOM",
+    "thumbnail": "https://i.ytimg.com/vi/pDv-1erjaOM/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45
   },
   {
     "id": "jd2010-Airplanes",
@@ -2959,9 +3590,10 @@
       "Eurobeat"
     ],
     "youtubeID": "dQw4w9WgXcQ",
-    "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/mqdefault.jpg",
-    "previewStart": 0,
-    "previewEnd": 10
+    "thumbnail": "https://i.ytimg.com/vi/dKR8rIh7aQQ/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45,
+    "youtubeId": "dKR8rIh7aQQ"
   },
   {
     "id": "jd2010-Satellite",
@@ -2978,9 +3610,10 @@
       "Unknown"
     ],
     "youtubeID": "dQw4w9WgXcQ",
-    "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/mqdefault.jpg",
-    "previewStart": 0,
-    "previewEnd": 10
+    "thumbnail": "https://i.ytimg.com/vi/k0ai50NLwx4/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45,
+    "youtubeId": "k0ai50NLwx4"
   },
   {
     "id": "jd2010-TeenageDream",
@@ -2998,9 +3631,10 @@
       "Electro"
     ],
     "youtubeID": "dQw4w9WgXcQ",
-    "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/mqdefault.jpg",
-    "previewStart": 0,
-    "previewEnd": 10
+    "thumbnail": "https://i.ytimg.com/vi/okBQrZwYuGY/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45,
+    "youtubeId": "okBQrZwYuGY"
   },
   {
     "id": "jd2010-Tightrope",
@@ -3017,9 +3651,10 @@
       "Funk"
     ],
     "youtubeID": "dQw4w9WgXcQ",
-    "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/mqdefault.jpg",
-    "previewStart": 0,
-    "previewEnd": 10
+    "thumbnail": "https://i.ytimg.com/vi/w9au7grzc00/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45,
+    "youtubeId": "w9au7grzc00"
   },
   {
     "id": "jd2011-BabyDon’tStopNow",
@@ -3065,7 +3700,7 @@
     "game": "Just Dance 3",
     "title": "Dance All Nite",
     "titleWikiUrl": "https://justdance.fandom.com/wiki/Dance_All_Nite",
-    "artist": "Anja (now known as Aneea)",
+    "artist": "Anja",
     "year": "2011",
     "mode": "Solo",
     "difficulty": "Medium",
@@ -3160,9 +3795,10 @@
       "Unknown"
     ],
     "youtubeID": "dQw4w9WgXcQ",
-    "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/mqdefault.jpg",
-    "previewStart": 0,
-    "previewEnd": 10
+    "thumbnail": "https://i.ytimg.com/vi/8RLaU2kMCc0/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45,
+    "youtubeId": "8RLaU2kMCc0"
   },
   {
     "id": "jd1977-UFO",
@@ -3180,9 +3816,10 @@
       "Jazz"
     ],
     "youtubeID": "dQw4w9WgXcQ",
-    "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/mqdefault.jpg",
-    "previewStart": 0,
-    "previewEnd": 10
+    "thumbnail": "https://i.ytimg.com/vi/mYJkcMoJ1FI/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45,
+    "youtubeId": "mYJkcMoJ1FI"
   },
   {
     "id": "jd1990 (Da Bubblegum Brothers' version) | 2006 (EXILE & Kumi's version)-WON’TBELONG",
@@ -3199,9 +3836,10 @@
       "Unknown"
     ],
     "youtubeID": "dQw4w9WgXcQ",
-    "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/mqdefault.jpg",
-    "previewStart": 0,
-    "previewEnd": 10
+    "thumbnail": "https://i.ytimg.com/vi/lucNBYqua6A/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45,
+    "youtubeId": "lucNBYqua6A"
   },
   {
     "id": "jd1991 (Zoo's version) | 2003 (EXILE's version)-ChooChooTRAIN",
@@ -3239,9 +3877,10 @@
       "Hi-NRG"
     ],
     "youtubeID": "dQw4w9WgXcQ",
-    "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/mqdefault.jpg",
-    "previewStart": 0,
-    "previewEnd": 10
+    "thumbnail": "https://i.ytimg.com/vi/WaCvBi8Q44I/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45,
+    "youtubeId": "WaCvBi8Q44I"
   },
   {
     "id": "jd2001-OneNightCarnival",
@@ -3258,9 +3897,10 @@
       "Unknown"
     ],
     "youtubeID": "dQw4w9WgXcQ",
-    "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/mqdefault.jpg",
-    "previewStart": 0,
-    "previewEnd": 10
+    "thumbnail": "https://i.ytimg.com/vi/-U40QJ8iaLA/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45,
+    "youtubeId": "-U40QJ8iaLA"
   },
   {
     "id": "jd2002-Valenti",
@@ -3277,9 +3917,10 @@
       "Unknown"
     ],
     "youtubeID": "dQw4w9WgXcQ",
-    "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/mqdefault.jpg",
-    "previewStart": 0,
-    "previewEnd": 10
+    "thumbnail": "https://i.ytimg.com/vi/NlVO2cpRx8M/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45,
+    "youtubeId": "NlVO2cpRx8M"
   },
   {
     "id": "jd2004-Mickey(Hawaiiversion)",
@@ -3296,9 +3937,10 @@
       "Unknown"
     ],
     "youtubeID": "dQw4w9WgXcQ",
-    "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/mqdefault.jpg",
-    "previewStart": 0,
-    "previewEnd": 10
+    "thumbnail": "https://i.ytimg.com/vi/d1wHBxX5sOg/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45,
+    "youtubeId": "d1wHBxX5sOg"
   },
   {
     "id": "jd2008-SexyGirl",
@@ -3315,9 +3957,10 @@
       "Unknown"
     ],
     "youtubeID": "dQw4w9WgXcQ",
-    "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/mqdefault.jpg",
-    "previewStart": 0,
-    "previewEnd": 10
+    "thumbnail": "https://i.ytimg.com/vi/2NZQ1bPf0i0/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45,
+    "youtubeId": "2NZQ1bPf0i0"
   },
   {
     "id": "jd2011 (original) | 2017 (remastered)-JustMario",
@@ -3334,9 +3977,10 @@
       "Instrumental"
     ],
     "youtubeID": "dQw4w9WgXcQ",
-    "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/mqdefault.jpg",
-    "previewStart": 0,
-    "previewEnd": 10
+    "thumbnail": "https://i.ytimg.com/vi/ajoe65Gx4Rs/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45,
+    "youtubeId": "ajoe65Gx4Rs"
   },
   {
     "id": "jd2011-Why?(KeepYourHeadDown)",
@@ -3353,9 +3997,10 @@
       "Unknown"
     ],
     "youtubeID": "dQw4w9WgXcQ",
-    "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/mqdefault.jpg",
-    "previewStart": 0,
-    "previewEnd": 10
+    "thumbnail": "https://i.ytimg.com/vi/dtmngfS24HQ/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45,
+    "youtubeId": "dtmngfS24HQ"
   },
   {
     "id": "jd1997-Body&Soul",
@@ -3393,9 +4038,10 @@
       "Eurobeat"
     ],
     "youtubeID": "dQw4w9WgXcQ",
-    "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/mqdefault.jpg",
-    "previewStart": 0,
-    "previewEnd": 10
+    "thumbnail": "https://i.ytimg.com/vi/N2CDNiXwDHI/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45,
+    "youtubeId": "N2CDNiXwDHI"
   },
   {
     "id": "jd1999-Wecan'tstopthemusic",
@@ -3412,9 +4058,10 @@
       "Unknown"
     ],
     "youtubeID": "dQw4w9WgXcQ",
-    "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/mqdefault.jpg",
-    "previewStart": 0,
-    "previewEnd": 10
+    "thumbnail": "https://i.ytimg.com/vi/LMwHXb1jKn4/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45,
+    "youtubeId": "LMwHXb1jKn4"
   },
   {
     "id": "jd2002-Yeah!めっちゃホリディ",
@@ -3431,9 +4078,10 @@
       "Unknown"
     ],
     "youtubeID": "dQw4w9WgXcQ",
-    "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/mqdefault.jpg",
-    "previewStart": 0,
-    "previewEnd": 10
+    "thumbnail": "https://i.ytimg.com/vi/dQNr-rX9xmc/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45,
+    "youtubeId": "dQNr-rX9xmc"
   },
   {
     "id": "jd2005-POPSTAR(カバー)",
@@ -3450,9 +4098,10 @@
       "Unknown"
     ],
     "youtubeID": "dQw4w9WgXcQ",
-    "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/mqdefault.jpg",
-    "previewStart": 0,
-    "previewEnd": 10
+    "thumbnail": "https://i.ytimg.com/vi/ipHwhAZ_sk0/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45,
+    "youtubeId": "ipHwhAZ_sk0"
   },
   {
     "id": "jd2007-LoversAgain",
@@ -3470,28 +4119,10 @@
       "Reggae"
     ],
     "youtubeID": "dQw4w9WgXcQ",
-    "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/mqdefault.jpg",
-    "previewStart": 0,
-    "previewEnd": 10
-  },
-  {
-    "id": "jd2009-She’sGotMeDancing(JD3)",
-    "game": "Just Dance Wii 2",
-    "title": "She’s Got Me Dancing(JD3)",
-    "titleWikiUrl": "https://justdance.fandom.com/wiki/She%E2%80%99s_Got_Me_Dancing",
-    "artist": "Tommy Sparks",
-    "year": "2009",
-    "mode": "Solo",
-    "difficulty": "Medium",
-    "effort": "Chill",
-    "iconUrl": "https://static.wikia.nocookie.net/justdance/images/c/c4/Gotmedancing_jdu_cover_generic.png/revision/latest/scale-to-width-down/180?cb=20250815035437",
-    "genres": [
-      "Unknown"
-    ],
-    "youtubeID": "dQw4w9WgXcQ",
-    "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/mqdefault.jpg",
-    "previewStart": 0,
-    "previewEnd": 10
+    "thumbnail": "https://i.ytimg.com/vi/w--Ck2gY7vg/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45,
+    "youtubeId": "w--Ck2gY7vg"
   },
   {
     "id": "jd2011-BoPeepBoPeep",
@@ -3548,9 +4179,10 @@
       "Unknown"
     ],
     "youtubeID": "dQw4w9WgXcQ",
-    "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/mqdefault.jpg",
-    "previewStart": 0,
-    "previewEnd": 10
+    "thumbnail": "https://i.ytimg.com/vi/luE5qLPhHVk/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45,
+    "youtubeId": "luE5qLPhHVk"
   },
   {
     "id": "jd2011-PONPONPON",
@@ -3567,9 +4199,10 @@
       "EDM"
     ],
     "youtubeID": "dQw4w9WgXcQ",
-    "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/mqdefault.jpg",
-    "previewStart": 0,
-    "previewEnd": 10
+    "thumbnail": "https://i.ytimg.com/vi/YuRKqtqjFgw/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45,
+    "youtubeId": "YuRKqtqjFgw"
   },
   {
     "id": "jd2011-RisingSun",
@@ -3586,28 +4219,10 @@
       "Unknown"
     ],
     "youtubeID": "dQw4w9WgXcQ",
-    "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/mqdefault.jpg",
-    "previewStart": 0,
-    "previewEnd": 10
-  },
-  {
-    "id": "jd2011-Spectronizer(JD3)",
-    "game": "Just Dance Wii 2",
-    "title": "Spectronizer(JD3)",
-    "titleWikiUrl": "https://justdance.fandom.com/wiki/Spectronizer",
-    "artist": "Sentai Express",
-    "year": "2011",
-    "mode": "Quartet",
-    "difficulty": "Easy",
-    "effort": "Chill",
-    "iconUrl": "https://static.wikia.nocookie.net/justdance/images/7/79/Spectronizerquat_jdnow_cover_generic.jpg/revision/latest/scale-to-width-down/180?cb=20141105024926",
-    "genres": [
-      "Unknown"
-    ],
-    "youtubeID": "dQw4w9WgXcQ",
-    "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/mqdefault.jpg",
-    "previewStart": 0,
-    "previewEnd": 10
+    "thumbnail": "https://i.ytimg.com/vi/jjB5Tc9Yed0/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45,
+    "youtubeId": "jjB5Tc9Yed0"
   },
   {
     "id": "jd2012-INDEPENDENTWOMAN",
@@ -3624,9 +4239,10 @@
       "Unknown"
     ],
     "youtubeID": "dQw4w9WgXcQ",
-    "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/mqdefault.jpg",
-    "previewStart": 0,
-    "previewEnd": 10
+    "thumbnail": "https://i.ytimg.com/vi/aOVZOpbMe8k/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45,
+    "youtubeId": "aOVZOpbMe8k"
   },
   {
     "id": "jd2012-WeCanFly",
@@ -3643,9 +4259,10 @@
       "Unknown"
     ],
     "youtubeID": "dQw4w9WgXcQ",
-    "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/mqdefault.jpg",
-    "previewStart": 0,
-    "previewEnd": 10
+    "thumbnail": "https://i.ytimg.com/vi/OsvC_xA6PtI/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45,
+    "youtubeId": "OsvC_xA6PtI"
   },
   {
     "id": "jd1957-JailhouseRock",
@@ -3683,9 +4300,10 @@
       "Funk"
     ],
     "youtubeID": "dQw4w9WgXcQ",
-    "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/mqdefault.jpg",
-    "previewStart": 0,
-    "previewEnd": 10
+    "thumbnail": "https://i.ytimg.com/vi/7OYPHPIJKqs/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45,
+    "youtubeId": "7OYPHPIJKqs"
   },
   {
     "id": "jd1974-You’retheFirst,theLast,MyEverything",
@@ -3702,9 +4320,10 @@
       "Disco"
     ],
     "youtubeID": "dQw4w9WgXcQ",
-    "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/mqdefault.jpg",
-    "previewStart": 0,
-    "previewEnd": 10
+    "thumbnail": "https://i.ytimg.com/vi/lLKTEMiCDQQ/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45,
+    "youtubeId": "lLKTEMiCDQQ"
   },
   {
     "id": "jd1975-TimeWarp",
@@ -3721,9 +4340,10 @@
       "Disco"
     ],
     "youtubeID": "dQw4w9WgXcQ",
-    "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/mqdefault.jpg",
-    "previewStart": 0,
-    "previewEnd": 10
+    "thumbnail": "https://i.ytimg.com/vi/Mabi6aD__-I/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45,
+    "youtubeId": "Mabi6aD__-I"
   },
   {
     "id": "jd1978-RockLobster",
@@ -3801,9 +4421,10 @@
       "Unknown"
     ],
     "youtubeID": "dQw4w9WgXcQ",
-    "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/mqdefault.jpg",
-    "previewStart": 0,
-    "previewEnd": 10
+    "thumbnail": "https://i.ytimg.com/vi/Mxua-mnWENo/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45,
+    "youtubeId": "Mxua-mnWENo"
   },
   {
     "id": "jd1987-(I’veHad)TheTimeOfMyLife",
@@ -3902,9 +4523,10 @@
       "Eurobeat"
     ],
     "youtubeID": "dQw4w9WgXcQ",
-    "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/mqdefault.jpg",
-    "previewStart": 0,
-    "previewEnd": 10
+    "thumbnail": "https://i.ytimg.com/vi/mzRybgF5EnQ/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45,
+    "youtubeId": "mzRybgF5EnQ"
   },
   {
     "id": "jd1994-ILikeIt",
@@ -3981,9 +4603,10 @@
       "Country"
     ],
     "youtubeID": "dQw4w9WgXcQ",
-    "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/mqdefault.jpg",
-    "previewStart": 0,
-    "previewEnd": 10
+    "thumbnail": "https://i.ytimg.com/vi/elCwUyFpllw/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45,
+    "youtubeId": "elCwUyFpllw"
   },
   {
     "id": "jd2000-Oops!...IDidItAgain",
@@ -4123,9 +4746,10 @@
       "Unknown"
     ],
     "youtubeID": "dQw4w9WgXcQ",
-    "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/mqdefault.jpg",
-    "previewStart": 0,
-    "previewEnd": 10
+    "thumbnail": "https://i.ytimg.com/vi/eFQgj2oN8Tc/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45,
+    "youtubeId": "eFQgj2oN8Tc"
   },
   {
     "id": "jd2008-Disturbia",
@@ -4203,9 +4827,10 @@
       "Electro"
     ],
     "youtubeID": "dQw4w9WgXcQ",
-    "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/mqdefault.jpg",
-    "previewStart": 0,
-    "previewEnd": 10
+    "thumbnail": "https://i.ytimg.com/vi/hDcKnP9bC_8/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45,
+    "youtubeId": "hDcKnP9bC_8"
   },
   {
     "id": "jd2009-HeavyCross",
@@ -4272,7 +4897,7 @@
     "game": "Just Dance 4",
     "title": "Oh No!",
     "titleWikiUrl": "https://justdance.fandom.com/wiki/Oh_No!",
-    "artist": "Marina & the Diamonds (Now known as MARINA)",
+    "artist": "Marina & the Diamonds",
     "year": "2010",
     "mode": "Solo",
     "difficulty": "Medium",
@@ -4324,9 +4949,10 @@
       "Hip Hop"
     ],
     "youtubeID": "dQw4w9WgXcQ",
-    "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/mqdefault.jpg",
-    "previewStart": 0,
-    "previewEnd": 10
+    "thumbnail": "https://i.ytimg.com/vi/zptCbugfNO0/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45,
+    "youtubeId": "zptCbugfNO0"
   },
   {
     "id": "jd2010-TheLazySong",
@@ -4344,9 +4970,10 @@
       "Ska"
     ],
     "youtubeID": "dQw4w9WgXcQ",
-    "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/mqdefault.jpg",
-    "previewStart": 0,
-    "previewEnd": 10
+    "thumbnail": "https://i.ytimg.com/vi/2RpSPrC90CA/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45,
+    "youtubeId": "2RpSPrC90CA"
   },
   {
     "id": "jd2010-WeNoSpeakAmericano",
@@ -4365,9 +4992,10 @@
       "House"
     ],
     "youtubeID": "dQw4w9WgXcQ",
-    "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/mqdefault.jpg",
-    "previewStart": 0,
-    "previewEnd": 10
+    "thumbnail": "https://i.ytimg.com/vi/9uxvbOVpj4Y/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45,
+    "youtubeId": "9uxvbOVpj4Y"
   },
   {
     "id": "jd2010-WeRWhoWeR",
@@ -4385,9 +5013,10 @@
       "EDM"
     ],
     "youtubeID": "dQw4w9WgXcQ",
-    "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/mqdefault.jpg",
-    "previewStart": 0,
-    "previewEnd": 10
+    "thumbnail": "https://i.ytimg.com/vi/A-b5m1YTQ_U/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45,
+    "youtubeId": "A-b5m1YTQ_U"
   },
   {
     "id": "jd2011-CallMeMaybe",
@@ -4588,9 +5217,10 @@
       "Unknown"
     ],
     "youtubeID": "dQw4w9WgXcQ",
-    "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/mqdefault.jpg",
-    "previewStart": 0,
-    "previewEnd": 10
+    "thumbnail": "https://i.ytimg.com/vi/mSpsqrOqn68/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45,
+    "youtubeId": "mSpsqrOqn68"
   },
   {
     "id": "jd2011-YouMakeMeFeel...",
@@ -4607,9 +5237,10 @@
       "Hi-NRG"
     ],
     "youtubeID": "dQw4w9WgXcQ",
-    "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/mqdefault.jpg",
-    "previewStart": 0,
-    "previewEnd": 10
+    "thumbnail": "https://i.ytimg.com/vi/vFWZLuuRYsY/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45,
+    "youtubeId": "vFWZLuuRYsY"
   },
   {
     "id": "jd2012-BeautyAndABeat",
@@ -4656,7 +5287,7 @@
     "game": "Just Dance 4",
     "title": "Crazy Little Thing",
     "titleWikiUrl": "https://justdance.fandom.com/wiki/Crazy_Little_Thing",
-    "artist": "Anja (now known as Aneea)",
+    "artist": "Anja",
     "year": "2012",
     "mode": "Solo",
     "difficulty": "Medium",
@@ -4794,9 +5425,10 @@
       "House"
     ],
     "youtubeID": "dQw4w9WgXcQ",
-    "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/mqdefault.jpg",
-    "previewStart": 0,
-    "previewEnd": 10
+    "thumbnail": "https://i.ytimg.com/vi/OggBfJ_-J1c/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45,
+    "youtubeId": "OggBfJ_-J1c"
   },
   {
     "id": "jd2012-Oath",
@@ -4843,7 +5475,7 @@
     "game": "Just Dance 4",
     "title": "Primadonna",
     "titleWikiUrl": "https://justdance.fandom.com/wiki/Primadonna",
-    "artist": "Marina & the Diamonds (Now known as MARINA)",
+    "artist": "Marina & the Diamonds",
     "year": "2012",
     "mode": "Solo",
     "difficulty": "Easy",
@@ -4873,16 +5505,17 @@
       "Unknown"
     ],
     "youtubeID": "dQw4w9WgXcQ",
-    "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/mqdefault.jpg",
-    "previewStart": 0,
-    "previewEnd": 10
+    "thumbnail": "https://i.ytimg.com/vi/6kXQkLGDzBs/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45,
+    "youtubeId": "6kXQkLGDzBs"
   },
   {
     "id": "jd2012-SomeCatchin’UpToDo",
     "game": "Just Dance 4",
     "title": "Some Catchin’ Up To Do",
     "titleWikiUrl": "https://justdance.fandom.com/wiki/Some_Catchin%E2%80%99_Up_To_Do",
-    "artist": "Sammy (now known as Tatum Quinn)",
+    "artist": "Sammy",
     "year": "2012",
     "mode": "Solo",
     "difficulty": "Easy",
@@ -4892,9 +5525,10 @@
       "EDM"
     ],
     "youtubeID": "dQw4w9WgXcQ",
-    "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/mqdefault.jpg",
-    "previewStart": 0,
-    "previewEnd": 10
+    "thumbnail": "https://i.ytimg.com/vi/UWNY0C_4CE8/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45,
+    "youtubeId": "UWNY0C_4CE8"
   },
   {
     "id": "jd2012-WantUBack",
@@ -4911,9 +5545,10 @@
       "Unknown"
     ],
     "youtubeID": "dQw4w9WgXcQ",
-    "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/mqdefault.jpg",
-    "previewStart": 0,
-    "previewEnd": 10
+    "thumbnail": "https://i.ytimg.com/vi/DRj59SO5E84/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45,
+    "youtubeId": "DRj59SO5E84"
   },
   {
     "id": "jd1956-JustAGigolo",
@@ -4971,9 +5606,10 @@
       "Unknown"
     ],
     "youtubeID": "dQw4w9WgXcQ",
-    "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/mqdefault.jpg",
-    "previewStart": 0,
-    "previewEnd": 10
+    "thumbnail": "https://i.ytimg.com/vi/ywZzHkna2M4/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45,
+    "youtubeId": "ywZzHkna2M4"
   },
   {
     "id": "jd1978-BlameItontheBoogie",
@@ -5030,9 +5666,10 @@
       "Disco"
     ],
     "youtubeID": "dQw4w9WgXcQ",
-    "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/mqdefault.jpg",
-    "previewStart": 0,
-    "previewEnd": 10
+    "thumbnail": "https://i.ytimg.com/vi/rRQJ4aWXpuA/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45,
+    "youtubeId": "rRQJ4aWXpuA"
   },
   {
     "id": "jd1979-Gimme!Gimme!Gimme!(AManAfterMidnight)",
@@ -5232,9 +5869,10 @@
       "Salsa"
     ],
     "youtubeID": "dQw4w9WgXcQ",
-    "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/mqdefault.jpg",
-    "previewStart": 0,
-    "previewEnd": 10
+    "thumbnail": "https://i.ytimg.com/vi/u0UXnFFzLn8/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45,
+    "youtubeId": "u0UXnFFzLn8"
   },
   {
     "id": "jd2004-RichGirl",
@@ -5251,9 +5889,10 @@
       "Reggae"
     ],
     "youtubeID": "dQw4w9WgXcQ",
-    "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/mqdefault.jpg",
-    "previewStart": 0,
-    "previewEnd": 10
+    "thumbnail": "https://i.ytimg.com/vi/uSsjg-biLlI/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45,
+    "youtubeId": "uSsjg-biLlI"
   },
   {
     "id": "jd2008-IKissedaGirl",
@@ -5310,9 +5949,10 @@
       "Unknown"
     ],
     "youtubeID": "dQw4w9WgXcQ",
-    "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/mqdefault.jpg",
-    "previewStart": 0,
-    "previewEnd": 10
+    "thumbnail": "https://i.ytimg.com/vi/3oJJhgdFrxQ/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45,
+    "youtubeId": "3oJJhgdFrxQ"
   },
   {
     "id": "jd2011-Can’tHoldUs",
@@ -5349,9 +5989,10 @@
       "EDM"
     ],
     "youtubeID": "dQw4w9WgXcQ",
-    "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/mqdefault.jpg",
-    "previewStart": 0,
-    "previewEnd": 10
+    "thumbnail": "https://i.ytimg.com/vi/bHSzpznhm7A/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45,
+    "youtubeId": "bHSzpznhm7A"
   },
   {
     "id": "jd2011-SexyAndIKnowIt",
@@ -5371,9 +6012,10 @@
       "House"
     ],
     "youtubeID": "dQw4w9WgXcQ",
-    "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/mqdefault.jpg",
-    "previewStart": 0,
-    "previewEnd": 10
+    "thumbnail": "https://i.ytimg.com/vi/xm5OeZxVJN0/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45,
+    "youtubeId": "xm5OeZxVJN0"
   },
   {
     "id": "jd2011-WhereHaveYouBeen",
@@ -5390,9 +6032,10 @@
       "House"
     ],
     "youtubeID": "dQw4w9WgXcQ",
-    "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/mqdefault.jpg",
-    "previewStart": 0,
-    "previewEnd": 10
+    "thumbnail": "https://i.ytimg.com/vi/SSJ2bNLdUrc/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45,
+    "youtubeId": "SSJ2bNLdUrc"
   },
   {
     "id": "jd2012-C’mon",
@@ -5552,9 +6195,10 @@
       "Reggaeton"
     ],
     "youtubeID": "dQw4w9WgXcQ",
-    "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/mqdefault.jpg",
-    "previewStart": 0,
-    "previewEnd": 10
+    "thumbnail": "https://i.ytimg.com/vi/zSKJrevtY0c/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45,
+    "youtubeId": "zSKJrevtY0c"
   },
   {
     "id": "jd2012-PoundTheAlarm",
@@ -5593,9 +6237,10 @@
       "House"
     ],
     "youtubeID": "dQw4w9WgXcQ",
-    "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/mqdefault.jpg",
-    "previewStart": 0,
-    "previewEnd": 10
+    "thumbnail": "https://i.ytimg.com/vi/1DhZC-PBHyE/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45,
+    "youtubeId": "1DhZC-PBHyE"
   },
   {
     "id": "jd2012-Starships",
@@ -5614,9 +6259,10 @@
       "House"
     ],
     "youtubeID": "dQw4w9WgXcQ",
-    "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/mqdefault.jpg",
-    "previewStart": 0,
-    "previewEnd": 10
+    "thumbnail": "https://i.ytimg.com/vi/_UfKnOJVOz0/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45,
+    "youtubeId": "_UfKnOJVOz0"
   },
   {
     "id": "jd2012-Troublemaker",
@@ -5633,9 +6279,10 @@
       "Electro"
     ],
     "youtubeID": "dQw4w9WgXcQ",
-    "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/mqdefault.jpg",
-    "previewStart": 0,
-    "previewEnd": 10
+    "thumbnail": "https://i.ytimg.com/vi/MUc-Mr-MbI4/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45,
+    "youtubeId": "MUc-Mr-MbI4"
   },
   {
     "id": "jd2012-TurnUptheLove",
@@ -5653,9 +6300,10 @@
       "Hip Hop"
     ],
     "youtubeID": "dQw4w9WgXcQ",
-    "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/mqdefault.jpg",
-    "previewStart": 0,
-    "previewEnd": 10
+    "thumbnail": "https://i.ytimg.com/vi/AjJiVuD96wM/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45,
+    "youtubeId": "AjJiVuD96wM"
   },
   {
     "id": "jd2013-#thatPower",
@@ -5955,7 +6603,7 @@
     "game": "Just Dance 2014",
     "title": "Miss Understood",
     "titleWikiUrl": "https://justdance.fandom.com/wiki/Miss_Understood",
-    "artist": "Sammie (now known as Tatum Quinn)",
+    "artist": "Sammie",
     "year": "2013",
     "mode": "Solo",
     "difficulty": "Easy",
@@ -6086,9 +6734,10 @@
       "EDM"
     ],
     "youtubeID": "dQw4w9WgXcQ",
-    "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/mqdefault.jpg",
-    "previewStart": 0,
-    "previewEnd": 10
+    "thumbnail": "https://i.ytimg.com/vi/DktVU1oBrNs/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45,
+    "youtubeId": "DktVU1oBrNs"
   },
   {
     "id": "jd2013-TheWay",
@@ -6105,9 +6754,10 @@
       "Hip Hop"
     ],
     "youtubeID": "dQw4w9WgXcQ",
-    "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/mqdefault.jpg",
-    "previewStart": 0,
-    "previewEnd": 10
+    "thumbnail": "https://i.ytimg.com/vi/q8DnLAFcI8s/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45,
+    "youtubeId": "q8DnLAFcI8s"
   },
   {
     "id": "jd2013-Timber",
@@ -6125,9 +6775,10 @@
       "Hip Hop"
     ],
     "youtubeID": "dQw4w9WgXcQ",
-    "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/mqdefault.jpg",
-    "previewStart": 0,
-    "previewEnd": 10
+    "thumbnail": "https://i.ytimg.com/vi/8OX1TdxJGUU/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45,
+    "youtubeId": "8OX1TdxJGUU"
   },
   {
     "id": "jd2013-WakeMeUp",
@@ -6146,9 +6797,10 @@
       "House"
     ],
     "youtubeID": "dQw4w9WgXcQ",
-    "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/mqdefault.jpg",
-    "previewStart": 0,
-    "previewEnd": 10
+    "thumbnail": "https://i.ytimg.com/vi/d4yVyrMLbhk/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45,
+    "youtubeId": "d4yVyrMLbhk"
   },
   {
     "id": "jd2013-WhatAboutLove",
@@ -6165,9 +6817,10 @@
       "Unknown"
     ],
     "youtubeID": "dQw4w9WgXcQ",
-    "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/mqdefault.jpg",
-    "previewStart": 0,
-    "previewEnd": 10
+    "thumbnail": "https://i.ytimg.com/vi/rEbIEp1Es04/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45,
+    "youtubeId": "rEbIEp1Es04"
   },
   {
     "id": "jd2013-Wild",
@@ -6184,9 +6837,10 @@
       "Unknown"
     ],
     "youtubeID": "dQw4w9WgXcQ",
-    "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/mqdefault.jpg",
-    "previewStart": 0,
-    "previewEnd": 10
+    "thumbnail": "https://i.ytimg.com/vi/tCEQ6wRIElA/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45,
+    "youtubeId": "tCEQ6wRIElA"
   },
   {
     "id": "jd2014-TheWorldisOurs",
@@ -6203,47 +6857,10 @@
       "Reggae"
     ],
     "youtubeID": "dQw4w9WgXcQ",
-    "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/mqdefault.jpg",
-    "previewStart": 0,
-    "previewEnd": 10
-  },
-  {
-    "id": "jd1972-Superstition(JD4)",
-    "game": "Just Dance Wii U",
-    "title": "Superstition(JD4)",
-    "titleWikiUrl": "https://justdance.fandom.com/wiki/Superstition",
-    "artist": "Stevie Wonder",
-    "year": "1972",
-    "mode": "Solo",
-    "difficulty": "Easy",
-    "effort": "Chill",
-    "iconUrl": "https://static.wikia.nocookie.net/justdance/images/e/e8/Superstition_jdnow_cover_generic.jpg/revision/latest/scale-to-width-down/180?cb=20140929021722",
-    "genres": [
-      "Unknown"
-    ],
-    "youtubeID": "dQw4w9WgXcQ",
-    "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/mqdefault.jpg",
-    "previewStart": 0,
-    "previewEnd": 10
-  },
-  {
-    "id": "jd1986-TheFinalCountdown(JD4)",
-    "game": "Just Dance Wii U",
-    "title": "The Final Countdown(JD4)",
-    "titleWikiUrl": "https://justdance.fandom.com/wiki/The_Final_Countdown",
-    "artist": "Europe",
-    "year": "1986",
-    "mode": "Duet",
-    "difficulty": "Easy",
-    "effort": "Moderate",
-    "iconUrl": "https://static.wikia.nocookie.net/justdance/images/4/48/Thefinalcountdown_jdnow_cover_generic.jpg/revision/latest/scale-to-width-down/180?cb=20140929022356",
-    "genres": [
-      "Unknown"
-    ],
-    "youtubeID": "dQw4w9WgXcQ",
-    "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/mqdefault.jpg",
-    "previewStart": 0,
-    "previewEnd": 10
+    "thumbnail": "https://i.ytimg.com/vi/J8sZrvo2sEw/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45,
+    "youtubeId": "J8sZrvo2sEw"
   },
   {
     "id": "jd1993-EZDODANCE",
@@ -6280,9 +6897,10 @@
       "Unknown"
     ],
     "youtubeID": "dQw4w9WgXcQ",
-    "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/mqdefault.jpg",
-    "previewStart": 0,
-    "previewEnd": 10
+    "thumbnail": "https://i.ytimg.com/vi/yZZFQJ9dj5M/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45,
+    "youtubeId": "yZZFQJ9dj5M"
   },
   {
     "id": "jd2010-Danceでバコーン！",
@@ -6319,28 +6937,10 @@
       "Unknown"
     ],
     "youtubeID": "dQw4w9WgXcQ",
-    "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/mqdefault.jpg",
-    "previewStart": 0,
-    "previewEnd": 10
-  },
-  {
-    "id": "jd2011-WhatMakesYouBeautiful(JD4)",
-    "game": "Just Dance Wii U",
-    "title": "What Makes You Beautiful(JD4)",
-    "titleWikiUrl": "https://justdance.fandom.com/wiki/What_Makes_You_Beautiful",
-    "artist": "One Direction",
-    "year": "2011",
-    "mode": "Quartet",
-    "difficulty": "Easy",
-    "effort": "Intense",
-    "iconUrl": "https://static.wikia.nocookie.net/justdance/images/8/8a/Whatmakesyoubeautiful.jpg/revision/latest/scale-to-width-down/180?cb=20140929024314",
-    "genres": [
-      "Unknown"
-    ],
-    "youtubeID": "dQw4w9WgXcQ",
-    "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/mqdefault.jpg",
-    "previewStart": 0,
-    "previewEnd": 10
+    "thumbnail": "https://i.ytimg.com/vi/CespvEOdtTo/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45,
+    "youtubeId": "CespvEOdtTo"
   },
   {
     "id": "jd2012-FANTASTICBABY(JapaneseVersion)",
@@ -6398,9 +6998,10 @@
       "EDM"
     ],
     "youtubeID": "dQw4w9WgXcQ",
-    "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/mqdefault.jpg",
-    "previewStart": 0,
-    "previewEnd": 10
+    "thumbnail": "https://i.ytimg.com/vi/G_KA0l1bwqM/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45,
+    "youtubeId": "G_KA0l1bwqM"
   },
   {
     "id": "jd2013-DanceMyGeneration",
@@ -6457,9 +7058,10 @@
       "Novelty"
     ],
     "youtubeID": "dQw4w9WgXcQ",
-    "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/mqdefault.jpg",
-    "previewStart": 0,
-    "previewEnd": 10
+    "thumbnail": "https://i.ytimg.com/vi/sD2OAPvG75E/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45,
+    "youtubeId": "sD2OAPvG75E"
   },
   {
     "id": "jd1967-Ain’tNoMountainHighEnough",
@@ -6496,9 +7098,10 @@
       "Novelty"
     ],
     "youtubeID": "dQw4w9WgXcQ",
-    "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/mqdefault.jpg",
-    "previewStart": 0,
-    "previewEnd": 10
+    "thumbnail": "https://i.ytimg.com/vi/wV4NzTLXwbo/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45,
+    "youtubeId": "wV4NzTLXwbo"
   },
   {
     "id": "jd1974-LoveIsAll",
@@ -6577,9 +7180,10 @@
       "New Wave"
     ],
     "youtubeID": "dQw4w9WgXcQ",
-    "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/mqdefault.jpg",
-    "previewStart": 0,
-    "previewEnd": 10
+    "thumbnail": "https://i.ytimg.com/vi/iCzqO4hoZiE/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45,
+    "youtubeId": "iCzqO4hoZiE"
   },
   {
     "id": "jd1986-WalkThisWay",
@@ -6596,9 +7200,10 @@
       "Funk"
     ],
     "youtubeID": "dQw4w9WgXcQ",
-    "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/mqdefault.jpg",
-    "previewStart": 0,
-    "previewEnd": 10
+    "thumbnail": "https://i.ytimg.com/vi/gFcj2tqbLZ8/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45,
+    "youtubeId": "gFcj2tqbLZ8"
   },
   {
     "id": "jd1988-Don’tWorryBeHappy",
@@ -6637,9 +7242,10 @@
       "Instrumental"
     ],
     "youtubeID": "dQw4w9WgXcQ",
-    "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/mqdefault.jpg",
-    "previewStart": 0,
-    "previewEnd": 10
+    "thumbnail": "https://i.ytimg.com/vi/hx2BZ-6rOJk/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45,
+    "youtubeId": "hx2BZ-6rOJk"
   },
   {
     "id": "jd1995-Macarena",
@@ -6921,9 +7527,10 @@
       "Unknown"
     ],
     "youtubeID": "dQw4w9WgXcQ",
-    "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/mqdefault.jpg",
-    "previewStart": 0,
-    "previewEnd": 10
+    "thumbnail": "https://i.ytimg.com/vi/095PiuaAx-s/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45,
+    "youtubeId": "095PiuaAx-s"
   },
   {
     "id": "jd2013-LetItGo",
@@ -7001,9 +7608,10 @@
       "Novelty"
     ],
     "youtubeID": "dQw4w9WgXcQ",
-    "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/mqdefault.jpg",
-    "previewStart": 0,
-    "previewEnd": 10
+    "thumbnail": "https://i.ytimg.com/vi/8fpybCrm8XE/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45,
+    "youtubeId": "8fpybCrm8XE"
   },
   {
     "id": "jd2013-WeCan’tStop",
@@ -7020,9 +7628,10 @@
       "Electro"
     ],
     "youtubeID": "dQw4w9WgXcQ",
-    "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/mqdefault.jpg",
-    "previewStart": 0,
-    "previewEnd": 10
+    "thumbnail": "https://i.ytimg.com/vi/RB5H9MEHd4w/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45,
+    "youtubeId": "RB5H9MEHd4w"
   },
   {
     "id": "jd2014-Bailando",
@@ -7204,9 +7813,10 @@
       "EDM"
     ],
     "youtubeID": "dQw4w9WgXcQ",
-    "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/mqdefault.jpg",
-    "previewStart": 0,
-    "previewEnd": 10
+    "thumbnail": "https://i.ytimg.com/vi/69LQpXOk_9Y/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45,
+    "youtubeId": "69LQpXOk_9Y"
   },
   {
     "id": "jd2014-It’sMyBirthday",
@@ -7224,9 +7834,10 @@
       "Hip Hop"
     ],
     "youtubeID": "dQw4w9WgXcQ",
-    "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/mqdefault.jpg",
-    "previewStart": 0,
-    "previewEnd": 10
+    "thumbnail": "https://i.ytimg.com/vi/RsFBIx2tYyw/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45,
+    "youtubeId": "RsFBIx2tYyw"
   },
   {
     "id": "jd2014-Maps",
@@ -7253,7 +7864,7 @@
     "game": "Just Dance 2015",
     "title": "Me And My Broken Heart",
     "titleWikiUrl": "https://justdance.fandom.com/wiki/Me_And_My_Broken_Heart",
-    "artist": "Rixton (now known as Push Baby)",
+    "artist": "Rixton",
     "year": "2014",
     "mode": "Duet",
     "difficulty": "Medium",
@@ -7323,9 +7934,10 @@
       "Unknown"
     ],
     "youtubeID": "dQw4w9WgXcQ",
-    "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/mqdefault.jpg",
-    "previewStart": 0,
-    "previewEnd": 10
+    "thumbnail": "https://i.ytimg.com/vi/tVS_az0_s38/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45,
+    "youtubeId": "tVS_az0_s38"
   },
   {
     "id": "jd2014-Summer",
@@ -7343,9 +7955,10 @@
       "House"
     ],
     "youtubeID": "dQw4w9WgXcQ",
-    "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/mqdefault.jpg",
-    "previewStart": 0,
-    "previewEnd": 10
+    "thumbnail": "https://i.ytimg.com/vi/uYFW5Rqq-AY/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45,
+    "youtubeId": "uYFW5Rqq-AY"
   },
   {
     "id": "jd2014-TillIFindYou",
@@ -7362,9 +7975,10 @@
       "Electro"
     ],
     "youtubeID": "dQw4w9WgXcQ",
-    "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/mqdefault.jpg",
-    "previewStart": 0,
-    "previewEnd": 10
+    "thumbnail": "https://i.ytimg.com/vi/Q3cSKl0t9J4/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45,
+    "youtubeId": "Q3cSKl0t9J4"
   },
   {
     "id": "jd2014-XMasTree",
@@ -7381,9 +7995,10 @@
       "Christmas"
     ],
     "youtubeID": "dQw4w9WgXcQ",
-    "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/mqdefault.jpg",
-    "previewStart": 0,
-    "previewEnd": 10
+    "thumbnail": "https://i.ytimg.com/vi/sPhg97kkpio/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45,
+    "youtubeId": "sPhg97kkpio"
   },
   {
     "id": "jd2014-You’reOnMyMind",
@@ -7400,9 +8015,10 @@
       "Unknown"
     ],
     "youtubeID": "dQw4w9WgXcQ",
-    "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/mqdefault.jpg",
-    "previewStart": 0,
-    "previewEnd": 10
+    "thumbnail": "https://i.ytimg.com/vi/ua8dbZR4WUk/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45,
+    "youtubeId": "ua8dbZR4WUk"
   },
   {
     "id": "jd1829-WilliamTellOverture",
@@ -7420,9 +8036,10 @@
       "Instrumental"
     ],
     "youtubeID": "dQw4w9WgXcQ",
-    "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/mqdefault.jpg",
-    "previewStart": 0,
-    "previewEnd": 10
+    "thumbnail": "https://i.ytimg.com/vi/nXfdLOBoN7Q/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45,
+    "youtubeId": "nXfdLOBoN7Q"
   },
   {
     "id": "jd1961-HitTheRoadJack",
@@ -7459,9 +8076,10 @@
       "Unknown"
     ],
     "youtubeID": "dQw4w9WgXcQ",
-    "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/mqdefault.jpg",
-    "previewStart": 0,
-    "previewEnd": 10
+    "thumbnail": "https://i.ytimg.com/vi/psW8n6GaeLg/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45,
+    "youtubeId": "psW8n6GaeLg"
   },
   {
     "id": "jd1966-TheseBootsAreMadeForWalkin'",
@@ -7478,9 +8096,10 @@
       "Country"
     ],
     "youtubeID": "dQw4w9WgXcQ",
-    "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/mqdefault.jpg",
-    "previewStart": 0,
-    "previewEnd": 10
+    "thumbnail": "https://i.ytimg.com/vi/0PGcZV20XyE/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45,
+    "youtubeId": "0PGcZV20XyE"
   },
   {
     "id": "jd1978-Copacabana",
@@ -7517,9 +8136,10 @@
       "Disco"
     ],
     "youtubeID": "dQw4w9WgXcQ",
-    "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/mqdefault.jpg",
-    "previewStart": 0,
-    "previewEnd": 10
+    "thumbnail": "https://i.ytimg.com/vi/AeKLlkgQo6s/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45,
+    "youtubeId": "AeKLlkgQo6s"
   },
   {
     "id": "jd1981-Let’sGroove",
@@ -7558,9 +8178,10 @@
       "Eurobeat"
     ],
     "youtubeID": "dQw4w9WgXcQ",
-    "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/mqdefault.jpg",
-    "previewStart": 0,
-    "previewEnd": 10
+    "thumbnail": "https://i.ytimg.com/vi/1zQjkCyoK18/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45,
+    "youtubeId": "1zQjkCyoK18"
   },
   {
     "id": "jd1987-Boys(SummertimeLove)",
@@ -7600,9 +8221,10 @@
       "Reggae"
     ],
     "youtubeID": "dQw4w9WgXcQ",
-    "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/mqdefault.jpg",
-    "previewStart": 0,
-    "previewEnd": 10
+    "thumbnail": "https://i.ytimg.com/vi/FOONTHyjJYw/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45,
+    "youtubeId": "FOONTHyjJYw"
   },
   {
     "id": "jd2007-IevanPolkka",
@@ -7784,9 +8406,10 @@
       "Hip Hop"
     ],
     "youtubeID": "dQw4w9WgXcQ",
-    "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/mqdefault.jpg",
-    "previewStart": 0,
-    "previewEnd": 10
+    "thumbnail": "https://i.ytimg.com/vi/1A6B3RoBsY8/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45,
+    "youtubeId": "1A6B3RoBsY8"
   },
   {
     "id": "jd2013-AmIWrong",
@@ -7844,9 +8467,10 @@
       "Unknown"
     ],
     "youtubeID": "dQw4w9WgXcQ",
-    "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/mqdefault.jpg",
-    "previewStart": 0,
-    "previewEnd": 10
+    "thumbnail": "https://i.ytimg.com/vi/xG2_JPzAAGQ/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45,
+    "youtubeId": "xG2_JPzAAGQ"
   },
   {
     "id": "jd2014-AllAboutThatBass",
@@ -8054,9 +8678,10 @@
       "New Wave"
     ],
     "youtubeID": "dQw4w9WgXcQ",
-    "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/mqdefault.jpg",
-    "previewStart": 0,
-    "previewEnd": 10
+    "thumbnail": "https://i.ytimg.com/vi/p8wd54NUB10/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45,
+    "youtubeId": "p8wd54NUB10"
   },
   {
     "id": "jd2014-Teacher",
@@ -8073,9 +8698,10 @@
       "Unknown"
     ],
     "youtubeID": "dQw4w9WgXcQ",
-    "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/mqdefault.jpg",
-    "previewStart": 0,
-    "previewEnd": 10
+    "thumbnail": "https://i.ytimg.com/vi/-_gwiDOefmo/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45,
+    "youtubeId": "-_gwiDOefmo"
   },
   {
     "id": "jd2014-UptownFunk",
@@ -8093,9 +8719,10 @@
       "Funk"
     ],
     "youtubeID": "dQw4w9WgXcQ",
-    "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/mqdefault.jpg",
-    "previewStart": 0,
-    "previewEnd": 10
+    "thumbnail": "https://i.ytimg.com/vi/x_McEyJPWm4/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45,
+    "youtubeId": "x_McEyJPWm4"
   },
   {
     "id": "jd2015-BalkanBlastRemix",
@@ -8337,9 +8964,10 @@
       "Electro"
     ],
     "youtubeID": "dQw4w9WgXcQ",
-    "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/mqdefault.jpg",
-    "previewStart": 0,
-    "previewEnd": 10
+    "thumbnail": "https://i.ytimg.com/vi/nYrwxr9JyH8/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45,
+    "youtubeId": "nYrwxr9JyH8"
   },
   {
     "id": "jd2015-StadiumFlow",
@@ -8357,9 +8985,10 @@
       "Hip Hop"
     ],
     "youtubeID": "dQw4w9WgXcQ",
-    "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/mqdefault.jpg",
-    "previewStart": 0,
-    "previewEnd": 10
+    "thumbnail": "https://i.ytimg.com/vi/KR2_W_aOxQg/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45,
+    "youtubeId": "KR2_W_aOxQg"
   },
   {
     "id": "jd2015-StuckOnAFeeling",
@@ -8377,9 +9006,10 @@
       "Hip Hop"
     ],
     "youtubeID": "dQw4w9WgXcQ",
-    "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/mqdefault.jpg",
-    "previewStart": 0,
-    "previewEnd": 10
+    "thumbnail": "https://i.ytimg.com/vi/IO5r3-6rzI0/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45,
+    "youtubeId": "IO5r3-6rzI0"
   },
   {
     "id": "jd2015-TheChoiceIsYours",
@@ -8396,9 +9026,10 @@
       "Hip Hop"
     ],
     "youtubeID": "dQw4w9WgXcQ",
-    "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/mqdefault.jpg",
-    "previewStart": 0,
-    "previewEnd": 10
+    "thumbnail": "https://i.ytimg.com/vi/FWEzPI1HrNI/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45,
+    "youtubeId": "FWEzPI1HrNI"
   },
   {
     "id": "jd2015-WantToWantMe",
@@ -8415,9 +9046,10 @@
       "Disco"
     ],
     "youtubeID": "dQw4w9WgXcQ",
-    "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/mqdefault.jpg",
-    "previewStart": 0,
-    "previewEnd": 10
+    "thumbnail": "https://i.ytimg.com/vi/TIceds47ndI/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45,
+    "youtubeId": "TIceds47ndI"
   },
   {
     "id": "jd2016-TasteTheFeeling",
@@ -8434,9 +9066,10 @@
       "EDM"
     ],
     "youtubeID": "dQw4w9WgXcQ",
-    "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/mqdefault.jpg",
-    "previewStart": 0,
-    "previewEnd": 10
+    "thumbnail": "https://i.ytimg.com/vi/kkLu1UgA1tU/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45,
+    "youtubeId": "kkLu1UgA1tU"
   },
   {
     "id": "jd1917-Tico-TiconoFubá",
@@ -8453,9 +9086,10 @@
       "Instrumental"
     ],
     "youtubeID": "dQw4w9WgXcQ",
-    "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/mqdefault.jpg",
-    "previewStart": 0,
-    "previewEnd": 10
+    "thumbnail": "https://i.ytimg.com/vi/fyLldsAqd2s/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45,
+    "youtubeId": "fyLldsAqd2s"
   },
   {
     "id": "jd1978-Don’tStopMeNow",
@@ -8494,9 +9128,10 @@
       "Funk"
     ],
     "youtubeID": "dQw4w9WgXcQ",
-    "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/mqdefault.jpg",
-    "previewStart": 0,
-    "previewEnd": 10
+    "thumbnail": "https://i.ytimg.com/vi/vWySyQYkBv8/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45,
+    "youtubeId": "vWySyQYkBv8"
   },
   {
     "id": "jd1981-ILoveRock‘N’Roll",
@@ -8553,9 +9188,10 @@
       "Eurobeat"
     ],
     "youtubeID": "dQw4w9WgXcQ",
-    "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/mqdefault.jpg",
-    "previewStart": 0,
-    "previewEnd": 10
+    "thumbnail": "https://i.ytimg.com/vi/9YZabJ4g--Q/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45,
+    "youtubeId": "9YZabJ4g--Q"
   },
   {
     "id": "jd2003-DragosteaDinTei",
@@ -8634,9 +9270,10 @@
       "Unknown"
     ],
     "youtubeID": "dQw4w9WgXcQ",
-    "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/mqdefault.jpg",
-    "previewStart": 0,
-    "previewEnd": 10
+    "thumbnail": "https://i.ytimg.com/vi/dC8vh5MHtMs/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45,
+    "youtubeId": "dC8vh5MHtMs"
   },
   {
     "id": "jd2011-Titanium",
@@ -8654,9 +9291,10 @@
       "House"
     ],
     "youtubeID": "dQw4w9WgXcQ",
-    "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/mqdefault.jpg",
-    "previewStart": 0,
-    "previewEnd": 10
+    "thumbnail": "https://i.ytimg.com/vi/ofPv_33--GU/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45,
+    "youtubeId": "ofPv_33--GU"
   },
   {
     "id": "jd2012-Onatańczydlamnie",
@@ -8694,9 +9332,10 @@
       "Hip Hop"
     ],
     "youtubeID": "dQw4w9WgXcQ",
-    "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/mqdefault.jpg",
-    "previewStart": 0,
-    "previewEnd": 10
+    "thumbnail": "https://i.ytimg.com/vi/BxMiTHoMyoQ/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45,
+    "youtubeId": "BxMiTHoMyoQ"
   },
   {
     "id": "jd2014-ColaSong",
@@ -8968,9 +9607,10 @@
       "House"
     ],
     "youtubeID": "dQw4w9WgXcQ",
-    "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/mqdefault.jpg",
-    "previewStart": 0,
-    "previewEnd": 10
+    "thumbnail": "https://i.ytimg.com/vi/22kktXN83Co/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45,
+    "youtubeId": "22kktXN83Co"
   },
   {
     "id": "jd2015-WatchMe(Whip/NaeNae)",
@@ -8987,9 +9627,10 @@
       "Unknown"
     ],
     "youtubeID": "dQw4w9WgXcQ",
-    "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/mqdefault.jpg",
-    "previewStart": 0,
-    "previewEnd": 10
+    "thumbnail": "https://i.ytimg.com/vi/sfGRqShoEvU/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45,
+    "youtubeId": "sfGRqShoEvU"
   },
   {
     "id": "jd2015-WorthIt",
@@ -9006,9 +9647,10 @@
       "Unknown"
     ],
     "youtubeID": "dQw4w9WgXcQ",
-    "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/mqdefault.jpg",
-    "previewStart": 0,
-    "previewEnd": 10
+    "thumbnail": "https://i.ytimg.com/vi/NytnKHMYp3k/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45,
+    "youtubeId": "NytnKHMYp3k"
   },
   {
     "id": "jd2015-YOUTH",
@@ -9025,9 +9667,10 @@
       "Unknown"
     ],
     "youtubeID": "dQw4w9WgXcQ",
-    "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/mqdefault.jpg",
-    "previewStart": 0,
-    "previewEnd": 10
+    "thumbnail": "https://i.ytimg.com/vi/4NDIl3MYOaw/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45,
+    "youtubeId": "4NDIl3MYOaw"
   },
   {
     "id": "jd2016-Ain’tMyFault",
@@ -9474,9 +10117,10 @@
       "Unknown"
     ],
     "youtubeID": "dQw4w9WgXcQ",
-    "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/mqdefault.jpg",
-    "previewStart": 0,
-    "previewEnd": 10
+    "thumbnail": "https://i.ytimg.com/vi/TuB68fJEa_M/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45,
+    "youtubeId": "TuB68fJEa_M"
   },
   {
     "id": "jd2016-TheGreatest",
@@ -9493,9 +10137,10 @@
       "Electro"
     ],
     "youtubeID": "dQw4w9WgXcQ",
-    "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/mqdefault.jpg",
-    "previewStart": 0,
-    "previewEnd": 10
+    "thumbnail": "https://i.ytimg.com/vi/goq_W-bcr6k/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45,
+    "youtubeId": "goq_W-bcr6k"
   },
   {
     "id": "jd2016-WhereverIGo",
@@ -9512,9 +10157,10 @@
       "Unknown"
     ],
     "youtubeID": "dQw4w9WgXcQ",
-    "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/mqdefault.jpg",
-    "previewStart": 0,
-    "previewEnd": 10
+    "thumbnail": "https://i.ytimg.com/vi/Xh9DPyctNSU/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45,
+    "youtubeId": "Xh9DPyctNSU"
   },
   {
     "id": "jd1875-Carmen(Overture)",
@@ -9675,9 +10321,10 @@
       "Eurobeat"
     ],
     "youtubeID": "dQw4w9WgXcQ",
-    "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/mqdefault.jpg",
-    "previewStart": 0,
-    "previewEnd": 10
+    "thumbnail": "https://i.ytimg.com/vi/XV_ijN-Gmvg/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45,
+    "youtubeId": "XV_ijN-Gmvg"
   },
   {
     "id": "jd2003-NaughtyGirl",
@@ -9700,9 +10347,9 @@
     "youtubeId": "z0NRRcG74O0"
   },
   {
-    "id": "jd2003-WhipJamboree",
+    "id": "jd2003-FearlessPirate",
     "game": "Just Dance 2018",
-    "title": "Whip Jamboree",
+    "title": "Fearless Pirate",
     "titleWikiUrl": "https://justdance.fandom.com/wiki/Fearless_Pirate",
     "artist": "Marine Band",
     "year": "2003",
@@ -9714,9 +10361,10 @@
       "Unknown"
     ],
     "youtubeID": "dQw4w9WgXcQ",
-    "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/mqdefault.jpg",
-    "previewStart": 0,
-    "previewEnd": 10
+    "thumbnail": "https://i.ytimg.com/vi/IIL6IxirnQM/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45,
+    "youtubeId": "IIL6IxirnQM"
   },
   {
     "id": "jd2006-J-PopDrop",
@@ -9733,9 +10381,10 @@
       "Unknown"
     ],
     "youtubeID": "dQw4w9WgXcQ",
-    "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/mqdefault.jpg",
-    "previewStart": 0,
-    "previewEnd": 10
+    "thumbnail": "https://i.ytimg.com/vi/T2d6FRjPq4c/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45,
+    "youtubeId": "T2d6FRjPq4c"
   },
   {
     "id": "jd2009-LoveWard",
@@ -9792,9 +10441,10 @@
       "Unknown"
     ],
     "youtubeID": "dQw4w9WgXcQ",
-    "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/mqdefault.jpg",
-    "previewStart": 0,
-    "previewEnd": 10
+    "thumbnail": "https://i.ytimg.com/vi/c-1GZ5pFEyI/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45,
+    "youtubeId": "c-1GZ5pFEyI"
   },
   {
     "id": "jd2011-BubblePop!",
@@ -9817,9 +10467,9 @@
     "youtubeId": "cVB5nQk5UAg"
   },
   {
-    "id": "jd2013-AComedyofTerrors",
+    "id": "jd2013-MagicHalloween",
     "game": "Just Dance 2018",
-    "title": "A Comedy of Terrors",
+    "title": "Magic Halloween",
     "titleWikiUrl": "https://justdance.fandom.com/wiki/Magic_Halloween",
     "artist": "Halloween Thrills",
     "year": "2013",
@@ -9831,9 +10481,10 @@
       "Unknown"
     ],
     "youtubeID": "dQw4w9WgXcQ",
-    "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/mqdefault.jpg",
-    "previewStart": 0,
-    "previewEnd": 10
+    "thumbnail": "https://i.ytimg.com/vi/1XLI1X1fmws/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45,
+    "youtubeId": "1XLI1X1fmws"
   },
   {
     "id": "jd2015-Sax",
@@ -9851,9 +10502,10 @@
       "Hip Hop"
     ],
     "youtubeID": "dQw4w9WgXcQ",
-    "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/mqdefault.jpg",
-    "previewStart": 0,
-    "previewEnd": 10
+    "thumbnail": "https://i.ytimg.com/vi/lCQMeHcbOi4/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45,
+    "youtubeId": "lCQMeHcbOi4"
   },
   {
     "id": "jd2016-24KMagic",
@@ -10082,9 +10734,9 @@
     "youtubeId": "p2Z09-LSgXU"
   },
   {
-    "id": "jd2016-PintSizedCrazy",
+    "id": "jd2016-HappyFarm",
     "game": "Just Dance 2018",
-    "title": "Pint Sized Crazy",
+    "title": "Happy Farm",
     "titleWikiUrl": "https://justdance.fandom.com/wiki/Happy_Farm",
     "artist": "Groove Century",
     "year": "2016",
@@ -10096,9 +10748,10 @@
       "Unknown"
     ],
     "youtubeID": "dQw4w9WgXcQ",
-    "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/mqdefault.jpg",
-    "previewStart": 0,
-    "previewEnd": 10
+    "thumbnail": "https://i.ytimg.com/vi/U1-JL4P_yBc/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45,
+    "youtubeId": "U1-JL4P_yBc"
   },
   {
     "id": "jd2016-Rockabye",
@@ -10136,9 +10789,10 @@
       "Reggae"
     ],
     "youtubeID": "dQw4w9WgXcQ",
-    "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/mqdefault.jpg",
-    "previewStart": 0,
-    "previewEnd": 10
+    "thumbnail": "https://i.ytimg.com/vi/VySnYXG1x_o/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45,
+    "youtubeId": "VySnYXG1x_o"
   },
   {
     "id": "jd2016-SlumberParty",
@@ -10155,9 +10809,10 @@
       "Reggae"
     ],
     "youtubeID": "dQw4w9WgXcQ",
-    "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/mqdefault.jpg",
-    "previewStart": 0,
-    "previewEnd": 10
+    "thumbnail": "https://i.ytimg.com/vi/luvXCWnj3sQ/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45,
+    "youtubeId": "luvXCWnj3sQ"
   },
   {
     "id": "jd2016-Thumbs",
@@ -10174,9 +10829,10 @@
       "Electro"
     ],
     "youtubeID": "dQw4w9WgXcQ",
-    "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/mqdefault.jpg",
-    "previewStart": 0,
-    "previewEnd": 10
+    "thumbnail": "https://i.ytimg.com/vi/gJ06Cl-VOxw/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45,
+    "youtubeId": "gJ06Cl-VOxw"
   },
   {
     "id": "jd2016-Tumbum",
@@ -10194,9 +10850,10 @@
       "Reggae"
     ],
     "youtubeID": "dQw4w9WgXcQ",
-    "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/mqdefault.jpg",
-    "previewStart": 0,
-    "previewEnd": 10
+    "thumbnail": "https://i.ytimg.com/vi/HMJ_FQkpxa8/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45,
+    "youtubeId": "HMJ_FQkpxa8"
   },
   {
     "id": "jd2017 (English Version) | 2020 (Mandarin Version)-AllYouGottaDo(IsJustDance)",
@@ -10306,9 +10963,9 @@
     "youtubeId": "7-HRathkyu8"
   },
   {
-    "id": "jd2017-Cowabunga",
+    "id": "jd2017-AmazingGirl",
     "game": "Just Dance 2018",
-    "title": "Cowabunga",
+    "title": "Amazing Girl",
     "titleWikiUrl": "https://justdance.fandom.com/wiki/Amazing_Girl",
     "artist": "The Girly Team",
     "year": "2017",
@@ -10320,9 +10977,10 @@
       "Unknown"
     ],
     "youtubeID": "dQw4w9WgXcQ",
-    "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/mqdefault.jpg",
-    "previewStart": 0,
-    "previewEnd": 10
+    "thumbnail": "https://i.ytimg.com/vi/JHBlTiekyeY/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45,
+    "youtubeId": "JHBlTiekyeY"
   },
   {
     "id": "jd2017-Despacito",
@@ -10563,9 +11221,10 @@
       "Unknown"
     ],
     "youtubeID": "dQw4w9WgXcQ",
-    "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/mqdefault.jpg",
-    "previewStart": 0,
-    "previewEnd": 10
+    "thumbnail": "https://i.ytimg.com/vi/vrHf1WX6e4w/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45,
+    "youtubeId": "vrHf1WX6e4w"
   },
   {
     "id": "jd2017-ShapeofYou",
@@ -10583,9 +11242,10 @@
       "House"
     ],
     "youtubeID": "dQw4w9WgXcQ",
-    "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/mqdefault.jpg",
-    "previewStart": 0,
-    "previewEnd": 10
+    "thumbnail": "https://i.ytimg.com/vi/GjFQ-4HiEPg/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45,
+    "youtubeId": "GjFQ-4HiEPg"
   },
   {
     "id": "jd2017-SugarDance",
@@ -10602,9 +11262,10 @@
       "Unknown"
     ],
     "youtubeID": "dQw4w9WgXcQ",
-    "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/mqdefault.jpg",
-    "previewStart": 0,
-    "previewEnd": 10
+    "thumbnail": "https://i.ytimg.com/vi/RSwn6Etsb3s/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45,
+    "youtubeId": "RSwn6Etsb3s"
   },
   {
     "id": "jd2017-SwishSwish",
@@ -10623,9 +11284,10 @@
       "House"
     ],
     "youtubeID": "dQw4w9WgXcQ",
-    "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/mqdefault.jpg",
-    "previewStart": 0,
-    "previewEnd": 10
+    "thumbnail": "https://i.ytimg.com/vi/FzfvuNkc-mA/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45,
+    "youtubeId": "FzfvuNkc-mA"
   },
   {
     "id": "jd2017-TheWayIAre(DanceWithSomebody)",
@@ -10642,9 +11304,10 @@
       "Unknown"
     ],
     "youtubeID": "dQw4w9WgXcQ",
-    "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/mqdefault.jpg",
-    "previewStart": 0,
-    "previewEnd": 10
+    "thumbnail": "https://i.ytimg.com/vi/xta2H9PKrNU/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45,
+    "youtubeId": "xta2H9PKrNU"
   },
   {
     "id": "jd2017-WhatLoversDo",
@@ -10661,9 +11324,10 @@
       "Unknown"
     ],
     "youtubeID": "dQw4w9WgXcQ",
-    "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/mqdefault.jpg",
-    "previewStart": 0,
-    "previewEnd": 10
+    "thumbnail": "https://i.ytimg.com/vi/5XaYlWuP4qI/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45,
+    "youtubeId": "5XaYlWuP4qI"
   },
   {
     "id": "jd2018-DameTuCosita",
@@ -10720,9 +11384,10 @@
       "Unknown"
     ],
     "youtubeID": "dQw4w9WgXcQ",
-    "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/mqdefault.jpg",
-    "previewStart": 0,
-    "previewEnd": 10
+    "thumbnail": "https://i.ytimg.com/vi/12CNNMqjEK4/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45,
+    "youtubeId": "12CNNMqjEK4"
   },
   {
     "id": "jd1978-ÇaPlanePourMoi",
@@ -10846,9 +11511,9 @@
     "youtubeId": "JaicIfHmOP8"
   },
   {
-    "id": "jd2003-Boogie12",
+    "id": "jd2003-Boogiesaurus",
     "game": "Just Dance 2019",
-    "title": "Boogie 12",
+    "title": "Boogiesaurus",
     "titleWikiUrl": "https://justdance.fandom.com/wiki/Boogiesaurus",
     "artist": "A. Caveman and the Backseats",
     "year": "2003",
@@ -10860,14 +11525,15 @@
       "Unknown"
     ],
     "youtubeID": "dQw4w9WgXcQ",
-    "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/mqdefault.jpg",
-    "previewStart": 0,
-    "previewEnd": 10
+    "thumbnail": "https://i.ytimg.com/vi/ngcnIzv4E90/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45,
+    "youtubeId": "ngcnIzv4E90"
   },
   {
-    "id": "jd2008-RidersofIran(A)",
+    "id": "jd2008-TalesoftheDesert",
     "game": "Just Dance 2019",
-    "title": "Riders of Iran (A)",
+    "title": "Tales of the Desert",
     "titleWikiUrl": "https://justdance.fandom.com/wiki/Tales_of_the_Desert",
     "artist": "Persian Nights",
     "year": "2008",
@@ -10879,9 +11545,10 @@
       "Unknown"
     ],
     "youtubeID": "dQw4w9WgXcQ",
-    "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/mqdefault.jpg",
-    "previewStart": 0,
-    "previewEnd": 10
+    "thumbnail": "https://i.ytimg.com/vi/-pj57kdn4lU/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45,
+    "youtubeId": "-pj57kdn4lU"
   },
   {
     "id": "jd2012-CosmicParty",
@@ -10983,9 +11650,10 @@
       "EDM"
     ],
     "youtubeID": "dQw4w9WgXcQ",
-    "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/mqdefault.jpg",
-    "previewStart": 0,
-    "previewEnd": 10
+    "thumbnail": "https://i.ytimg.com/vi/kT_n7kg6yqU/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45,
+    "youtubeId": "kT_n7kg6yqU"
   },
   {
     "id": "jd2014-Sugar",
@@ -11003,9 +11671,10 @@
       "Funk"
     ],
     "youtubeID": "dQw4w9WgXcQ",
-    "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/mqdefault.jpg",
-    "previewStart": 0,
-    "previewEnd": 10
+    "thumbnail": "https://i.ytimg.com/vi/aT_Jssz3xzU/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45,
+    "youtubeId": "aT_Jssz3xzU"
   },
   {
     "id": "jd2015-BangBangBang",
@@ -11031,9 +11700,9 @@
     "youtubeId": "7wHpnBcHh6k"
   },
   {
-    "id": "jd2015-BrassParty",
+    "id": "jd2015-MonstersofJazz",
     "game": "Just Dance 2019",
-    "title": "Brass Party",
+    "title": "Monsters of Jazz",
     "titleWikiUrl": "https://justdance.fandom.com/wiki/Monsters_of_Jazz",
     "artist": "Groove Century",
     "year": "2015",
@@ -11045,9 +11714,10 @@
       "Unknown"
     ],
     "youtubeID": "dQw4w9WgXcQ",
-    "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/mqdefault.jpg",
-    "previewStart": 0,
-    "previewEnd": 10
+    "thumbnail": "https://i.ytimg.com/vi/V-DpuJAJX-E/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45,
+    "youtubeId": "V-DpuJAJX-E"
   },
   {
     "id": "jd2015-Fire",
@@ -11206,9 +11876,10 @@
       "Reggaeton"
     ],
     "youtubeID": "dQw4w9WgXcQ",
-    "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/mqdefault.jpg",
-    "previewStart": 0,
-    "previewEnd": 10
+    "thumbnail": "https://i.ytimg.com/vi/1VsUvdFL3j8/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45,
+    "youtubeId": "1VsUvdFL3j8"
   },
   {
     "id": "jd2016-WhereAreYouNow?",
@@ -11225,9 +11896,10 @@
       "Unknown"
     ],
     "youtubeID": "dQw4w9WgXcQ",
-    "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/mqdefault.jpg",
-    "previewStart": 0,
-    "previewEnd": 10
+    "thumbnail": "https://i.ytimg.com/vi/HIffEj4EM1I/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45,
+    "youtubeId": "HIffEj4EM1I"
   },
   {
     "id": "jd2016-YouDon’tKnowMe",
@@ -11244,9 +11916,10 @@
       "House"
     ],
     "youtubeID": "dQw4w9WgXcQ",
-    "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/mqdefault.jpg",
-    "previewStart": 0,
-    "previewEnd": 10
+    "thumbnail": "https://i.ytimg.com/vi/LgLteMX1KK0/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45,
+    "youtubeId": "LgLteMX1KK0"
   },
   {
     "id": "jd2017-BumBumTamTam",
@@ -11469,9 +12142,10 @@
       "Unknown"
     ],
     "youtubeID": "dQw4w9WgXcQ",
-    "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/mqdefault.jpg",
-    "previewStart": 0,
-    "previewEnd": 10
+    "thumbnail": "https://i.ytimg.com/vi/jGKQN6dWN9k/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45,
+    "youtubeId": "jGKQN6dWN9k"
   },
   {
     "id": "jd2017-UnPocoLoco",
@@ -11488,9 +12162,10 @@
       "Unknown"
     ],
     "youtubeID": "dQw4w9WgXcQ",
-    "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/mqdefault.jpg",
-    "previewStart": 0,
-    "previewEnd": 10
+    "thumbnail": "https://i.ytimg.com/vi/HeKLraD70ic/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45,
+    "youtubeId": "HeKLraD70ic"
   },
   {
     "id": "jd2017-WaterMe",
@@ -11508,9 +12183,10 @@
       "Funk"
     ],
     "youtubeID": "dQw4w9WgXcQ",
-    "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/mqdefault.jpg",
-    "previewStart": 0,
-    "previewEnd": 10
+    "thumbnail": "https://i.ytimg.com/vi/Yk5eKG7t0Ow/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45,
+    "youtubeId": "Yk5eKG7t0Ow"
   },
   {
     "id": "jd2018-Boys",
@@ -11770,9 +12446,10 @@
       "Hip Hop"
     ],
     "youtubeID": "dQw4w9WgXcQ",
-    "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/mqdefault.jpg",
-    "previewStart": 0,
-    "previewEnd": 10
+    "thumbnail": "https://i.ytimg.com/vi/yAvEt3cZI2I/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45,
+    "youtubeId": "yAvEt3cZI2I"
   },
   {
     "id": "jd2018-NoTearsLeftToCry",
@@ -11874,9 +12551,10 @@
       "Salsa"
     ],
     "youtubeID": "dQw4w9WgXcQ",
-    "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/mqdefault.jpg",
-    "previewStart": 0,
-    "previewEnd": 10
+    "thumbnail": "https://i.ytimg.com/vi/zGRK7k3bdIQ/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45,
+    "youtubeId": "zGRK7k3bdIQ"
   },
   {
     "id": "jd2018-ShinobiCat",
@@ -11893,9 +12571,10 @@
       "Instrumental"
     ],
     "youtubeID": "dQw4w9WgXcQ",
-    "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/mqdefault.jpg",
-    "previewStart": 0,
-    "previewEnd": 10
+    "thumbnail": "https://i.ytimg.com/vi/pqKU3m0L_og/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45,
+    "youtubeId": "pqKU3m0L_og"
   },
   {
     "id": "jd2018-SweetSensation",
@@ -11913,9 +12592,10 @@
       "House"
     ],
     "youtubeID": "dQw4w9WgXcQ",
-    "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/mqdefault.jpg",
-    "previewStart": 0,
-    "previewEnd": 10
+    "thumbnail": "https://i.ytimg.com/vi/_jjlEWeF-sQ/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45,
+    "youtubeId": "_jjlEWeF-sQ"
   },
   {
     "id": "jd2018-TOY",
@@ -11932,9 +12612,10 @@
       "Electro"
     ],
     "youtubeID": "dQw4w9WgXcQ",
-    "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/mqdefault.jpg",
-    "previewStart": 0,
-    "previewEnd": 10
+    "thumbnail": "https://i.ytimg.com/vi/bOSVnStta68/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45,
+    "youtubeId": "bOSVnStta68"
   },
   {
     "id": "jd1858-InfernalGalop(Can-Can)",
@@ -12117,9 +12798,10 @@
       "House"
     ],
     "youtubeID": "dQw4w9WgXcQ",
-    "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/mqdefault.jpg",
-    "previewStart": 0,
-    "previewEnd": 10
+    "thumbnail": "https://i.ytimg.com/vi/jj1FSn6v540/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45,
+    "youtubeId": "jj1FSn6v540"
   },
   {
     "id": "jd2011-Bangarang",
@@ -12202,9 +12884,10 @@
       "House"
     ],
     "youtubeID": "dQw4w9WgXcQ",
-    "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/mqdefault.jpg",
-    "previewStart": 0,
-    "previewEnd": 10
+    "thumbnail": "https://i.ytimg.com/vi/R69yfsAlOqk/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45,
+    "youtubeId": "R69yfsAlOqk"
   },
   {
     "id": "jd2012-Crayon",
@@ -12243,9 +12926,10 @@
       "Electro"
     ],
     "youtubeID": "dQw4w9WgXcQ",
-    "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/mqdefault.jpg",
-    "previewStart": 0,
-    "previewEnd": 10
+    "thumbnail": "https://i.ytimg.com/vi/aowrZwuMass/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45,
+    "youtubeId": "aowrZwuMass"
   },
   {
     "id": "jd2013-WhiteNoise",
@@ -12262,9 +12946,10 @@
       "House"
     ],
     "youtubeID": "dQw4w9WgXcQ",
-    "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/mqdefault.jpg",
-    "previewStart": 0,
-    "previewEnd": 10
+    "thumbnail": "https://i.ytimg.com/vi/bWEYIQFG7Xg/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45,
+    "youtubeId": "bWEYIQFG7Xg"
   },
   {
     "id": "jd2015-10.000Luchtballonen",
@@ -12322,9 +13007,10 @@
       "Unknown"
     ],
     "youtubeID": "dQw4w9WgXcQ",
-    "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/mqdefault.jpg",
-    "previewStart": 0,
-    "previewEnd": 10
+    "thumbnail": "https://i.ytimg.com/vi/YPA7svrGik4/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45,
+    "youtubeId": "YPA7svrGik4"
   },
   {
     "id": "jd2016-BabyShark",
@@ -12384,9 +13070,10 @@
       "Unknown"
     ],
     "youtubeID": "dQw4w9WgXcQ",
-    "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/mqdefault.jpg",
-    "previewStart": 0,
-    "previewEnd": 10
+    "thumbnail": "https://i.ytimg.com/vi/r2sIFezzZFg/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45,
+    "youtubeId": "r2sIFezzZFg"
   },
   {
     "id": "jd2017-MyNewSwag",
@@ -12547,9 +13234,10 @@
       "House"
     ],
     "youtubeID": "dQw4w9WgXcQ",
-    "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/mqdefault.jpg",
-    "previewStart": 0,
-    "previewEnd": 10
+    "thumbnail": "https://i.ytimg.com/vi/kj8VEoJ586U/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45,
+    "youtubeId": "kj8VEoJ586U"
   },
   {
     "id": "jd2018-Sushi",
@@ -12566,9 +13254,10 @@
       "EDM"
     ],
     "youtubeID": "dQw4w9WgXcQ",
-    "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/mqdefault.jpg",
-    "previewStart": 0,
-    "previewEnd": 10
+    "thumbnail": "https://i.ytimg.com/vi/otGHXUCYRKw/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45,
+    "youtubeId": "otGHXUCYRKw"
   },
   {
     "id": "jd2018-TakiTaki",
@@ -12586,9 +13275,10 @@
       "Reggaeton"
     ],
     "youtubeID": "dQw4w9WgXcQ",
-    "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/mqdefault.jpg",
-    "previewStart": 0,
-    "previewEnd": 10
+    "thumbnail": "https://i.ytimg.com/vi/Zpg4RbrqsuI/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45,
+    "youtubeId": "Zpg4RbrqsuI"
   },
   {
     "id": "jd2018-UglyBeauty(怪美的)",
@@ -12605,9 +13295,10 @@
       "Unknown"
     ],
     "youtubeID": "dQw4w9WgXcQ",
-    "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/mqdefault.jpg",
-    "previewStart": 0,
-    "previewEnd": 10
+    "thumbnail": "https://i.ytimg.com/vi/-HuIlHMFb2c/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45,
+    "youtubeId": "-HuIlHMFb2c"
   },
   {
     "id": "jd2018-WomanLikeMe",
@@ -12624,9 +13315,10 @@
       "Reggae"
     ],
     "youtubeID": "dQw4w9WgXcQ",
-    "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/mqdefault.jpg",
-    "previewStart": 0,
-    "previewEnd": 10
+    "thumbnail": "https://i.ytimg.com/vi/f3SQzj3wsQg/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45,
+    "youtubeId": "f3SQzj3wsQg"
   },
   {
     "id": "jd2018-X",
@@ -12643,9 +13335,10 @@
       "Dancehall"
     ],
     "youtubeID": "dQw4w9WgXcQ",
-    "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/mqdefault.jpg",
-    "previewStart": 0,
-    "previewEnd": 10
+    "thumbnail": "https://i.ytimg.com/vi/TD45kFfEN7U/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45,
+    "youtubeId": "TD45kFfEN7U"
   },
   {
     "id": "jd2019-365",
@@ -13154,9 +13847,10 @@
       "Funk"
     ],
     "youtubeID": "dQw4w9WgXcQ",
-    "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/mqdefault.jpg",
-    "previewStart": 0,
-    "previewEnd": 10
+    "thumbnail": "https://i.ytimg.com/vi/J1S5OB8DcMs/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45,
+    "youtubeId": "J1S5OB8DcMs"
   },
   {
     "id": "jd2019-StopMovin’",
@@ -13173,9 +13867,10 @@
       "Unknown"
     ],
     "youtubeID": "dQw4w9WgXcQ",
-    "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/mqdefault.jpg",
-    "previewStart": 0,
-    "previewEnd": 10
+    "thumbnail": "https://i.ytimg.com/vi/Peyv5B28Mm8/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45,
+    "youtubeId": "Peyv5B28Mm8"
   },
   {
     "id": "jd2019-Sucker'",
@@ -13192,9 +13887,10 @@
       "Unknown"
     ],
     "youtubeID": "dQw4w9WgXcQ",
-    "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/mqdefault.jpg",
-    "previewStart": 0,
-    "previewEnd": 10
+    "thumbnail": "https://i.ytimg.com/vi/QrgXjHsz1gs/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45,
+    "youtubeId": "QrgXjHsz1gs"
   },
   {
     "id": "jd2019-Talk",
@@ -13211,9 +13907,10 @@
       "Electro"
     ],
     "youtubeID": "dQw4w9WgXcQ",
-    "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/mqdefault.jpg",
-    "previewStart": 0,
-    "previewEnd": 10
+    "thumbnail": "https://i.ytimg.com/vi/PIIKtLNtw_I/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45,
+    "youtubeId": "PIIKtLNtw_I"
   },
   {
     "id": "jd2019-TheFrogConcert",
@@ -13230,9 +13927,10 @@
       "Instrumental"
     ],
     "youtubeID": "dQw4w9WgXcQ",
-    "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/mqdefault.jpg",
-    "previewStart": 0,
-    "previewEnd": 10
+    "thumbnail": "https://i.ytimg.com/vi/8Qry9dtbjTQ/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45,
+    "youtubeId": "8Qry9dtbjTQ"
   },
   {
     "id": "jd2021-DaretoLive",
@@ -13255,9 +13953,9 @@
     "youtubeId": "v0_N-NchKOo"
   },
   {
-    "id": "jd2021-Let’sParty(飞艇派对)(CHN)",
+    "id": "jd2021-Let’sParty",
     "game": "Just Dance 2020/Just Dance China",
-    "title": "Let’s Party (飞艇派对)(CHN)",
+    "title": "Let’s Party",
     "titleWikiUrl": "https://justdance.fandom.com/wiki/Let%E2%80%99s_Party",
     "artist": "Wu Xuanyi & Game For Peace",
     "year": "2021",
@@ -13269,9 +13967,10 @@
       "Unknown"
     ],
     "youtubeID": "dQw4w9WgXcQ",
-    "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/mqdefault.jpg",
-    "previewStart": 0,
-    "previewEnd": 10
+    "thumbnail": "https://i.ytimg.com/vi/kKXcBrJ0WVY/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45,
+    "youtubeId": "kKXcBrJ0WVY"
   },
   {
     "id": "jd1892-DanceOfTheMirlitons",
@@ -13328,9 +14027,10 @@
       "Disco"
     ],
     "youtubeID": "dQw4w9WgXcQ",
-    "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/mqdefault.jpg",
-    "previewStart": 0,
-    "previewEnd": 10
+    "thumbnail": "https://i.ytimg.com/vi/QMRd0CZbo5w/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45,
+    "youtubeId": "QMRd0CZbo5w"
   },
   {
     "id": "jd1995-You’veGotaFriendInMe",
@@ -13347,9 +14047,10 @@
       "Country"
     ],
     "youtubeID": "dQw4w9WgXcQ",
-    "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/mqdefault.jpg",
-    "previewStart": 0,
-    "previewEnd": 10
+    "thumbnail": "https://i.ytimg.com/vi/oGSZ4pvYgi0/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45,
+    "youtubeId": "oGSZ4pvYgi0"
   },
   {
     "id": "jd1996-Bailando",
@@ -13389,9 +14090,10 @@
       "Samba"
     ],
     "youtubeID": "dQw4w9WgXcQ",
-    "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/mqdefault.jpg",
-    "previewStart": 0,
-    "previewEnd": 10
+    "thumbnail": "https://i.ytimg.com/vi/pwL1zE5jROE/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45,
+    "youtubeId": "pwL1zE5jROE"
   },
   {
     "id": "jd1999-GetGetDown",
@@ -13429,9 +14131,10 @@
       "Unknown"
     ],
     "youtubeID": "dQw4w9WgXcQ",
-    "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/mqdefault.jpg",
-    "previewStart": 0,
-    "previewEnd": 10
+    "thumbnail": "https://i.ytimg.com/vi/diUT5Z0Vz2o/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45,
+    "youtubeId": "diUT5Z0Vz2o"
   },
   {
     "id": "jd2003-Kulikitaka",
@@ -13471,14 +14174,15 @@
       "House"
     ],
     "youtubeID": "dQw4w9WgXcQ",
-    "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/mqdefault.jpg",
-    "previewStart": 0,
-    "previewEnd": 10
+    "thumbnail": "https://i.ytimg.com/vi/7vKhPkWstTg/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45,
+    "youtubeId": "7vKhPkWstTg"
   },
   {
-    "id": "jd2005-RidingHigh",
+    "id": "jd2005-GetOnTheFireTruck",
     "game": "Just Dance 2021",
-    "title": "Riding High",
+    "title": "Get On The Fire Truck",
     "titleWikiUrl": "https://justdance.fandom.com/wiki/Get_On_The_Fire_Truck",
     "artist": "The Step Brigade",
     "year": "2005",
@@ -13490,9 +14194,10 @@
       "Unknown"
     ],
     "youtubeID": "dQw4w9WgXcQ",
-    "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/mqdefault.jpg",
-    "previewStart": 0,
-    "previewEnd": 10
+    "thumbnail": "https://i.ytimg.com/vi/JB9czuJXyY4/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45,
+    "youtubeId": "JB9czuJXyY4"
   },
   {
     "id": "jd2005-Temperature",
@@ -13511,9 +14216,10 @@
       "Hip Hop"
     ],
     "youtubeID": "dQw4w9WgXcQ",
-    "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/mqdefault.jpg",
-    "previewStart": 0,
-    "previewEnd": 10
+    "thumbnail": "https://i.ytimg.com/vi/XUUXfmG87Vc/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45,
+    "youtubeId": "XUUXfmG87Vc"
   },
   {
     "id": "jd2006-JooneKhodet",
@@ -13551,14 +14257,15 @@
       "Hip Hop"
     ],
     "youtubeID": "dQw4w9WgXcQ",
-    "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/mqdefault.jpg",
-    "previewStart": 0,
-    "previewEnd": 10
+    "thumbnail": "https://i.ytimg.com/vi/TO9uD-ehMoY/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45,
+    "youtubeId": "TO9uD-ehMoY"
   },
   {
-    "id": "jd2008-RockOnHumpty",
+    "id": "jd2008-Rock'nRollPrincess",
     "game": "Just Dance 2021",
-    "title": "Rock On Humpty",
+    "title": "Rock 'n Roll Princess",
     "titleWikiUrl": "https://justdance.fandom.com/wiki/Rock_N_Roll_Princess",
     "artist": "Fast Forward Highway",
     "year": "2008",
@@ -13570,14 +14277,15 @@
       "Unknown"
     ],
     "youtubeID": "dQw4w9WgXcQ",
-    "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/mqdefault.jpg",
-    "previewStart": 0,
-    "previewEnd": 10
+    "thumbnail": "https://i.ytimg.com/vi/p4wtqS8tQbI/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45,
+    "youtubeId": "p4wtqS8tQbI"
   },
   {
-    "id": "jd2011-8-BitDisco",
+    "id": "jd2011-TheColorLab",
     "game": "Just Dance 2021",
-    "title": "8-Bit Disco",
+    "title": "The Color lab",
     "titleWikiUrl": "https://justdance.fandom.com/wiki/The_Color_Lab",
     "artist": "Dancing Bros.",
     "year": "2011",
@@ -13589,14 +14297,15 @@
       "Unknown"
     ],
     "youtubeID": "dQw4w9WgXcQ",
-    "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/mqdefault.jpg",
-    "previewStart": 0,
-    "previewEnd": 10
+    "thumbnail": "https://i.ytimg.com/vi/seNDx8X0tcI/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45,
+    "youtubeId": "seNDx8X0tcI"
   },
   {
-    "id": "jd2011-SpaceBoogie",
+    "id": "jd2011-SpaceCat",
     "game": "Just Dance 2021",
-    "title": "Space Boogie",
+    "title": "Space Cat",
     "titleWikiUrl": "https://justdance.fandom.com/wiki/Space_Cat",
     "artist": "Equinox Stars",
     "year": "2011",
@@ -13608,9 +14317,10 @@
       "Unknown"
     ],
     "youtubeID": "dQw4w9WgXcQ",
-    "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/mqdefault.jpg",
-    "previewStart": 0,
-    "previewEnd": 10
+    "thumbnail": "https://i.ytimg.com/vi/SNwea8MPJNU/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45,
+    "youtubeId": "SNwea8MPJNU"
   },
   {
     "id": "jd2011-TillTheWorldEnds",
@@ -13628,9 +14338,10 @@
       "Eurobeat"
     ],
     "youtubeID": "dQw4w9WgXcQ",
-    "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/mqdefault.jpg",
-    "previewStart": 0,
-    "previewEnd": 10
+    "thumbnail": "https://i.ytimg.com/vi/ZsCiXjXJ7AY/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45,
+    "youtubeId": "ZsCiXjXJ7AY"
   },
   {
     "id": "jd2014-ComeBackHome",
@@ -13740,9 +14451,9 @@
     "youtubeId": "xK5QbxQXwFw"
   },
   {
-    "id": "jd2015-SunClub",
+    "id": "jd2015-Let'sSaveOurPlanet",
     "game": "Just Dance 2021",
-    "title": "Sun Club",
+    "title": "Let's Save Our Planet",
     "titleWikiUrl": "https://justdance.fandom.com/wiki/Let%E2%80%99s_Save_Our_Planet",
     "artist": "The Sunlight Shakers",
     "year": "2015",
@@ -13754,9 +14465,10 @@
       "Unknown"
     ],
     "youtubeID": "dQw4w9WgXcQ",
-    "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/mqdefault.jpg",
-    "previewStart": 0,
-    "previewEnd": 10
+    "thumbnail": "https://i.ytimg.com/vi/lWEON1SFbX4/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45,
+    "youtubeId": "lWEON1SFbX4"
   },
   {
     "id": "jd2016-GirlsLike",
@@ -13795,9 +14507,10 @@
       "Unknown"
     ],
     "youtubeID": "dQw4w9WgXcQ",
-    "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/mqdefault.jpg",
-    "previewStart": 0,
-    "previewEnd": 10
+    "thumbnail": "https://i.ytimg.com/vi/XKn_45RHjs0/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45,
+    "youtubeId": "XKn_45RHjs0"
   },
   {
     "id": "jd2018-AllTheStars",
@@ -13898,9 +14611,10 @@
       "Eurobeat"
     ],
     "youtubeID": "dQw4w9WgXcQ",
-    "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/mqdefault.jpg",
-    "previewStart": 0,
-    "previewEnd": 10
+    "thumbnail": "https://i.ytimg.com/vi/ev-3X3wcR3E/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45,
+    "youtubeId": "ev-3X3wcR3E"
   },
   {
     "id": "jd2019-AdoreYou",
@@ -14103,9 +14817,10 @@
       "Funk"
     ],
     "youtubeID": "dQw4w9WgXcQ",
-    "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/mqdefault.jpg",
-    "previewStart": 0,
-    "previewEnd": 10
+    "thumbnail": "https://i.ytimg.com/vi/LtvJsxRiIdE/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45,
+    "youtubeId": "LtvJsxRiIdE"
   },
   {
     "id": "jd2019-Señorita",
@@ -14122,14 +14837,15 @@
       "Unknown"
     ],
     "youtubeID": "dQw4w9WgXcQ",
-    "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/mqdefault.jpg",
-    "previewStart": 0,
-    "previewEnd": 10
+    "thumbnail": "https://i.ytimg.com/vi/azDb5cqTyT4/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45,
+    "youtubeId": "azDb5cqTyT4"
   },
   {
-    "id": "jd2019-TheBoss",
+    "id": "jd2019-HereComesTheSpy",
     "game": "Just Dance 2021",
-    "title": "The Boss",
+    "title": "Here Comes The Spy",
     "titleWikiUrl": "https://justdance.fandom.com/wiki/Here_Comes_The_Spy",
     "artist": "The Step Brigade",
     "year": "2019",
@@ -14141,9 +14857,10 @@
       "Unknown"
     ],
     "youtubeID": "dQw4w9WgXcQ",
-    "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/mqdefault.jpg",
-    "previewStart": 0,
-    "previewEnd": 10
+    "thumbnail": "https://i.ytimg.com/vi/8r8yjN1h2j4/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45,
+    "youtubeId": "8r8yjN1h2j4"
   },
   {
     "id": "jd2019-Tusa",
@@ -14160,9 +14877,10 @@
       "Reggaeton"
     ],
     "youtubeID": "dQw4w9WgXcQ",
-    "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/mqdefault.jpg",
-    "previewStart": 0,
-    "previewEnd": 10
+    "thumbnail": "https://i.ytimg.com/vi/G5NZZN33qa0/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45,
+    "youtubeId": "G5NZZN33qa0"
   },
   {
     "id": "jd2019-YOLELLEGO",
@@ -14179,9 +14897,10 @@
       "Trap"
     ],
     "youtubeID": "dQw4w9WgXcQ",
-    "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/mqdefault.jpg",
-    "previewStart": 0,
-    "previewEnd": 10
+    "thumbnail": "https://i.ytimg.com/vi/0YOM51SvmbA/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45,
+    "youtubeId": "0YOM51SvmbA"
   },
   {
     "id": "jd2019-Zenit",
@@ -14198,9 +14917,10 @@
       "Unknown"
     ],
     "youtubeID": "dQw4w9WgXcQ",
-    "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/mqdefault.jpg",
-    "previewStart": 0,
-    "previewEnd": 10
+    "thumbnail": "https://i.ytimg.com/vi/SN95bJBqRSY/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45,
+    "youtubeId": "SN95bJBqRSY"
   },
   {
     "id": "jd2020-Boy,YouCanKeepIt",
@@ -14439,9 +15159,10 @@
       "Unknown"
     ],
     "youtubeID": "dQw4w9WgXcQ",
-    "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/mqdefault.jpg",
-    "previewStart": 0,
-    "previewEnd": 10
+    "thumbnail": "https://i.ytimg.com/vi/n-ZodCzZYWg/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45,
+    "youtubeId": "n-ZodCzZYWg"
   },
   {
     "id": "jd2020-Rare",
@@ -14479,9 +15200,10 @@
       "House"
     ],
     "youtubeID": "dQw4w9WgXcQ",
-    "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/mqdefault.jpg",
-    "previewStart": 0,
-    "previewEnd": 10
+    "thumbnail": "https://i.ytimg.com/vi/mDYQrRehpok/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45,
+    "youtubeId": "mDYQrRehpok"
   },
   {
     "id": "jd2020-TheOtherSide(fromTrollsWorldTour)",
@@ -14499,9 +15221,10 @@
       "EDM"
     ],
     "youtubeID": "dQw4w9WgXcQ",
-    "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/mqdefault.jpg",
-    "previewStart": 0,
-    "previewEnd": 10
+    "thumbnail": "https://i.ytimg.com/vi/gNVvlr7_g70/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45,
+    "youtubeId": "gNVvlr7_g70"
   },
   {
     "id": "jd2020-UNO",
@@ -14518,9 +15241,10 @@
       "Electro"
     ],
     "youtubeID": "dQw4w9WgXcQ",
-    "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/mqdefault.jpg",
-    "previewStart": 0,
-    "previewEnd": 10
+    "thumbnail": "https://i.ytimg.com/vi/EI5HW8kVkQc/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45,
+    "youtubeId": "EI5HW8kVkQc"
   },
   {
     "id": "jd2020-Volar",
@@ -14537,9 +15261,10 @@
       "Electro"
     ],
     "youtubeID": "dQw4w9WgXcQ",
-    "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/mqdefault.jpg",
-    "previewStart": 0,
-    "previewEnd": 10
+    "thumbnail": "https://i.ytimg.com/vi/HJwLlV4BzWA/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45,
+    "youtubeId": "HJwLlV4BzWA"
   },
   {
     "id": "jd2020-YameenYasar",
@@ -14557,9 +15282,10 @@
       "Trap"
     ],
     "youtubeID": "dQw4w9WgXcQ",
-    "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/mqdefault.jpg",
-    "previewStart": 0,
-    "previewEnd": 10
+    "thumbnail": "https://i.ytimg.com/vi/7Ph2sH3o6qk/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45,
+    "youtubeId": "7Ph2sH3o6qk"
   },
   {
     "id": "jd1977-Mr.BlueSky",
@@ -14596,9 +15322,10 @@
       "Disco"
     ],
     "youtubeID": "dQw4w9WgXcQ",
-    "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/mqdefault.jpg",
-    "previewStart": 0,
-    "previewEnd": 10
+    "thumbnail": "https://i.ytimg.com/vi/SXP19aR4kNg/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45,
+    "youtubeId": "SXP19aR4kNg"
   },
   {
     "id": "jd1984-SmalltownBoy",
@@ -14616,9 +15343,10 @@
       "Hi-NRG"
     ],
     "youtubeID": "dQw4w9WgXcQ",
-    "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/mqdefault.jpg",
-    "previewStart": 0,
-    "previewEnd": 10
+    "thumbnail": "https://i.ytimg.com/vi/uzwhIiWuY-M/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45,
+    "youtubeId": "uzwhIiWuY-M"
   },
   {
     "id": "jd1996-FreedfromDesire",
@@ -14737,9 +15465,10 @@
       "Unknown"
     ],
     "youtubeID": "dQw4w9WgXcQ",
-    "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/mqdefault.jpg",
-    "previewStart": 0,
-    "previewEnd": 10
+    "thumbnail": "https://i.ytimg.com/vi/-y0j24Jg5Co/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45,
+    "youtubeId": "-y0j24Jg5Co"
   },
   {
     "id": "jd2010-LastFridayNight(T.G.I.F.)",
@@ -14776,9 +15505,10 @@
       "Unknown"
     ],
     "youtubeID": "dQw4w9WgXcQ",
-    "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/mqdefault.jpg",
-    "previewStart": 0,
-    "previewEnd": 10
+    "thumbnail": "https://i.ytimg.com/vi/VpGO1ZFOFeM/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45,
+    "youtubeId": "VpGO1ZFOFeM"
   },
   {
     "id": "jd2011-Judas",
@@ -14938,9 +15668,10 @@
       "House"
     ],
     "youtubeID": "dQw4w9WgXcQ",
-    "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/mqdefault.jpg",
-    "previewStart": 0,
-    "previewEnd": 10
+    "thumbnail": "https://i.ytimg.com/vi/QBSl-6wsOZQ/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45,
+    "youtubeId": "QBSl-6wsOZQ"
   },
   {
     "id": "jd2018-LevelUp",
@@ -14977,9 +15708,10 @@
       "Trap"
     ],
     "youtubeID": "dQw4w9WgXcQ",
-    "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/mqdefault.jpg",
-    "previewStart": 0,
-    "previewEnd": 10
+    "thumbnail": "https://i.ytimg.com/vi/7CfXBODoJ14/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45,
+    "youtubeId": "7CfXBODoJ14"
   },
   {
     "id": "jd2019-Baianá",
@@ -15329,9 +16061,10 @@
       "Unknown"
     ],
     "youtubeID": "dQw4w9WgXcQ",
-    "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/mqdefault.jpg",
-    "previewStart": 0,
-    "previewEnd": 10
+    "thumbnail": "https://i.ytimg.com/vi/treGuxhcYBs/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45,
+    "youtubeId": "treGuxhcYBs"
   },
   {
     "id": "jd2021-ÀlaFolie",
@@ -15592,9 +16325,10 @@
       "Electro"
     ],
     "youtubeID": "dQw4w9WgXcQ",
-    "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/mqdefault.jpg",
-    "previewStart": 0,
-    "previewEnd": 10
+    "thumbnail": "https://i.ytimg.com/vi/3Ft4ZN4Fz_8/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45,
+    "youtubeId": "3Ft4ZN4Fz_8"
   },
   {
     "id": "jd2021-Shoutout",
@@ -15611,9 +16345,10 @@
       "Unknown"
     ],
     "youtubeID": "dQw4w9WgXcQ",
-    "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/mqdefault.jpg",
-    "previewStart": 0,
-    "previewEnd": 10
+    "thumbnail": "https://i.ytimg.com/vi/WiKZrVOS56I/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45,
+    "youtubeId": "WiKZrVOS56I"
   },
   {
     "id": "jd2021-StopDropRoll",
@@ -15631,9 +16366,10 @@
       "Hip Hop"
     ],
     "youtubeID": "dQw4w9WgXcQ",
-    "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/mqdefault.jpg",
-    "previewStart": 0,
-    "previewEnd": 10
+    "thumbnail": "https://i.ytimg.com/vi/T49A1K4MxaY/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45,
+    "youtubeId": "T49A1K4MxaY"
   },
   {
     "id": "jd2021-Waterval",
@@ -15650,9 +16386,10 @@
       "Unknown"
     ],
     "youtubeID": "dQw4w9WgXcQ",
-    "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/mqdefault.jpg",
-    "previewStart": 0,
-    "previewEnd": 10
+    "thumbnail": "https://i.ytimg.com/vi/tDxqTpRzbu0/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45,
+    "youtubeId": "tDxqTpRzbu0"
   },
   {
     "id": "jd1966-Wouldn’tItBeNice",
@@ -15670,9 +16407,10 @@
       "Psychedelic"
     ],
     "youtubeID": "dQw4w9WgXcQ",
-    "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/mqdefault.jpg",
-    "previewStart": 0,
-    "previewEnd": 10
+    "thumbnail": "https://i.ytimg.com/vi/tpYu7BfKho8/mqdefault.jpg",
+    "previewStart": 3,
+    "previewEnd": 45,
+    "youtubeId": "tpYu7BfKho8"
   },
   {
     "id": "jd1976-DiscoInferno",
@@ -15709,9 +16447,10 @@
       "New Wave"
     ],
     "youtubeID": "dQw4w9WgXcQ",
-    "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/mqdefault.jpg",
-    "previewStart": 0,
-    "previewEnd": 10
+    "thumbnail": "https://i.ytimg.com/vi/2H-MKaAJaDc/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45,
+    "youtubeId": "2H-MKaAJaDc"
   },
   {
     "id": "jd2002-Danger!HighVoltage",
@@ -15788,9 +16527,10 @@
       "Unknown"
     ],
     "youtubeID": "dQw4w9WgXcQ",
-    "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/mqdefault.jpg",
-    "previewStart": 0,
-    "previewEnd": 10
+    "thumbnail": "https://i.ytimg.com/vi/oQxNGfvdJ9w/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45,
+    "youtubeId": "oQxNGfvdJ9w"
   },
   {
     "id": "jd2009-Telephone",
@@ -15807,9 +16547,10 @@
       "Unknown"
     ],
     "youtubeID": "dQw4w9WgXcQ",
-    "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/mqdefault.jpg",
-    "previewStart": 0,
-    "previewEnd": 10
+    "thumbnail": "https://i.ytimg.com/vi/AfLkpqKxdc8/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45,
+    "youtubeId": "AfLkpqKxdc8"
   },
   {
     "id": "jd2010-DJGotUsFallin’InLove",
@@ -15931,9 +16672,10 @@
       "House"
     ],
     "youtubeID": "dQw4w9WgXcQ",
-    "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/mqdefault.jpg",
-    "previewStart": 0,
-    "previewEnd": 10
+    "thumbnail": "https://i.ytimg.com/vi/xsQ9JKjU8Ns/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45,
+    "youtubeId": "xsQ9JKjU8Ns"
   },
   {
     "id": "jd2014-RatherBe",
@@ -15973,9 +16715,10 @@
       "House"
     ],
     "youtubeID": "dQw4w9WgXcQ",
-    "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/mqdefault.jpg",
-    "previewStart": 0,
-    "previewEnd": 10
+    "thumbnail": "https://i.ytimg.com/vi/z9cUbcci-Rc/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45,
+    "youtubeId": "z9cUbcci-Rc"
   },
   {
     "id": "jd2015-ZoobyDoo",
@@ -15992,9 +16735,10 @@
       "EDM"
     ],
     "youtubeID": "dQw4w9WgXcQ",
-    "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/mqdefault.jpg",
-    "previewStart": 0,
-    "previewEnd": 10
+    "thumbnail": "https://i.ytimg.com/vi/jBy26MHdQx8/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45,
+    "youtubeId": "jBy26MHdQx8"
   },
   {
     "id": "jd2016-CAN'TSTOPTHEFEELING!",
@@ -16112,9 +16856,10 @@
       "Electro"
     ],
     "youtubeID": "dQw4w9WgXcQ",
-    "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/mqdefault.jpg",
-    "previewStart": 0,
-    "previewEnd": 10
+    "thumbnail": "https://i.ytimg.com/vi/5Y9Y53xxU_g/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45,
+    "youtubeId": "5Y9Y53xxU_g"
   },
   {
     "id": "jd2018-thanku,next",
@@ -16131,9 +16876,10 @@
       "Unknown"
     ],
     "youtubeID": "dQw4w9WgXcQ",
-    "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/mqdefault.jpg",
-    "previewStart": 0,
-    "previewEnd": 10
+    "thumbnail": "https://i.ytimg.com/vi/UPa4bfEjsbo/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45,
+    "youtubeId": "UPa4bfEjsbo"
   },
   {
     "id": "jd2019-BoyWithLuv",
@@ -16314,9 +17060,10 @@
       "Electro"
     ],
     "youtubeID": "dQw4w9WgXcQ",
-    "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/mqdefault.jpg",
-    "previewStart": 0,
-    "previewEnd": 10
+    "thumbnail": "https://i.ytimg.com/vi/9Lk_skLEZUA/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45,
+    "youtubeId": "9Lk_skLEZUA"
   },
   {
     "id": "jd2020-WANNABE",
@@ -16333,9 +17080,10 @@
       "House"
     ],
     "youtubeID": "dQw4w9WgXcQ",
-    "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/mqdefault.jpg",
-    "previewStart": 0,
-    "previewEnd": 10
+    "thumbnail": "https://i.ytimg.com/vi/9HSLbIz7b6A/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45,
+    "youtubeId": "9HSLbIz7b6A"
   },
   {
     "id": "jd2021-abc(nicer)",
@@ -16452,9 +17200,10 @@
       "Reggaeton"
     ],
     "youtubeID": "dQw4w9WgXcQ",
-    "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/mqdefault.jpg",
-    "previewStart": 0,
-    "previewEnd": 10
+    "thumbnail": "https://i.ytimg.com/vi/ZZqRQ0kDCUw/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45,
+    "youtubeId": "ZZqRQ0kDCUw"
   },
   {
     "id": "jd2021-Stay",
@@ -16474,9 +17223,10 @@
       "House"
     ],
     "youtubeID": "dQw4w9WgXcQ",
-    "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/mqdefault.jpg",
-    "previewStart": 0,
-    "previewEnd": 10
+    "thumbnail": "https://i.ytimg.com/vi/a5qbidLY2L0/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45,
+    "youtubeId": "a5qbidLY2L0"
   },
   {
     "id": "jd2021-Sunroof",
@@ -16493,9 +17243,10 @@
       "Unknown"
     ],
     "youtubeID": "dQw4w9WgXcQ",
-    "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/mqdefault.jpg",
-    "previewStart": 0,
-    "previewEnd": 10
+    "thumbnail": "https://i.ytimg.com/vi/ZgNmEQ51qM8/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45,
+    "youtubeId": "ZgNmEQ51qM8"
   },
   {
     "id": "jd2021-Trenulețul",
@@ -16512,9 +17263,10 @@
       "Unknown"
     ],
     "youtubeID": "dQw4w9WgXcQ",
-    "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/mqdefault.jpg",
-    "previewStart": 0,
-    "previewEnd": 10
+    "thumbnail": "https://i.ytimg.com/vi/wilPBS9Ukb8/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45,
+    "youtubeId": "wilPBS9Ukb8"
   },
   {
     "id": "jd2021-UbuLove",
@@ -16531,9 +17283,10 @@
       "Unknown"
     ],
     "youtubeID": "dQw4w9WgXcQ",
-    "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/mqdefault.jpg",
-    "previewStart": 0,
-    "previewEnd": 10
+    "thumbnail": "https://i.ytimg.com/vi/fIgDjjTvqXs/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45,
+    "youtubeId": "fIgDjjTvqXs"
   },
   {
     "id": "jd2021-WeDon’tTalkAboutBruno",
@@ -16550,9 +17303,10 @@
       "Salsa"
     ],
     "youtubeID": "dQw4w9WgXcQ",
-    "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/mqdefault.jpg",
-    "previewStart": 0,
-    "previewEnd": 10
+    "thumbnail": "https://i.ytimg.com/vi/pojlMZEr28I/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45,
+    "youtubeId": "pojlMZEr28I"
   },
   {
     "id": "jd2021-Witch",
@@ -16569,9 +17323,10 @@
       "EDM"
     ],
     "youtubeID": "dQw4w9WgXcQ",
-    "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/mqdefault.jpg",
-    "previewStart": 0,
-    "previewEnd": 10
+    "thumbnail": "https://i.ytimg.com/vi/xL6fqE5BDAs/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45,
+    "youtubeId": "xL6fqE5BDAs"
   },
   {
     "id": "jd2021-Woman",
@@ -16589,9 +17344,10 @@
       "Reggae"
     ],
     "youtubeID": "dQw4w9WgXcQ",
-    "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/mqdefault.jpg",
-    "previewStart": 0,
-    "previewEnd": 10
+    "thumbnail": "https://i.ytimg.com/vi/JAUIUz593Nk/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45,
+    "youtubeId": "JAUIUz593Nk"
   },
   {
     "id": "jd2022-AboutDamnTime",
@@ -16709,9 +17465,10 @@
       "Hip Hop"
     ],
     "youtubeID": "dQw4w9WgXcQ",
-    "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/mqdefault.jpg",
-    "previewStart": 0,
-    "previewEnd": 10
+    "thumbnail": "https://i.ytimg.com/vi/OHdhVjwbqVg/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45,
+    "youtubeId": "OHdhVjwbqVg"
   },
   {
     "id": "jd2022-MillionDollarBaby",
@@ -16789,9 +17546,10 @@
       "Unknown"
     ],
     "youtubeID": "dQw4w9WgXcQ",
-    "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/mqdefault.jpg",
-    "previewStart": 0,
-    "previewEnd": 10
+    "thumbnail": "https://i.ytimg.com/vi/dB7lwX8J6I0/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45,
+    "youtubeId": "dB7lwX8J6I0"
   },
   {
     "id": "jd2022-Vleugels",
@@ -16808,9 +17566,10 @@
       "Unknown"
     ],
     "youtubeID": "dQw4w9WgXcQ",
-    "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/mqdefault.jpg",
-    "previewStart": 0,
-    "previewEnd": 10
+    "thumbnail": "https://i.ytimg.com/vi/O33_ag2P0Sk/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45,
+    "youtubeId": "O33_ag2P0Sk"
   },
   {
     "id": "jd2022-WetTennis",
@@ -16827,9 +17586,10 @@
       "House"
     ],
     "youtubeID": "dQw4w9WgXcQ",
-    "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/mqdefault.jpg",
-    "previewStart": 0,
-    "previewEnd": 10
+    "thumbnail": "https://i.ytimg.com/vi/5x5RbTaplw0/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45,
+    "youtubeId": "5x5RbTaplw0"
   },
   {
     "id": "jd1877-SwanLake",
@@ -16847,9 +17607,10 @@
       "Instrumental"
     ],
     "youtubeID": "dQw4w9WgXcQ",
-    "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/mqdefault.jpg",
-    "previewStart": 0,
-    "previewEnd": 10
+    "thumbnail": "https://i.ytimg.com/vi/t4tEYWiduE0/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45,
+    "youtubeId": "t4tEYWiduE0"
   },
   {
     "id": "jd1963-It’stheMostWonderfulTimeoftheYear",
@@ -16886,9 +17647,10 @@
       "Unknown"
     ],
     "youtubeID": "dQw4w9WgXcQ",
-    "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/mqdefault.jpg",
-    "previewStart": 0,
-    "previewEnd": 10
+    "thumbnail": "https://i.ytimg.com/vi/so7mKwYVvT4/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45,
+    "youtubeId": "so7mKwYVvT4"
   },
   {
     "id": "jd1979-Rapper’sDelight",
@@ -16927,9 +17689,10 @@
       "Disco"
     ],
     "youtubeID": "dQw4w9WgXcQ",
-    "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/mqdefault.jpg",
-    "previewStart": 0,
-    "previewEnd": 10
+    "thumbnail": "https://i.ytimg.com/vi/bSZv4Dys6UA/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45,
+    "youtubeId": "bSZv4Dys6UA"
   },
   {
     "id": "jd1987-IWannaDancewithSomebody(WhoLovesMe)",
@@ -16986,9 +17749,10 @@
       "Gospel"
     ],
     "youtubeID": "dQw4w9WgXcQ",
-    "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/mqdefault.jpg",
-    "previewStart": 0,
-    "previewEnd": 10
+    "thumbnail": "https://i.ytimg.com/vi/SqEU9f4CJvo/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45,
+    "youtubeId": "SqEU9f4CJvo"
   },
   {
     "id": "jd1998-I’llMakeaManOutofYou",
@@ -17066,9 +17830,10 @@
       "Hip Hop"
     ],
     "youtubeID": "dQw4w9WgXcQ",
-    "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/mqdefault.jpg",
-    "previewStart": 0,
-    "previewEnd": 10
+    "thumbnail": "https://i.ytimg.com/vi/SutTGDhHyag/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45,
+    "youtubeId": "SutTGDhHyag"
   },
   {
     "id": "jd2002-Sk8erBoi",
@@ -17085,9 +17850,10 @@
       "Unknown"
     ],
     "youtubeID": "dQw4w9WgXcQ",
-    "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/mqdefault.jpg",
-    "previewStart": 0,
-    "previewEnd": 10
+    "thumbnail": "https://i.ytimg.com/vi/kBGxb2h3-J8/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45,
+    "youtubeId": "kBGxb2h3-J8"
   },
   {
     "id": "jd2004-HollabackGirl",
@@ -17185,9 +17951,10 @@
       "Electro"
     ],
     "youtubeID": "dQw4w9WgXcQ",
-    "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/mqdefault.jpg",
-    "previewStart": 0,
-    "previewEnd": 10
+    "thumbnail": "https://i.ytimg.com/vi/QXSDhuGnwjw/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45,
+    "youtubeId": "QXSDhuGnwjw"
   },
   {
     "id": "jd2010-WhenWillMyLifeBegin?",
@@ -17204,9 +17971,10 @@
       "Unknown"
     ],
     "youtubeID": "dQw4w9WgXcQ",
-    "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/mqdefault.jpg",
-    "previewStart": 0,
-    "previewEnd": 10
+    "thumbnail": "https://i.ytimg.com/vi/0JsZstZD750/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45,
+    "youtubeId": "0JsZstZD750"
   },
   {
     "id": "jd2011-Stronger(WhatDoesn’tKillYou)",
@@ -17223,9 +17991,10 @@
       "Electro"
     ],
     "youtubeID": "dQw4w9WgXcQ",
-    "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/mqdefault.jpg",
-    "previewStart": 0,
-    "previewEnd": 10
+    "thumbnail": "https://i.ytimg.com/vi/T74t3aYUdNw/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45,
+    "youtubeId": "T74t3aYUdNw"
   },
   {
     "id": "jd2012-Treasure",
@@ -17244,9 +18013,10 @@
       "Reggae"
     ],
     "youtubeID": "dQw4w9WgXcQ",
-    "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/mqdefault.jpg",
-    "previewStart": 0,
-    "previewEnd": 10
+    "thumbnail": "https://i.ytimg.com/vi/6roC6wdCUes/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45,
+    "youtubeId": "6roC6wdCUes"
   },
   {
     "id": "jd2015-Makeba",
@@ -17304,9 +18074,10 @@
       "Unknown"
     ],
     "youtubeID": "dQw4w9WgXcQ",
-    "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/mqdefault.jpg",
-    "previewStart": 0,
-    "previewEnd": 10
+    "thumbnail": "https://i.ytimg.com/vi/_O2PZpp7hDs/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45,
+    "youtubeId": "_O2PZpp7hDs"
   },
   {
     "id": "jd2018-youshouldseemeinacrown",
@@ -17323,9 +18094,10 @@
       "Unknown"
     ],
     "youtubeID": "dQw4w9WgXcQ",
-    "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/mqdefault.jpg",
-    "previewStart": 0,
-    "previewEnd": 10
+    "thumbnail": "https://i.ytimg.com/vi/CulJNY8um2U/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45,
+    "youtubeId": "CulJNY8um2U"
   },
   {
     "id": "jd2019-Cradles",
@@ -17384,9 +18156,10 @@
       "Unknown"
     ],
     "youtubeID": "dQw4w9WgXcQ",
-    "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/mqdefault.jpg",
-    "previewStart": 0,
-    "previewEnd": 10
+    "thumbnail": "https://i.ytimg.com/vi/KmPgT22i7GU/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45,
+    "youtubeId": "KmPgT22i7GU"
   },
   {
     "id": "jd2020-HowYouLikeThat",
@@ -17551,9 +18324,10 @@
       "House"
     ],
     "youtubeID": "dQw4w9WgXcQ",
-    "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/mqdefault.jpg",
-    "previewStart": 0,
-    "previewEnd": 10
+    "thumbnail": "https://i.ytimg.com/vi/9abYi-xY56Q/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45,
+    "youtubeId": "9abYi-xY56Q"
   },
   {
     "id": "jd2022-CalmDown",
@@ -17655,9 +18429,10 @@
       "Reggaeton"
     ],
     "youtubeID": "dQw4w9WgXcQ",
-    "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/mqdefault.jpg",
-    "previewStart": 0,
-    "previewEnd": 10
+    "thumbnail": "https://i.ytimg.com/vi/9rbAG6nd_1A/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45,
+    "youtubeId": "9rbAG6nd_1A"
   },
   {
     "id": "jd2022-Whitney",
@@ -17674,9 +18449,10 @@
       "House"
     ],
     "youtubeID": "dQw4w9WgXcQ",
-    "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/mqdefault.jpg",
-    "previewStart": 0,
-    "previewEnd": 10
+    "thumbnail": "https://i.ytimg.com/vi/gSRJgQYYz3w/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45,
+    "youtubeId": "gSRJgQYYz3w"
   },
   {
     "id": "jd2023-ANightintheChâteaudeVersailles",
@@ -17858,9 +18634,10 @@
       "Unknown"
     ],
     "youtubeID": "dQw4w9WgXcQ",
-    "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/mqdefault.jpg",
-    "previewStart": 0,
-    "previewEnd": 10
+    "thumbnail": "https://i.ytimg.com/vi/2ElXd36YLeY/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45,
+    "youtubeId": "2ElXd36YLeY"
   },
   {
     "id": "jd2023-ThisWish",
@@ -17877,9 +18654,10 @@
       "Unknown"
     ],
     "youtubeID": "dQw4w9WgXcQ",
-    "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/mqdefault.jpg",
-    "previewStart": 0,
-    "previewEnd": 10
+    "thumbnail": "https://i.ytimg.com/vi/PFNuNiZ2Sv8/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45,
+    "youtubeId": "PFNuNiZ2Sv8"
   },
   {
     "id": "jd2023-vampire",
@@ -17896,9 +18674,10 @@
       "Disco"
     ],
     "youtubeID": "dQw4w9WgXcQ",
-    "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/mqdefault.jpg",
-    "previewStart": 0,
-    "previewEnd": 10
+    "thumbnail": "https://i.ytimg.com/vi/ILzagPeyzYY/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45,
+    "youtubeId": "ILzagPeyzYY"
   },
   {
     "id": "jd2023-Woof",
@@ -17915,9 +18694,10 @@
       "Unknown"
     ],
     "youtubeID": "dQw4w9WgXcQ",
-    "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/mqdefault.jpg",
-    "previewStart": 0,
-    "previewEnd": 10
+    "thumbnail": "https://i.ytimg.com/vi/Ihbe97uRqWk/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45,
+    "youtubeId": "Ihbe97uRqWk"
   },
   {
     "id": "jd2024-DarkestHour",
@@ -17954,9 +18734,10 @@
       "Doo-wop"
     ],
     "youtubeID": "dQw4w9WgXcQ",
-    "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/mqdefault.jpg",
-    "previewStart": 0,
-    "previewEnd": 10
+    "thumbnail": "https://i.ytimg.com/vi/hYDUlD9M5fI/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45,
+    "youtubeId": "hYDUlD9M5fI"
   },
   {
     "id": "jd1963-SleighRide",
@@ -17973,9 +18754,10 @@
       "Christmas"
     ],
     "youtubeID": "dQw4w9WgXcQ",
-    "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/mqdefault.jpg",
-    "previewStart": 0,
-    "previewEnd": 10
+    "thumbnail": "https://i.ytimg.com/vi/BzdJv-MRmGI/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45,
+    "youtubeId": "BzdJv-MRmGI"
   },
   {
     "id": "jd1984-MaterialGirl",
@@ -17993,9 +18775,10 @@
       "New Wave"
     ],
     "youtubeID": "dQw4w9WgXcQ",
-    "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/mqdefault.jpg",
-    "previewStart": 0,
-    "previewEnd": 10
+    "thumbnail": "https://i.ytimg.com/vi/Ir5g6HWRCK8/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45,
+    "youtubeId": "Ir5g6HWRCK8"
   },
   {
     "id": "jd1990-Vogue",
@@ -18012,9 +18795,10 @@
       "House"
     ],
     "youtubeID": "dQw4w9WgXcQ",
-    "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/mqdefault.jpg",
-    "previewStart": 0,
-    "previewEnd": 10
+    "thumbnail": "https://i.ytimg.com/vi/ME88a-5WgqM/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45,
+    "youtubeId": "ME88a-5WgqM"
   },
   {
     "id": "jd1992-Chattahoochee",
@@ -18091,9 +18875,10 @@
       "Unknown"
     ],
     "youtubeID": "dQw4w9WgXcQ",
-    "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/mqdefault.jpg",
-    "previewStart": 0,
-    "previewEnd": 10
+    "thumbnail": "https://i.ytimg.com/vi/ZcG9BbvbjIo/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45,
+    "youtubeId": "ZcG9BbvbjIo"
   },
   {
     "id": "jd2003-Dubidubidu(ChipiChipiChapaChapa)",
@@ -18152,9 +18937,10 @@
       "Unknown"
     ],
     "youtubeID": "dQw4w9WgXcQ",
-    "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/mqdefault.jpg",
-    "previewStart": 0,
-    "previewEnd": 10
+    "thumbnail": "https://i.ytimg.com/vi/MPRHYY6iJFA/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45,
+    "youtubeId": "MPRHYY6iJFA"
   },
   {
     "id": "jd2007-Calabria2007",
@@ -18256,9 +19042,10 @@
       "Unknown"
     ],
     "youtubeID": "dQw4w9WgXcQ",
-    "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/mqdefault.jpg",
-    "previewStart": 0,
-    "previewEnd": 10
+    "thumbnail": "https://i.ytimg.com/vi/z2WA8e5joiY/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45,
+    "youtubeId": "z2WA8e5joiY"
   },
   {
     "id": "jd2014-Centuries",
@@ -18295,9 +19082,10 @@
       "EDM"
     ],
     "youtubeID": "dQw4w9WgXcQ",
-    "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/mqdefault.jpg",
-    "previewStart": 0,
-    "previewEnd": 10
+    "thumbnail": "https://i.ytimg.com/vi/ssfqWtvFnbE/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45,
+    "youtubeId": "ssfqWtvFnbE"
   },
   {
     "id": "jd2015-PlayDate",
@@ -18314,9 +19102,10 @@
       "Unknown"
     ],
     "youtubeID": "dQw4w9WgXcQ",
-    "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/mqdefault.jpg",
-    "previewStart": 0,
-    "previewEnd": 10
+    "thumbnail": "https://i.ytimg.com/vi/0oP6i96ZOUc/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45,
+    "youtubeId": "0oP6i96ZOUc"
   },
   {
     "id": "jd2016-Unstoppable",
@@ -18333,9 +19122,10 @@
       "Electro"
     ],
     "youtubeID": "dQw4w9WgXcQ",
-    "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/mqdefault.jpg",
-    "previewStart": 0,
-    "previewEnd": 10
+    "thumbnail": "https://i.ytimg.com/vi/j_ZQ9x424vk/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45,
+    "youtubeId": "j_ZQ9x424vk"
   },
   {
     "id": "jd2019-breakupwithyourgirlfriend,i'mbored",
@@ -18393,9 +19183,10 @@
       "New Wave"
     ],
     "youtubeID": "dQw4w9WgXcQ",
-    "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/mqdefault.jpg",
-    "previewStart": 0,
-    "previewEnd": 10
+    "thumbnail": "https://i.ytimg.com/vi/F82UtQeU-E4/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45,
+    "youtubeId": "F82UtQeU-E4"
   },
   {
     "id": "jd2020-SweetMelody",
@@ -18412,9 +19203,10 @@
       "Reggaeton"
     ],
     "youtubeID": "dQw4w9WgXcQ",
-    "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/mqdefault.jpg",
-    "previewStart": 0,
-    "previewEnd": 10
+    "thumbnail": "https://i.ytimg.com/vi/hFl7VgzJZoQ/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45,
+    "youtubeId": "hFl7VgzJZoQ"
   },
   {
     "id": "jd2022-LaBachata",
@@ -18431,9 +19223,10 @@
       "Unknown"
     ],
     "youtubeID": "dQw4w9WgXcQ",
-    "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/mqdefault.jpg",
-    "previewStart": 0,
-    "previewEnd": 10
+    "thumbnail": "https://i.ytimg.com/vi/1D0AQIANkqQ/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45,
+    "youtubeId": "1D0AQIANkqQ"
   },
   {
     "id": "jd2022-PinkVenom",
@@ -18451,9 +19244,10 @@
       "Hip Hop"
     ],
     "youtubeID": "dQw4w9WgXcQ",
-    "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/mqdefault.jpg",
-    "previewStart": 0,
-    "previewEnd": 10
+    "thumbnail": "https://i.ytimg.com/vi/TYl6mUYC4J0/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45,
+    "youtubeId": "TYl6mUYC4J0"
   },
   {
     "id": "jd2022-SomethingICanFeel",
@@ -18470,9 +19264,10 @@
       "Unknown"
     ],
     "youtubeID": "dQw4w9WgXcQ",
-    "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/mqdefault.jpg",
-    "previewStart": 0,
-    "previewEnd": 10
+    "thumbnail": "https://i.ytimg.com/vi/2glVbUn_LjQ/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45,
+    "youtubeId": "2glVbUn_LjQ"
   },
   {
     "id": "jd2023-BangBang!(MyNeurodivergentAnthem)",
@@ -18529,9 +19324,10 @@
       "Hip Hop"
     ],
     "youtubeID": "dQw4w9WgXcQ",
-    "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/mqdefault.jpg",
-    "previewStart": 0,
-    "previewEnd": 10
+    "thumbnail": "https://i.ytimg.com/vi/k3uyWeP_KTc/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45,
+    "youtubeId": "k3uyWeP_KTc"
   },
   {
     "id": "jd2023-PadamPadam",
@@ -18548,9 +19344,10 @@
       "Electro"
     ],
     "youtubeID": "dQw4w9WgXcQ",
-    "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/mqdefault.jpg",
-    "previewStart": 0,
-    "previewEnd": 10
+    "thumbnail": "https://i.ytimg.com/vi/H_S72lkhVmE/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45,
+    "youtubeId": "H_S72lkhVmE"
   },
   {
     "id": "jd2023-PaintTheTownRed",
@@ -18567,9 +19364,10 @@
       "Hip Hop"
     ],
     "youtubeID": "dQw4w9WgXcQ",
-    "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/mqdefault.jpg",
-    "previewStart": 0,
-    "previewEnd": 10
+    "thumbnail": "https://i.ytimg.com/vi/hrnk0aPrjIc/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45,
+    "youtubeId": "hrnk0aPrjIc"
   },
   {
     "id": "jd2024-apple",
@@ -18648,9 +19446,10 @@
       "New Wave"
     ],
     "youtubeID": "dQw4w9WgXcQ",
-    "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/mqdefault.jpg",
-    "previewStart": 0,
-    "previewEnd": 10
+    "thumbnail": "https://i.ytimg.com/vi/D6PflUJB3_U/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45,
+    "youtubeId": "D6PflUJB3_U"
   },
   {
     "id": "jd2024-LUNCH",
@@ -18667,9 +19466,10 @@
       "Electro"
     ],
     "youtubeID": "dQw4w9WgXcQ",
-    "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/mqdefault.jpg",
-    "previewStart": 0,
-    "previewEnd": 10
+    "thumbnail": "https://i.ytimg.com/vi/pL8KiUk1VO0/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45,
+    "youtubeId": "pL8KiUk1VO0"
   },
   {
     "id": "jd2024-MiGenteloSiente",
@@ -18707,10 +19507,10 @@
       "Hip Hop"
     ],
     "youtubeID": "dQw4w9WgXcQ",
-    "thumbnail": "https://i.ytimg.com/vi/cRDuuvec-q8/mqdefault.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/EAMxRsPK2OE/mqdefault.jpg",
     "previewStart": 30,
     "previewEnd": 45,
-    "youtubeId": "cRDuuvec-q8"
+    "youtubeId": "EAMxRsPK2OE"
   },
   {
     "id": "jd2024-Pigstep(JustDancexMinecraftVersion)",
@@ -18728,9 +19528,10 @@
       "Instrumental"
     ],
     "youtubeID": "dQw4w9WgXcQ",
-    "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/mqdefault.jpg",
-    "previewStart": 0,
-    "previewEnd": 10
+    "thumbnail": "https://i.ytimg.com/vi/ltcijiT3YZo/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45,
+    "youtubeId": "ltcijiT3YZo"
   },
   {
     "id": "jd2024-SiAntesTeHubieraConocido",
@@ -18747,9 +19548,10 @@
       "Merengue"
     ],
     "youtubeID": "dQw4w9WgXcQ",
-    "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/mqdefault.jpg",
-    "previewStart": 0,
-    "previewEnd": 10
+    "thumbnail": "https://i.ytimg.com/vi/rWV7-7YxucY/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45,
+    "youtubeId": "rWV7-7YxucY"
   },
   {
     "id": "jd2024-Soltera",
@@ -18766,9 +19568,10 @@
       "Afrobeat"
     ],
     "youtubeID": "dQw4w9WgXcQ",
-    "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/mqdefault.jpg",
-    "previewStart": 0,
-    "previewEnd": 10
+    "thumbnail": "https://i.ytimg.com/vi/wzqWdWqJGZo/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45,
+    "youtubeId": "wzqWdWqJGZo"
   },
   {
     "id": "jd2024-SpongeBob’sBirthday",
@@ -18785,9 +19588,10 @@
       "Disco"
     ],
     "youtubeID": "dQw4w9WgXcQ",
-    "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/mqdefault.jpg",
-    "previewStart": 0,
-    "previewEnd": 10
+    "thumbnail": "https://i.ytimg.com/vi/RsyWbHgcFZU/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45,
+    "youtubeId": "RsyWbHgcFZU"
   },
   {
     "id": "jd2024-StopThisFire",
@@ -18804,9 +19608,10 @@
       "Unknown"
     ],
     "youtubeID": "dQw4w9WgXcQ",
-    "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/mqdefault.jpg",
-    "previewStart": 0,
-    "previewEnd": 10
+    "thumbnail": "https://i.ytimg.com/vi/VmxejjE_HFw/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45,
+    "youtubeId": "VmxejjE_HFw"
   },
   {
     "id": "jd2024-Sunlight",
@@ -18823,9 +19628,10 @@
       "Unknown"
     ],
     "youtubeID": "dQw4w9WgXcQ",
-    "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/mqdefault.jpg",
-    "previewStart": 0,
-    "previewEnd": 10
+    "thumbnail": "https://i.ytimg.com/vi/MClvWxkdWrA/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45,
+    "youtubeId": "MClvWxkdWrA"
   },
   {
     "id": "jd2024-theboyismine",
@@ -18842,9 +19648,10 @@
       "Unknown"
     ],
     "youtubeID": "dQw4w9WgXcQ",
-    "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/mqdefault.jpg",
-    "previewStart": 0,
-    "previewEnd": 10
+    "thumbnail": "https://i.ytimg.com/vi/GEn8BsFvH7s/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45,
+    "youtubeId": "GEn8BsFvH7s"
   },
   {
     "id": "jd2024-TrainingSeason",
@@ -18861,9 +19668,10 @@
       "Disco"
     ],
     "youtubeID": "dQw4w9WgXcQ",
-    "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/mqdefault.jpg",
-    "previewStart": 0,
-    "previewEnd": 10
+    "thumbnail": "https://i.ytimg.com/vi/m1BXGVKlzM8/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45,
+    "youtubeId": "m1BXGVKlzM8"
   },
   {
     "id": "jd2024-wecan'tbefriends(waitforyourlove)",
@@ -18880,9 +19688,10 @@
       "Eurobeat"
     ],
     "youtubeID": "dQw4w9WgXcQ",
-    "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/mqdefault.jpg",
-    "previewStart": 0,
-    "previewEnd": 10
+    "thumbnail": "https://i.ytimg.com/vi/vNe6l9X12P8/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45,
+    "youtubeId": "vNe6l9X12P8"
   },
   {
     "id": "jd2024-yes,and?",
@@ -18899,9 +19708,10 @@
       "House"
     ],
     "youtubeID": "dQw4w9WgXcQ",
-    "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/mqdefault.jpg",
-    "previewStart": 0,
-    "previewEnd": 10
+    "thumbnail": "https://i.ytimg.com/vi/XAmw5Vwz4Hs/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45,
+    "youtubeId": "XAmw5Vwz4Hs"
   },
   {
     "id": "jd2024-YouLoveWhoYouLove",
@@ -18918,9 +19728,10 @@
       "Disco"
     ],
     "youtubeID": "dQw4w9WgXcQ",
-    "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/mqdefault.jpg",
-    "previewStart": 0,
-    "previewEnd": 10
+    "thumbnail": "https://i.ytimg.com/vi/7A7JKr0TW08/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45,
+    "youtubeId": "7A7JKr0TW08"
   },
   {
     "id": "jd2025-TikiTaka",
@@ -18937,9 +19748,10 @@
       "Unknown"
     ],
     "youtubeID": "dQw4w9WgXcQ",
-    "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/mqdefault.jpg",
-    "previewStart": 0,
-    "previewEnd": 10
+    "thumbnail": "https://i.ytimg.com/vi/4XRPirbyzQA/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45,
+    "youtubeId": "4XRPirbyzQA"
   },
   {
     "id": "jd1958-Rockin’AroundtheChristmasTree",
@@ -18956,9 +19768,10 @@
       "Christmas"
     ],
     "youtubeID": "dQw4w9WgXcQ",
-    "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/mqdefault.jpg",
-    "previewStart": 0,
-    "previewEnd": 10
+    "thumbnail": "https://i.ytimg.com/vi/P5gulCHEbVA/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45,
+    "youtubeId": "P5gulCHEbVA"
   },
   {
     "id": "jd1976-Don’tGoBreakingMyHeart",
@@ -19017,9 +19830,10 @@
       "Novelty"
     ],
     "youtubeID": "dQw4w9WgXcQ",
-    "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/mqdefault.jpg",
-    "previewStart": 0,
-    "previewEnd": 10
+    "thumbnail": "https://i.ytimg.com/vi/D0LnVdgMix8/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45,
+    "youtubeId": "D0LnVdgMix8"
   },
   {
     "id": "jd1983-GirlsJustWanttoHaveFun",
@@ -19057,9 +19871,10 @@
       "Unknown"
     ],
     "youtubeID": "dQw4w9WgXcQ",
-    "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/mqdefault.jpg",
-    "previewStart": 0,
-    "previewEnd": 10
+    "thumbnail": "https://i.ytimg.com/vi/zwBhmdHosO8/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45,
+    "youtubeId": "zwBhmdHosO8"
   },
   {
     "id": "jd1999-AllStar",
@@ -19096,9 +19911,10 @@
       "Unknown"
     ],
     "youtubeID": "dQw4w9WgXcQ",
-    "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/mqdefault.jpg",
-    "previewStart": 0,
-    "previewEnd": 10
+    "thumbnail": "https://i.ytimg.com/vi/E0U758AU0tA/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45,
+    "youtubeId": "E0U758AU0tA"
   },
   {
     "id": "jd2005-HungUp",
@@ -19117,9 +19933,10 @@
       "Hi-NRG"
     ],
     "youtubeID": "dQw4w9WgXcQ",
-    "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/mqdefault.jpg",
-    "previewStart": 0,
-    "previewEnd": 10
+    "thumbnail": "https://i.ytimg.com/vi/w-kpW-OT7Kw/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45,
+    "youtubeId": "w-kpW-OT7Kw"
   },
   {
     "id": "jd2008-VivalaVida",
@@ -19136,9 +19953,10 @@
       "Unknown"
     ],
     "youtubeID": "dQw4w9WgXcQ",
-    "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/mqdefault.jpg",
-    "previewStart": 0,
-    "previewEnd": 10
+    "thumbnail": "https://i.ytimg.com/vi/rN1rWlMstsk/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45,
+    "youtubeId": "rN1rWlMstsk"
   },
   {
     "id": "jd2012-ThriftShop",
@@ -19155,9 +19973,10 @@
       "Hip Hop"
     ],
     "youtubeID": "dQw4w9WgXcQ",
-    "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/mqdefault.jpg",
-    "previewStart": 0,
-    "previewEnd": 10
+    "thumbnail": "https://i.ytimg.com/vi/G9Qdwjv4Wsg/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45,
+    "youtubeId": "G9Qdwjv4Wsg"
   },
   {
     "id": "jd2013-CountingStars",
@@ -19214,9 +20033,10 @@
       "Electro"
     ],
     "youtubeID": "dQw4w9WgXcQ",
-    "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/mqdefault.jpg",
-    "previewStart": 0,
-    "previewEnd": 10
+    "thumbnail": "https://i.ytimg.com/vi/_X6vv_7Sm4g/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45,
+    "youtubeId": "_X6vv_7Sm4g"
   },
   {
     "id": "jd2019-DonRaja",
@@ -19276,9 +20096,10 @@
       "EDM"
     ],
     "youtubeID": "dQw4w9WgXcQ",
-    "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/mqdefault.jpg",
-    "previewStart": 0,
-    "previewEnd": 10
+    "thumbnail": "https://i.ytimg.com/vi/qn-XON61M10/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45,
+    "youtubeId": "qn-XON61M10"
   },
   {
     "id": "jd2022-Kitipo",
@@ -19295,9 +20116,10 @@
       "Reggaeton"
     ],
     "youtubeID": "dQw4w9WgXcQ",
-    "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/mqdefault.jpg",
-    "previewStart": 0,
-    "previewEnd": 10
+    "thumbnail": "https://i.ytimg.com/vi/zHtHjFtyQas/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45,
+    "youtubeId": "zHtHjFtyQas"
   },
   {
     "id": "jd2023-Feather",
@@ -19335,9 +20157,10 @@
       "Psychedelic"
     ],
     "youtubeID": "dQw4w9WgXcQ",
-    "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/mqdefault.jpg",
-    "previewStart": 0,
-    "previewEnd": 10
+    "thumbnail": "https://i.ytimg.com/vi/qxw_reGqH8U/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45,
+    "youtubeId": "qxw_reGqH8U"
   },
   {
     "id": "jd2023-Water",
@@ -19354,9 +20177,10 @@
       "Unknown"
     ],
     "youtubeID": "dQw4w9WgXcQ",
-    "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/mqdefault.jpg",
-    "previewStart": 0,
-    "previewEnd": 10
+    "thumbnail": "https://i.ytimg.com/vi/ZL0vUXWDYUE/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45,
+    "youtubeId": "ZL0vUXWDYUE"
   },
   {
     "id": "jd2023-WorldEater",
@@ -19373,9 +20197,10 @@
       "Trap"
     ],
     "youtubeID": "dQw4w9WgXcQ",
-    "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/mqdefault.jpg",
-    "previewStart": 0,
-    "previewEnd": 10
+    "thumbnail": "https://i.ytimg.com/vi/dSQ-0cSpSGc/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45,
+    "youtubeId": "dSQ-0cSpSGc"
   },
   {
     "id": "jd2024-360",
@@ -19513,9 +20338,10 @@
       "Country"
     ],
     "youtubeID": "dQw4w9WgXcQ",
-    "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/mqdefault.jpg",
-    "previewStart": 0,
-    "previewEnd": 10
+    "thumbnail": "https://i.ytimg.com/vi/pb4mIOzkjyg/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45,
+    "youtubeId": "pb4mIOzkjyg"
   },
   {
     "id": "jd2024-It'sokI'mok",
@@ -19532,9 +20358,10 @@
       "Hip Hop"
     ],
     "youtubeID": "dQw4w9WgXcQ",
-    "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/mqdefault.jpg",
-    "previewStart": 0,
-    "previewEnd": 10
+    "thumbnail": "https://i.ytimg.com/vi/Vtbf0tUKU14/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45,
+    "youtubeId": "Vtbf0tUKU14"
   },
   {
     "id": "jd2024-Messy",
@@ -19551,9 +20378,10 @@
       "Unknown"
     ],
     "youtubeID": "dQw4w9WgXcQ",
-    "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/mqdefault.jpg",
-    "previewStart": 0,
-    "previewEnd": 10
+    "thumbnail": "https://i.ytimg.com/vi/C64UluqpajI/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45,
+    "youtubeId": "C64UluqpajI"
   },
   {
     "id": "jd2024-MoneyPullUp",
@@ -19571,9 +20399,10 @@
       "Reggae"
     ],
     "youtubeID": "dQw4w9WgXcQ",
-    "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/mqdefault.jpg",
-    "previewStart": 0,
-    "previewEnd": 10
+    "thumbnail": "https://i.ytimg.com/vi/7ZVSL-2AOqM/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45,
+    "youtubeId": "7ZVSL-2AOqM"
   },
   {
     "id": "jd2024-SayCheese",
@@ -19590,9 +20419,10 @@
       "Unknown"
     ],
     "youtubeID": "dQw4w9WgXcQ",
-    "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/mqdefault.jpg",
-    "previewStart": 0,
-    "previewEnd": 10
+    "thumbnail": "https://i.ytimg.com/vi/4cC8nX4FE8M/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45,
+    "youtubeId": "4cC8nX4FE8M"
   },
   {
     "id": "jd2025-Abracadabra",
@@ -19769,9 +20599,10 @@
       "Unknown"
     ],
     "youtubeID": "dQw4w9WgXcQ",
-    "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/mqdefault.jpg",
-    "previewStart": 0,
-    "previewEnd": 10
+    "thumbnail": "https://i.ytimg.com/vi/lR0Am1sVRHs/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45,
+    "youtubeId": "lR0Am1sVRHs"
   },
   {
     "id": "jd2025-Moonlight",
@@ -19788,9 +20619,10 @@
       "Unknown"
     ],
     "youtubeID": "dQw4w9WgXcQ",
-    "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/mqdefault.jpg",
-    "previewStart": 0,
-    "previewEnd": 10
+    "thumbnail": "https://i.ytimg.com/vi/vpYfe1owe7o/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45,
+    "youtubeId": "vpYfe1owe7o"
   },
   {
     "id": "jd2025-MysticalMagical",
@@ -19807,9 +20639,10 @@
       "Unknown"
     ],
     "youtubeID": "dQw4w9WgXcQ",
-    "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/mqdefault.jpg",
-    "previewStart": 0,
-    "previewEnd": 10
+    "thumbnail": "https://i.ytimg.com/vi/_H1sizzp3oE/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45,
+    "youtubeId": "_H1sizzp3oE"
   },
   {
     "id": "jd2025-Prehistorock",
@@ -19826,9 +20659,10 @@
       "Unknown"
     ],
     "youtubeID": "dQw4w9WgXcQ",
-    "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/mqdefault.jpg",
-    "previewStart": 0,
-    "previewEnd": 10
+    "thumbnail": "https://i.ytimg.com/vi/BgaOOYruHic/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45,
+    "youtubeId": "BgaOOYruHic"
   },
   {
     "id": "jd2025-ShowMeWhatYouGot",
@@ -19845,9 +20679,10 @@
       "Unknown"
     ],
     "youtubeID": "dQw4w9WgXcQ",
-    "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/mqdefault.jpg",
-    "previewStart": 0,
-    "previewEnd": 10
+    "thumbnail": "https://i.ytimg.com/vi/1bs6rw-dnYE/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45,
+    "youtubeId": "1bs6rw-dnYE"
   },
   {
     "id": "jd2025-Sokusu",
@@ -19864,9 +20699,10 @@
       "Unknown"
     ],
     "youtubeID": "dQw4w9WgXcQ",
-    "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/mqdefault.jpg",
-    "previewStart": 0,
-    "previewEnd": 10
+    "thumbnail": "https://i.ytimg.com/vi/gVnex9OkxIc/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45,
+    "youtubeId": "gVnex9OkxIc"
   },
   {
     "id": "jd2025-SpinYourLove",
@@ -19883,9 +20719,10 @@
       "Unknown"
     ],
     "youtubeID": "dQw4w9WgXcQ",
-    "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/mqdefault.jpg",
-    "previewStart": 0,
-    "previewEnd": 10
+    "thumbnail": "https://i.ytimg.com/vi/hSOI3In7FUg/mqdefault.jpg",
+    "previewStart": 30,
+    "previewEnd": 45,
+    "youtubeId": "hSOI3In7FUg"
   },
   {
     "id": "jd2025-Zombieboy",

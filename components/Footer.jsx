@@ -46,7 +46,7 @@ return (
     <span className="footer-separator">&bull;</span>
 
     <button onClick={() => setIsOpen(true)} className="footer-modal-trigger">
-        About This Site
+        About
     </button>
     </div>
 
@@ -59,7 +59,9 @@ return (
         </button>
     </div>
     <div className="modal-body">
-        <p>Hi! I'm <a href="https://github.com/skskees" target="_blank" rel="noopener noreferrer" style={{textDecoration: 'none', color: '#e0b5b5'}}>Skyler</a>, the developer of the Just Dance Playlist Builder.</p>
+        <p>This website is an independent tool created for entertainment and organizational purposes. It is not affiliated with, endorsed by, or sponsed by Ubisoft Entertainment.
+            'Just Dance' and all related game titles, characters, and assets are registered trademarks of Ubisoft.</p>
+        <p>Hi! I'm <a href="https://github.com/skskees" target="_blank" rel="noopener noreferrer" style={{textDecoration: 'none', color: '#e0b5b5'}}>Skyler</a>, the developer of The Dance Playlist Builder.</p>
         <p>This is a passion project built to replace the hole in my heart that Ubisoft left when they discontinued Just Dance Unlimited in July 2024.</p>
         <p>Just Dance+ just isn't the same, and they don't include all of the songs to experience at once!</p>
         <p style={{textDecoration: 'underline'}}>Planned Features</p>

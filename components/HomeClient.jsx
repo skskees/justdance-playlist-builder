@@ -62,7 +62,7 @@ export default function HomeClient({ allSongs, collections }) {
   return (
     <main className="home">
       <header className="topbar">
-        <h1>Just Dance Playlist Builder</h1>
+        <h1>The Dance Playlist Builder</h1>
         <input
           className="search"
           placeholder="Search by title, artist, genre..."

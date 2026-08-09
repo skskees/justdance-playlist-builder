@@ -1,4 +1,4 @@
-# Just Dance Playlist Builder
+# The Dance Playlist Builder
 
 Browse Just Dance's song catalog Netflix-style, hover to preview, and build a
 real playlist on your own YouTube account.

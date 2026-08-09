@@ -8,7 +8,7 @@ import AdminAccessDenied from "../../components/AdminAccessDenied";
 export const dynamic = "force-dynamic";
 
 export const metadata = {
-  title: "Admin · Just Dance Playlist Builder",
+  title: "Admin · The Dance Playlist Builder",
 };
 
 export default async function AdminPage() {
