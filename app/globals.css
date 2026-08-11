@@ -548,6 +548,12 @@ body {
   user-select: none;
 }
 
+/* Legal links sit inline with the About button */
+.footer-link {
+  color: inherit;
+  text-decoration: underline;
+}
+
 /* Make button look seamlessly like text links next to it */
 .footer-modal-trigger {
   background: none;
@@ -559,6 +565,39 @@ body {
   font-family: inherit;
   font-size: inherit;
 }
+
+/* Privacy policy / terms of service pages */
+.legal-page {
+  max-width: 760px;
+  margin: 0 auto;
+  padding: 2.5rem 1.5rem 3rem;
+  line-height: 1.6;
+}
+
+.legal-page h1 {
+  font-size: 1.6rem;
+  margin: 0 0 1.5rem;
+}
+
+.legal-page h2 {
+  font-size: 1.1rem;
+  margin: 2rem 0 0.5rem;
+  color: #e0b5b5;
+}
+
+.legal-page p {
+  margin: 0 0 1rem;
+  color: #ddd;
+}
+
+.legal-back {
+  display: inline-block;
+  margin-top: 2rem;
+  color: #e0b5b5;
+  text-decoration: none;
+}
+
+.legal-back:hover { text-decoration: underline; }
 
 /* Reused Modal Styling */
 .info-modal {

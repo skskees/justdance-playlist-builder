@@ -48,6 +48,18 @@ return (
     <button onClick={() => setIsOpen(true)} className="footer-modal-trigger">
         About
     </button>
+
+    <span className="footer-separator">&bull;</span>
+
+    <a href="/privacy" className="footer-link">
+        Privacy Policy
+    </a>
+
+    <span className="footer-separator">&bull;</span>
+
+    <a href="/terms" className="footer-link">
+        Terms of Service
+    </a>
     </div>
 
     {/* Accessible native pop-up box */}
